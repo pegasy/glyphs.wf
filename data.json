@@ -1,0 +1,18 @@
+---
+collectionName: wf-partner
+---
+[{% assign collection = site.collections | where: 'label', page.collectionName | first %}{% for tag in collection.docs %}{% if forloop.index0 != 0%},{% endif %}{
+{% if tag.glyphname %}"glyphname": "{{ tag.glyphname }}",
+{% endif %}{% if tag.glyphurl %}"glyphurl": "{{ tag.glyphurl }}",
+{% endif %}{% if tag.glyphwave %}"glyphwave": "{{ tag.glyphwave }}",
+{% endif %}{% if tag.youtube %}"youtube": "{{ tag.youtube }}",
+{% endif %}{% if tag.twitch %}"twitch": "{{ tag.twitch }}",
+{% endif %}{% if tag.twitter %}"twitter": "{{ tag.twitter }}",
+{% endif %}{% if tag.discord %}"discord": "{{ tag.discord }}",
+{% endif %}{% if tag.other-site %}"other-site": "{{ tag.other-site }}",
+{% endif %}{% if tag.primary-language %}"primary-language": "{{ tag.primary-language }}",
+{% endif %}{% if tag.global-glyph-code %}"global-glyph-code": "{{ tag.global-glyph-code }}",
+{% endif %}{% if tag.currently-partnered %}"currently-partnered": "{{ tag.currently-partnered }}",
+{% endif %}{% if tag.stream-currency-needed-for-glyph %}"stream-currency-needed-for-glyph": "{{ tag.stream-currency-needed-for-glyph }}",
+{% endif %}{% if tag.title %}"title": "{{ tag.title }}"
+{% endif %}}{% endfor %}]

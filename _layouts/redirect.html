@@ -1,0 +1,17 @@
+---
+link: http://google.com
+title: 
+---
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="refresh" content="0; url={{ page.link }}">
+    <link rel="canonical" href="{{ page.link }}" />
+</head>
+<body>
+<a href="{{ page.link }}"><h1>{{ page.link }}</h1></a>
+</body>
+
+</html>

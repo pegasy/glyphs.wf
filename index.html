@@ -1,0 +1,17 @@
+---
+layout: default
+title: Jordas Verdict Builds
+collectionName: wf-partner
+---
+<div>
+  <h1>{{ page.title}}</h1>
+  {% assign collection = site.collections | where: 'label', page.collectionName | first %}
+  {% for tag in collection.docs %}
+  {% if tag.title == 'Template' %}
+    {% continue %}
+  {% endif %}
+  <h2>
+    <a href="{{ tag.url }}">{{ tag.title }}</a>
+  </h2>
+  {% endfor %} 
+</div>

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.glyphurl %}
+    <img src="{{ page.glyphurl }}" alt="{{ page.title }}" />
+  {% endif %}
+
+  <p>
+    {% if page.glyphname  %}
+      <span class="glyphname">{{ page.glyphname }}</span>
+    {% endif %}
+    
+    {% if page.glyphwave  %}
+      (wave <span class="glyphwave">{{ page.glyphwave }}</span>)
+    {% endif %}
+    
+    {% if page.youtube  %}
+      | <a class="youtube" href="{{ page.youtube }}">YouTube</a>
+    {% endif %}
+    
+    {% if page.twitch  %}
+      | <a class="twitch" href="{{ page.twitch }}">Twitch</a>
+    {% endif %}
+    
+    {% if page.twitter  %}
+      | <a class="twitter" href="{{ page.twitter }}">Twitter</a>
+    {% endif %}
+    
+    {% if page.discord  %}
+      | <a class="discord" href="{{ page.twitter }}">Discord</a>
+    {% endif %}
+  </p>
+    {% if page.other-site  %}
+      <p>Website: <a class="other-site" href="{{ page.other-site }}">{{ page.other-site}}</a></p>
+    {% endif %}
+
+  <h2>
+    <a href="{{ tag.url }}">{{ tag.title }}</a>
+  </h2>
+</div>
+{% assign scontent = content | strip_newlines %}
+{% if scontent != "" %}
+    <h2>How to aquire</h2>
+    {{ content }}
+{% endif %}

@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Posts glyph codes on Twitter after new updates
+* Posts glyph codes on Facebook
+* You can ask for a glyph during Saturday giveaways on Twitch stream

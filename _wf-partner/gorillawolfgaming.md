@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Follow and ask for a glyph when they are streaming warframe on Twitch

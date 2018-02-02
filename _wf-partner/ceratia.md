@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Twitch Raffle
+* Twitch Subscription
+* Watch Twitch stream for 50 hours then type !claimglyph (Glyphs given out off-stream)

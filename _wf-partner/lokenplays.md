@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Twitch Subscription
+* 100 Lokenbucks on Streamlabs via browser or Stream widget

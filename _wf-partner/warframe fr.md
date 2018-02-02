@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Send him a gift in warframe (ex. Forma Bundles) (IGN: -EvilShadowFR-)
+* Contests/Raffles on Social Media

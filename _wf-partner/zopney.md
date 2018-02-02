@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Info can be found [here](https://pastebin.com/h9q3aJ3W)

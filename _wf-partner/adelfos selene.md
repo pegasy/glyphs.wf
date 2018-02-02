@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Watch stream for 50 hours (!cookies to check) and ask for glyph.
+* Twitch Subscription

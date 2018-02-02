@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Follow him on Twitch then type !redeem glyph in chat
+* Watch stream for 1 hour (120 derps) and redeem with StreamLabs

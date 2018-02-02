@@ -10,8 +10,7 @@ twitter: https://twitter.com/Potato_Powered
 discord: https://discord.gg/tacticalpotato
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: TACTICALPOTATO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-

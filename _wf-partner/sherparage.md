@@ -12,6 +12,8 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 2500
 ---
-
+* Glyph giveaway on Twitch channel
+* Buy a glyph code with 2500 forma (stream currency) from StreamElements store
+* Twitch Subscription

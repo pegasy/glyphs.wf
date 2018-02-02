@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaways on Twitch streams
+* Reach level 20 on discord (by chatting).

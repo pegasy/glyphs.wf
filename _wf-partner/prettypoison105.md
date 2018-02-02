@@ -12,6 +12,10 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 4200
 ---
+* Watch stream on Twitch for 69 hours and earn 4200 noots (Stream currency)
+* Glyph giveaways on Twitch
+* Twitch Subscription
+* [GameWisp Subscription](https://gamewisp.com/prettypoison105)
 

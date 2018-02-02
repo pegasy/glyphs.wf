@@ -10,7 +10,7 @@ twitter: http://twitter.com/Mogamu
 discord: https://discord.gg/5ypt2T
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MOGAMU
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

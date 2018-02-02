@@ -15,11 +15,15 @@ layout: default
     {% if page.youtube %}| <a class="youtube" href="{{ page.youtube }}">YouTube</a>{% endif %}
     {% if page.twitch %}| <a class="twitch" href="{{ page.twitch }}">Twitch</a>{% endif %}
     {% if page.twitter %}| <a class="twitter" href="{{ page.twitter }}">Twitter</a>{% endif %}
-    {% if page.discord %}| <a class="discord" href="{{ page.twitter }}">Discord</a>{% endif %}
+    {% if page.discord %}| <a class="discord" href="{{ page.discord }}">Discord</a>{% endif %}
   </p>
+  
+    {% if page.global-glyph-code %}
+      <p>Global glyph code: <a class="global-glyph-code" href="https://www.warframe.com/promocode?code={{ page.global-glyph-code }}">{{ page.global-glyph-code}}</a></p>
+    {% endif %}
 
     {% if page.other-site %}
-      <p>Website: <a class="other-site" href="{{ page.other-site }}">{{ page.other-site}}</a></p>
+      <p>Website: <a class="other-site" href="{{ page.other-site }}">{{ page.other-site }}</a></p>
     {% endif %}
     
     {% if page.stream-currency-needed-for-glyph %}

@@ -10,7 +10,7 @@ twitter: https://twitter.com/wickedjecht
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: ORIGINALWICKEDFUN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

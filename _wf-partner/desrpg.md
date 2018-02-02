@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* PM him on [Facebook](https://www.facebook.com/DesRPG)

@@ -12,6 +12,8 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 5000
 ---
-
+* Raffles on Twtich
+* Twitch Subscription
+* 5000 Tacos on StreamElements

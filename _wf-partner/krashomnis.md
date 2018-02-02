@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Drops codes on Twitter
+* Base Tier [Patreon](https://www.patreon.com/krashomnis)

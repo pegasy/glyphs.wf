@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Random Twitch giveaways
+* Redeem on Streamlabs extension for 450 lives
+* Twitch Subscription

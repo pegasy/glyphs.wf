@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Drops glyph codes on Twitch
+* Gift him forma bundle (IGN: RavenNSector) and PM on discord ([OBR]RavenN#6675)
+* Twitter giveaways

@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Watch for 10 hours and ask in #glyph channel for glyph
+* Subscribe on Twitch
+* Raffles on Twitch

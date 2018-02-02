@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: ADMIRALBAHROO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

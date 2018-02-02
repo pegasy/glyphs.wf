@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Posts a link [here](https://www.youtube.com/user/liquidshadows99/community) that will allow you to redeem a glyph (Link has a set number of uses)
+* 3000 Xa on Twitch
+* Twitch Subscription
+* Base Tier [Patreon](https://www.patreon.com/joeyzero)

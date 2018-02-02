@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Codes in youtube videos (not the “going live on Twitch” ones)
+* Raffles on Twitch
+* Discord giveaways
+* Twitch Subscription

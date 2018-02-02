@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: https://www.warframe.com/promocode?code=BIKEMAN
 primary-language: 
-global-glyph-code: 
+global-glyph-code: BIKEMAN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

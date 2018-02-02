@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaways on Twitch
+* Reach level 20 on discord (by chatting)
+* 15000 Streamlabs Gems
+* Twitch Subscription

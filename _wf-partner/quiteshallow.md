@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaways during art stream on twitch
+* Glyph giveaways for [Patreon](https://www.patreon.com/QuiteShallow) and clan member on discord

@@ -10,7 +10,7 @@ twitter: https://twitter.com/SkillUpYT
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: SKILLUP
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

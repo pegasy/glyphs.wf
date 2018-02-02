@@ -12,6 +12,6 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 3000
 ---
-
+* Buy the glyph with stream currency in StreamElements store (costs 3000 melons / 25 hours)

@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph codes giveaway on Twitch streams
+* Posts glyph codes in random Warframe Partner Twitch streams
+* 500p - 1000p donation
+* $9.99 Subscription on [Gamewisp](https://gamewisp.com/Rageypoo)

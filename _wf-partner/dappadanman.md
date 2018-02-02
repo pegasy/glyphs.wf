@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Twitch glyph raffles while streaming warframe
+* 2000 coins (166.66 hours) on Twitch
+* Twitch Subscription

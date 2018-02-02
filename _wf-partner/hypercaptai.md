@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Raffle on Twitch/Discord

@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Youtube video description / Comments Section

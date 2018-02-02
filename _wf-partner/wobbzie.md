@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Ask a moderator when advertised during Twitch Streams
+* Watch stream and earn 350 teef and redeem while stream is live with extension

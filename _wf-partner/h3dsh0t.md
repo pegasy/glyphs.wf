@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Go to #glyph_request in Discord and type @Taxon glyphs request pc

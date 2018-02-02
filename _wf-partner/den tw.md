@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaway events on Facebook
+* Posts glyph codes on Facebook (Rarely)
+* Youtube videos descriptions

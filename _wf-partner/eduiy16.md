@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Post codes [here](https://eduiy16.jimdo.com/gracias-por-tu-click)
+* Post codes in Youtube videos (usually near the end)

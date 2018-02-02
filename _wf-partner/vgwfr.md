@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Posts glyph codes on Twitter
+* Gift him forma bundle (IGN: sNeewer4)

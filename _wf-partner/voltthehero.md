@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Go to #bot-spam in Discord and type @Taxon glyphs request pc

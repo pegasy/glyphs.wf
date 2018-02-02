@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Twitch Raffles
+* Win one of the plat giveaways on Twitch App / Discord and exchange it for a glyph
+* Twitch Subscription

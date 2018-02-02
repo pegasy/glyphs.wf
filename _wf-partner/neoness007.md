@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Watch stream for 50 hours on Twitch then ask for code in chat
+* Twitch Clips contest
+* Twitch Subscription
+* $5 Tier [Patreon](https://www.patreon.com/NeoNess007)

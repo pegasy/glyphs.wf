@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaways on Twitch, Twitter & Discord
+* Subscribe on Twitch for 2 consecutive months

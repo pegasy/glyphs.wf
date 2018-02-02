@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Raffles on Twitch
+* Redeem on Streamlabs for 8700 Aeonflux

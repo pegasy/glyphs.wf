@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Twitch glyph raffle and posts codes in Twitch chat
+* Twitch Subscription
+* Gamewisp Subscription
+* Posts glyph codes on twitter

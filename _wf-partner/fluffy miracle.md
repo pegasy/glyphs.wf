@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Drops codes in chat (Sometimes with math questions to solve for missing number(s) in code)
+* Discord Raffles/Drops

@@ -10,7 +10,7 @@ twitter: https://twitter.com/xiFlynn
 discord: https://discord.gg/iflynn
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: IFLYNN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -14,4 +14,6 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Watch stream for 50 minutes (10 flames) and redeem a glyph on StreamElements
+* Twitch Subscription
+* [Gamewisp](https://gamewisp.com/bigjimid) Subscription

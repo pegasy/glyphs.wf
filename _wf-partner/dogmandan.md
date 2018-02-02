@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* PM him ingame (IGN: DogManDan) and ask for a glyph
+* PM on any social media and ask for a glyph

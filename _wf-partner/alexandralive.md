@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Redeem with 100 Biscuits (check amount with !biscuits)
+* Twitch Subscription

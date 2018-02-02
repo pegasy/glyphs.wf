@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Purchase glyph with smashbucks (around 100k smashbucks) when it pops up in !store in twitch stream
+* Twitch Subscription

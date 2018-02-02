@@ -12,6 +12,7 @@ other-site:
 primary-language: Thai
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 3000
 ---
-
+* Drops codes in Youtube videos
+* Redeem for 3000 of his Streamlabs currency

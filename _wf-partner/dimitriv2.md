@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Join Discord and type @Taxon glyphs request pc in #glyph-requests
+* Twitch Subscription

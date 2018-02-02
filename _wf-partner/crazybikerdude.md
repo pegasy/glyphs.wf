@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Random Twitch giveaways
+* Drops codes on Twitch (His and other partner’s chats)
+* Be in his discord for 1 month and ask for glyph
+* Twitch Subscription

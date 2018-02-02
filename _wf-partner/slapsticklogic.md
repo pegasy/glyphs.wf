@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Glyph giveaways at random on Twitch
+* Ask a moderator when advertised during Warframe streams on Twitch

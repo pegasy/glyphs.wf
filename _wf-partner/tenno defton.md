@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Posts glyph codes on Twitter
+* Join discord and chat until you reach level 10
+* Twitch giveaways
+* Twitch Subscription

@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Gift him forma bundle (PC IGN: VVhite_Angel)
+* Become a [Tipeee](https://www.tipeee.com/vvhite-angel-warframe)

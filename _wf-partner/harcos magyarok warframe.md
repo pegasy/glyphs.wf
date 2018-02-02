@@ -14,4 +14,4 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Will drop glyph codes in youtube chat during warframe streams on Twitch and YouTube

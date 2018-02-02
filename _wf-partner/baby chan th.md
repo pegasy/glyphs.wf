@@ -14,4 +14,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Drops codes on Twitch/Twitter
+* Posts codes in YouTube video descriptions/comments
+* Gift her 5 forma packs (IGN: xBabychanx)
+* Twitch Subscription or Donations

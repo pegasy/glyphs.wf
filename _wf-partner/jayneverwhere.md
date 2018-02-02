@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Get 600 points in stream and ask for glyph
+* Twitch Subscription

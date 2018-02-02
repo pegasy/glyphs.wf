@@ -14,4 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-
+* Raffles on Twitch
+* Complete a Mercury speedrun under 1 hour on [speedrun.com/wf#Planets](https://www.speedrun.com/wf#Planets)

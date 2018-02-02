@@ -1,4 +1,4 @@
-# WFRSB
+# glyphs.wf
 
 ## How to run jekyll in docker for testing locally
 

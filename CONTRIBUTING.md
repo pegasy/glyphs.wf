@@ -1,6 +1,8 @@
 ## Contributing
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+Hi there! I'm thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+
+If you don't want to use github you can also pm changes / requests / feedback to `Pegasy#0001` on discord (I'm in most major warframe discord so you should be able to find me). 
 
 ## Submitting a pull request
 

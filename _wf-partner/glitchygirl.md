@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/glitchygirl
 twitter: https://twitter.com/KaraGlitch
 discord: https://discord.gg/6yygnpV
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

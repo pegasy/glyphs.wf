@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/rageypoo
 twitter: https://twitter.com/iamrageypoo
 discord: https://discord.gg/sMttRRT
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

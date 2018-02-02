@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/bast_50
 twitter: https://twitter.com/Bast50
 discord: https://discord.gg/bast50
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

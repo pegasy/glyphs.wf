@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/prettypoison105
 twitter: https://twitter.com/prettypoison105
 discord: https://discord.gg/AsQy7bv
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

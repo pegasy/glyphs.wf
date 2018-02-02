@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/kingkacchi90
 twitter: https://twitter.com/MARAKACCHI
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/littlenavi_
 twitter: https://twitter.com/littlenavi_
 discord: https://discord.gg/eZqJUVF
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/porongogamer
 discord: 
 other-site: https://www.facebook.com/porongogamer/
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

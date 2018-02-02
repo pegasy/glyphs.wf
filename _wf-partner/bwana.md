@@ -9,6 +9,8 @@ twitch: http://twitch.tv/bwana
 twitter: https://twitter.com/bwana
 discord: https://discord.gg/bwana
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

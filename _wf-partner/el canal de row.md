@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/juno_y_anya
 twitter: https://twitter.com/JunoRow
 discord: https://discord.gg/rgpknmd
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

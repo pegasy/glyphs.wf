@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/bigjimid
 twitter: https://twitter.com/bigjimgg
 discord: https://discord.gg/Wn3rkvs
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

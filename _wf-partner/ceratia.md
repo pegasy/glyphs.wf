@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/ceratia
 twitter: https://twitter.com/CeratiaTV
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

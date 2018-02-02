@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/qynchou
 twitter: https://twitter.com/Qynchou
 discord: https://discord.gg/WVTJsgz
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

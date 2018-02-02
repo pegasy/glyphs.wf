@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/zakguo
 twitter: 
 discord: 
 other-site: 
+primary-language: Chinese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

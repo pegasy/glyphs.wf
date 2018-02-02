@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/operatordisObs
 discord: https://discord.gg/HPHgyZc
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

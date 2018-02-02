@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/HynkardSector
 discord: 
 other-site: 
+primary-language: French
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

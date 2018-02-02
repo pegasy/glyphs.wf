@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/nrdabears
 twitter: https://twitter.com/NRDabears
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

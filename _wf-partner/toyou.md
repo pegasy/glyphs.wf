@@ -9,6 +9,8 @@ twitch:
 twitter: 
 discord: https://discord.gg/67UGUMx
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

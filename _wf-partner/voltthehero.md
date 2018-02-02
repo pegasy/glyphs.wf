@@ -9,6 +9,8 @@ twitch: https://twitch.tv/voltthehero
 twitter: https://twitter.com/VoltTheHero
 discord: https://discord.gg/S9J95qt
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

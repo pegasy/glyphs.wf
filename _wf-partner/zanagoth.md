@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/zanagoth
 twitter: https://twitter.com/Zanagoth
 discord: https://discord.gg/Phu6YKB
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

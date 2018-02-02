@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/quietteshy
 twitter: https://twitter.com/quiteshallow
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

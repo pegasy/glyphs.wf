@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/officialdogmandan
 twitter: https://twitter.com/nightowlsgaming
 discord: https://discord.gg/hDcH5DH
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

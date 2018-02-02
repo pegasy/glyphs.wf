@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/frozenballz
 twitter: https://twitter.com/Frozenbawz
 discord: https://discord.gg/frozenballz
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

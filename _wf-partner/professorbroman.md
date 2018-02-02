@@ -9,6 +9,8 @@ twitch:
 twitter: 
 discord: 
 other-site: https://www.warframe.com/promocode?code=PROFESSORBROMAN
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

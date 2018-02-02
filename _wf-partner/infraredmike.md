@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/infraredmike
 twitter: https://twitter.com/Infra_Red_Mike
 discord: https://discord.gg/0z0EeQblkX7ENekR
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: http://twitch.tv/ChrisIsHD
 twitter: https://twitter.com/chrisishd_
 discord: https://discord.gg/kitty
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

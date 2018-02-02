@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/captaintutu
 twitter: https://twitter.com/TheCaptainTutu
 discord: https://discord.gg/k8DT82z
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

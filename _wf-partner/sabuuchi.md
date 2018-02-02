@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/sabuuchi
 twitter: https://twitter.com/Sabuuchi
 discord: https://discord.gg/vaj97Ry
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

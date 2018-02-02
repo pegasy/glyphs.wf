@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/rippz0r
 twitter: https://twitter.com/Rippz0r
 discord: https://discord.gg/XRcXgE4
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

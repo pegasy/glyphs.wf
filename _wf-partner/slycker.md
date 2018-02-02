@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/slyckerslk
 twitter: https://twitter.com/Slycker_yt
 discord: https://discord.gg/013WbL1p9Ocyngbow
 other-site: 
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

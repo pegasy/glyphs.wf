@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/joeyzerotv
 twitter: http://twitter.com/joeyzerotv
 discord: https://discord.gg/0XYN4ElrtYtLiNun
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

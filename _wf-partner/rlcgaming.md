@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/rlcgaming
 twitter: https://twitter.com/RLC_Here
 discord: https://discord.gg/vnutB2R
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

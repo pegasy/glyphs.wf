@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/tygastripe
 twitter: https://twitter.com/tygastripe
 discord: https://discord.gg/hBSZUWp
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

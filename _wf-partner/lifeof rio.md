@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/lifeofrio
 twitter: https://twitter.com/lifeofrio
 discord: https://discord.gg/lifeofrio
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

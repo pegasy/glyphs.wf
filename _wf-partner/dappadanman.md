@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/dappadanman
 twitter: https://twitter.com/dappadanman
 discord: https://discord.gg/4UEMs5B
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/gorillawolfgaming
 twitter: https://twitter.com/realgorillawolf
 discord: https://discord.gg/0eC3L7NoeV4YR4x1
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

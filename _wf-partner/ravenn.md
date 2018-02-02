@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/theravennshow
 twitter: https://twitter.com/RavennSector
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

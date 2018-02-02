@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/memesage
 twitter: https://twitter.com/MemeSageZ
 discord: https://discord.gg/msFkrKK
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

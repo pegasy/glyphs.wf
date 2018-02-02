@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/djtechlive
 twitter: https://twitter.com/Djtechlive
 discord: https://discord.gg/0iRaGyTEisNJhx3b
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

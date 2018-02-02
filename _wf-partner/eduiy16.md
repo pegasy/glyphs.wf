@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/eduiy16YT
 discord: 
 other-site: https://eduiy16.jimdo.com/gracias-por-tu-click
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

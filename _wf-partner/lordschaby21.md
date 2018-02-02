@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/schaby21
 twitter: https://twitter.com/Lordschaby21
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

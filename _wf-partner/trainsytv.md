@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/trainsy
 twitter: https://twitter.com/TrainsyTv
 discord: https://discord.gg/012HIIyozgsOiKw8b
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

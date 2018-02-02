@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/vamp6x6x6x
 twitter: https://twitter.com/WarframeMadness
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

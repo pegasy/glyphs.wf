@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/fatefulyt
 twitter: https://twitter.com/FatefulYT
 discord: https://discord.gg/SWpKC8G
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

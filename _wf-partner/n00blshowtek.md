@@ -9,6 +9,8 @@ twitch: http://twitch.tv/n00blshowtek/
 twitter: https://twitter.com/n00blshowtek
 discord: https://discord.gg/hmYXpGQ
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

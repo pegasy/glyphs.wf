@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tgdm
 twitter: https://twitter.com/TennoClockNews
 discord: 
 other-site: http://www.tennoclocknews.com/
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

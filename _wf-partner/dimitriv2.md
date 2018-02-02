@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/dimitriv2
 twitter: https://twitter.com/Dimitri_V2
 discord: https://discord.gg/dimitriv2
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

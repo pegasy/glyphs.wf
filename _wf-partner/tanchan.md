@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tanchancicuta
 twitter: https://twitter.com/O_Tanchan
 discord: 
 other-site: https://beam.pro/tanchan
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

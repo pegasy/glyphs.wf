@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/makarimorph
 twitter: http://www.twitter.com/makarimorph
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

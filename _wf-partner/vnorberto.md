@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/vnorberto
 twitter: https://twitter.com/vNorberto065
 discord: 
 other-site: https://www.facebook.com/NorbertosPcGamesAndVlogs
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

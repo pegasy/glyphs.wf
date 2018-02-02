@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/Porphii
 discord: https://discord.gg/cYNgZUK
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

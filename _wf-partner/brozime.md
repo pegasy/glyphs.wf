@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/brozime
 twitter: http://twitter.com/brozime
 discord: https://discord.gg/Brozime
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

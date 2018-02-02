@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/spacebeastx
 twitter: https://twitter.com/spacebeastx
 discord: https://discordapp.com/invite/0xFqStQ9cqcXb5JA
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

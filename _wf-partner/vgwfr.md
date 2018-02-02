@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/guidewarframefr
 twitter: https://twitter.com/GuideWarframeFR
 discord: https://discordapp.com/invite/k8q5CMB
 other-site: 
+primary-language: French
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

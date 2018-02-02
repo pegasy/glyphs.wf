@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/flare_eyes
 twitter: https://twitter.com/Flare_Eyes
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

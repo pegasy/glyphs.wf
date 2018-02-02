@@ -9,6 +9,8 @@ twitch:
 twitter: 
 discord: https://discord.gg/cute3X3
 other-site: 
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

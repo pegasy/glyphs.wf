@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/unrealyuki
 twitter: https://twitter.com/zfyuki
 discord: https://discord.gg/unrealyuki
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

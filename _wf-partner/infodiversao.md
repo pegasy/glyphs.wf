@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/infodiversao
 twitter: 
 discord: 
 other-site: 
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

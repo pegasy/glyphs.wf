@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tdefton
 twitter: https://twitter.com/TDefton
 discord: https://discord.gg/dBE2Hvg
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

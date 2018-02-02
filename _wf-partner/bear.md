@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/bear
 twitter: https://twitter.com/BearOfTwitch
 discord: https://discord.gg/bear
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

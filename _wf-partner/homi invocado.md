@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/homiyt
 twitter: https://twitter.com/HoMiInVoCaDo
 discord: https://discord.gg/3eHxWef
 other-site: 
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

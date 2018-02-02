@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/mozetas
 twitter: 
 discord: 
 other-site: https://www.facebook.com/cafofodomozetas
+primary-language: Portuguese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

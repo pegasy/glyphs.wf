@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/wickedjecht
 twitter: https://twitter.com/wickedjecht
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

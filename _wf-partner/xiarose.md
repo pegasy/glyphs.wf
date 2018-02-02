@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/xiarose
 twitter: https://twitter.com/XiaRose6
 discord: https://discord.gg/vqkkhvE
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

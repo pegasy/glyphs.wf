@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/mcgamercz
 twitter: https://twitter.com/MCGentlemanCZ
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

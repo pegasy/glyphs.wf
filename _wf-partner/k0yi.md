@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/k0yi
 twitter: https://twitter.com/twitch_k0yi
 discord: https://discord.gg/SmU6twk
 other-site: 
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

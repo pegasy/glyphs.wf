@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/OmniOmegaVoice
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/annoying_killah
 twitter: https://twitter.com/Annoying_killah
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

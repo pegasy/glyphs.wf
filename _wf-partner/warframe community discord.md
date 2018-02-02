@@ -9,6 +9,8 @@ twitch:
 twitter: 
 discord: http://discord.gg/warframe
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

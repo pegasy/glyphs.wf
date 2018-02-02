@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/mogamu
 twitter: http://twitter.com/Mogamu
 discord: https://discord.gg/5ypt2T
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

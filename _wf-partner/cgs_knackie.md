@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/cgs_knackie
 twitter: https://twitter.com/juli3n45
 discord: https://discordapp.com/invite/e3cNCSc
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/aywi
 twitter: 
 discord: 
 other-site: https://vk.com/aywiclub
+primary-language: Russian
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

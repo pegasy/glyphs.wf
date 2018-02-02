@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/bbschainwarden
 twitter: 
 discord: https://discord.me/SS-Channel
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

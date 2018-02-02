@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/desrpg
 twitter: https://twitter.com/DesRPG
 discord: https://discord.gg/FSnxeng
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

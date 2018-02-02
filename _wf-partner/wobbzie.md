@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/wobbzie
 twitter: https://twitter.com/Wobbzie
 discord: https://discord.gg/RHg2WpP
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

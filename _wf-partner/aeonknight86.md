@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/aeonknight86
 twitter: https://twitter.com/AeonKnight86
 discord: https://discord.gg/qrfcvCp
 other-site: https://www.facebook.com/aeonknight86
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

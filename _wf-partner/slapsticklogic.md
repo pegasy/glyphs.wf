@@ -9,6 +9,8 @@ twitch: http://twitch.tv/slapsticklogic
 twitter: https://twitter.com/SlapstickLogic
 discord: https://discord.gg/mVWrtAN
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

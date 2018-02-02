@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/jayneverwhere
 twitter: https://twitter.com/JayNeverwhere
 discord: https://discord.gg/2XhfVs9
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

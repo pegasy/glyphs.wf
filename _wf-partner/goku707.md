@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/goku_707
 twitter: https://twitter.com/Goku_707
 discord: https://discord.gg/0sbqot21rwKGV1ge
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

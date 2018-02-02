@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/kaoiji/
 twitter: https://twitter.com/kaoiji
 discord: https://discord.gg/wP8ecM5
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

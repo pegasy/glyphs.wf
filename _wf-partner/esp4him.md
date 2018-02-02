@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/esp4him
 twitter: http://www.twitter.com/esp4him
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

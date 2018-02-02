@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/relli5000
 twitter: https://twitter.com/relli5k
 discord: https://discord.gg/pRhPgGW
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

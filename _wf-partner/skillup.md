@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/skill_up_gg
 twitter: https://twitter.com/SkillUpYT
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

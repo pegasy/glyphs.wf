@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/sabaiguy
 twitter: https://twitter.com/TheSabaiGuy
 discord: https://discord.gg/Z6CmDWW
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/mycatiskyo
 twitter: https://twitter.com/mycatiskyo
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

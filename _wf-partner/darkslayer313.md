@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/darkslayer313
 twitter: https://twitter.com/darkslayer313
 discord: https://discordapp.com/invite/Fb2MmGx
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

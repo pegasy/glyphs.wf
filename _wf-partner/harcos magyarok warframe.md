@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/hm_fuji
 twitter: 
 discord: https://discord.gg/3jcqeJH
 other-site: https://www.facebook.com/fujiwarframe/
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

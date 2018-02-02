@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/francois878
 twitter: https://twitter.com/Francois878
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

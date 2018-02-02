@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/fromthe70s
 twitter: https://twitter.com/FromThe70sguy
 discord: https://discord.gg/XnfVeEq
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

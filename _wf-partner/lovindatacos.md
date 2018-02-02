@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/lovindatacos
 twitter: https://twitter.com/lovindatacos
 discord: https://discord.gg/lovindatacos
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

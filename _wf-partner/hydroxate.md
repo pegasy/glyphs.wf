@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/hydroxate
 twitter: http://twitter.com/hydroxate
 discord: https://discord.gg/pM6DWbW
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

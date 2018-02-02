@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/leonelgm
 twitter: https://twitter.com/cobayagm
 discord: 
 other-site: 
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

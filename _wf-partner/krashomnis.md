@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/krashomnis
 twitter: https://twitter.com/krashomnis
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

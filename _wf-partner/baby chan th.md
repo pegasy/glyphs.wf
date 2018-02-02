@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/babychanth
 twitter: https://twitter.com/xBabychanTHx
 discord: https://discord.gg/USzaZgM
 other-site: https://www.facebook.com/xBabychanx/
+primary-language: Thai
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

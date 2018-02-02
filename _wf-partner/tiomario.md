@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tiomario
 twitter: https://twitter.com/lTioMario
 discord: https://discord.gg/6vjMK7M
 other-site: 
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

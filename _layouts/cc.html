@@ -11,6 +11,7 @@ layout: default
   <p>
     {% if page.glyphname %}<span class="glyphname">{{ page.glyphname }}</span>{% endif %}
     {% if page.glyphwave %}(wave <span class="glyphwave">{{ page.glyphwave }}</span>){% endif %}
+    {% if page.primary-language %}[<span class="primary-language">{{ page.primary-language }}</span>]{% endif %}
     {% if page.youtube %}| <a class="youtube" href="{{ page.youtube }}">YouTube</a>{% endif %}
     {% if page.twitch %}| <a class="twitch" href="{{ page.twitch }}">Twitch</a>{% endif %}
     {% if page.twitter %}| <a class="twitter" href="{{ page.twitter }}">Twitter</a>{% endif %}

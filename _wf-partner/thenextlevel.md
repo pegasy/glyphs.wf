@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/TNL_Official
 twitter: https://twitter.com/TNLMichel
 discord: https://discord.gg/XNYEJhV
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

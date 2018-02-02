@@ -9,6 +9,8 @@ twitch:
 twitter: https://twitter.com/DankerGrimaldo
 discord: 
 other-site: https://www.facebook.com/ZuculentoDanker/
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

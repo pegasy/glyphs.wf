@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/fluffy_miracle
 twitter: 
 discord: https://discord.gg/CaDRbTU
 other-site: 
+primary-language: Russian
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

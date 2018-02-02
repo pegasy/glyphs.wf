@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/silvershadowfr
 twitter: https://twitter.com/WarframeFR
 discord: 
 other-site: 
+primary-language: French
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tactical_potato_
 twitter: https://twitter.com/Potato_Powered
 discord: https://discord.gg/tacticalpotato
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

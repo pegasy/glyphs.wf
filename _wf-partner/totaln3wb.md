@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/totaln3wb
 twitter: https://twitter.com/Totaln3wb
 discord: https://discord.gg/cjg7uHq
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

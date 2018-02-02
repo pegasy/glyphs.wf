@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/crazybikerdude
 twitter: https://twitter.com/CrazyBikerDude
 discord: https://discord.gg/4Pp6DGx
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

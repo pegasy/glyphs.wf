@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/emovj
 twitter: https://twitter.com/EmocionGames
 discord: 
 other-site: https://www.facebook.com/pages/Emocion-Videojuegos/171890176339755
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

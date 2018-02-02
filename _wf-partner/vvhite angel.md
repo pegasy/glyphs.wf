@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/vvhite_angel
 twitter: https://twitter.com/VVhite_Angel
 discord: https://discord.gg/Ug6XkmF
 other-site: 
+primary-language: French
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

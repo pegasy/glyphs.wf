@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/el_tio_prod
 twitter: https://twitter.com/TioProd
 discord: 
 other-site: 
+primary-language: Spanish
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

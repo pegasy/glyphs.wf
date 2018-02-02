@@ -9,6 +9,8 @@ twitch:
 twitter: 
 discord: 
 other-site: https://www.facebook.com/0Den.tw/
+primary-language: Chinese
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

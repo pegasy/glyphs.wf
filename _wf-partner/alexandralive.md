@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/alexandralive
 twitter: https://twitter.com/AlexGOrlando
 discord: https://discord.gg/rKFG3cz
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

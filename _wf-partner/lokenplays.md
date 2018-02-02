@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/lokenplays
 twitter: https://twitter.com/lokenplays
 discord: https://discord.gg/lokenplays
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

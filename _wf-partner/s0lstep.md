@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/s0lstep
 twitter: https://twitter.com/S0lStep
 discord: https://discord.gg/Tw4fGxR
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

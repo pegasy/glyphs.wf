@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/smashley
 twitter: http://twitter.com/smashleytwitch
 discord: https://discord.gg/0Z09RqdxEppINnaI
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/neoness007
 twitter: https://twitter.com/NeoNess007
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/unclecatth
 twitter: https://twitter.com/UncleCatTH
 discord: 
 other-site: 
+primary-language: Thai
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

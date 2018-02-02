@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/tvsboh
 twitter: https://twitter.com/tvsboh
 discord: https://discordapp.com/invite/tvsboh
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

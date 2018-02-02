@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/dkdiamantes
 twitter: https://twitter.com/DKDiamantes
 discord: https://discord.gg/DKDiamantes
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

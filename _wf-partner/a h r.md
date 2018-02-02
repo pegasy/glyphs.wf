@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/A_H_R
 twitter: https://twitter.com/ImAnthonyHarris
 discord: https://discord.gg/GQW4BWD
 other-site: https://www.facebook.com/groups/HouseOfN3RDs
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

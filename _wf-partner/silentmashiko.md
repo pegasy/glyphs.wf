@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/smashiko
 twitter: 
 discord: https://discord.gg/6KR4fYc
 other-site: https://vk.com/silentmashiko
+primary-language: Russian
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

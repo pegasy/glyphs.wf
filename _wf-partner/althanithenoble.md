@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/althanithenoble
 twitter: https://twitter.com/AlThaniTheNoble
 discord: https://discord.gg/mzXwSRd
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

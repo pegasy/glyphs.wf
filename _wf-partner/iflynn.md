@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/iflynn
 twitter: https://twitter.com/xiFlynn
 discord: https://discord.gg/iflynn
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

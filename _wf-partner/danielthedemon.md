@@ -9,6 +9,8 @@ twitch: http://www.twitch.tv/danielthedemon
 twitter: https://twitter.com/DanieltheDemon
 discord: https://discord.gg/0RoLAVFXFlP6E7R4
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

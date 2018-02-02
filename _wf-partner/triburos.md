@@ -9,6 +9,8 @@ twitch: https://www.twitch.tv/triburos
 twitter: https://twitter.com/Triburos
 discord: 
 other-site: 
+primary-language: 
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

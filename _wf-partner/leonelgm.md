@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Leonel GM (Spanish)
+title: Leonel GM
 glyphname: LEONELGM
 glyphurl: https://i.imgur.com/ciYMLJa.png
 glyphwave: 8

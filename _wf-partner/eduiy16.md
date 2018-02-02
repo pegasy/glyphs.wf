@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Eduiy16 (Spanish)
+title: Eduiy16
 glyphname: EDUIY16
 glyphurl: https://i.imgur.com/2IQLFhp.png
 glyphwave: 4

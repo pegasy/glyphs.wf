@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: AdikDarkCero (Polish)
+title: AdikDarkCero
 glyphname: ADIKDARKCERO
 glyphurl: https://i.imgur.com/MggMeNt.jpg
 glyphwave: 8

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Castielix (French)
+title: Castielix
 glyphname: CASTIELIX
 glyphurl: https://i.imgur.com/q6YZa7T.png
 glyphwave: 3

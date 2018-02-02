@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Roy Gaming (Chinese)
+title: Roy Gaming
 glyphname: ROY GAMING
 glyphurl: https://i.imgur.com/tB13csR.png
 glyphwave: 3

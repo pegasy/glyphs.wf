@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: VVhite Angel (French)
+title: VVhite Angel
 glyphname: VVHITE ANGEL
 glyphurl: https://i.imgur.com/hneeZDQ.png
 glyphwave: 2

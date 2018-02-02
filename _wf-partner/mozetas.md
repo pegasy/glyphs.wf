@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Mozetas (Portuguese)
+title: Mozetas
 glyphname: MOZETAS
 glyphurl: https://i.imgur.com/utJipTZ.png
 glyphwave: 7

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Gamingb*tches (Portuguese)
+title: Gamingb*tches
 glyphname: GAMING B*TCHES
 glyphurl: https://i.imgur.com/Yot7AEt.png
 glyphwave: 7

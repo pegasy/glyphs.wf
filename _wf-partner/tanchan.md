@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Tanchan (Spanish)
+title: Tanchan
 glyphname: TANCHAN
 glyphurl: https://i.imgur.com/aCmeN5M.png
 glyphwave: 2

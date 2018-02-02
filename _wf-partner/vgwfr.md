@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Vidéo Guide Warframe FR (French)
+title: Vidéo Guide Warframe FR
 glyphname: VGWFR
 glyphurl: https://i.imgur.com/gDYwf2s.png
 glyphwave: 3

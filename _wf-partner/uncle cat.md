@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Uncle Cat (Thai)
+title: Uncle Cat
 glyphname: UNCLE CAT
 glyphurl: https://i.imgur.com/dKEUdQZ.png
 glyphwave: 7

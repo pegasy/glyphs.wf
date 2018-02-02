@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: MrSteelWar1337 (Russian)
+title: MrSteelWar1337
 glyphname: MRSTEELWAR
 glyphurl: https://i.imgur.com/nlgpcIg.png
 glyphwave: 9

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: D4NK3R (Spanish)
+title: D4NK3R
 glyphname: D4NK3R
 glyphurl: https://i.imgur.com/GpWH9nP.png
 glyphwave: 3

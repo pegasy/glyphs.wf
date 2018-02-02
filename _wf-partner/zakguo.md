@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Zakguo (Chinese)
+title: Zakguo
 glyphname: ZAKGUO
 glyphurl: https://i.imgur.com/BRIVPcd.png
 glyphwave: 7

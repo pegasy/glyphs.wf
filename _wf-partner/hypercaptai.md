@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Hypercaptai (Turkish)
+title: Hypercaptai
 glyphname: HYPERCAPTAI
 glyphurl: https://i.imgur.com/9uqCJlk.png
 glyphwave: 7

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Vladislava_Lynx (Russian)
+title: Vladislava_Lynx
 glyphname: 
 glyphurl: 
 glyphwave: 9

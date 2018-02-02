@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Xenogelion
+title: FrameFace: Xenogelion
 glyphname: XENOGELION
 glyphurl: https://i.imgur.com/kIKsVav.png
 glyphwave: 2

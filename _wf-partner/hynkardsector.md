@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: HynkardSector (French)
+title: HynkardSector
 glyphname: HYNKARDSECTOR
 glyphurl: https://i.imgur.com/AXBbsGc.png
 glyphwave: 7

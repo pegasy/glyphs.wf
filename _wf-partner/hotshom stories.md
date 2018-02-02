@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Hots'Hom Stories (Russian)
+title: Hots'Hom Stories
 glyphname: HOTS'HOM STORIES
 glyphurl: https://i.imgur.com/Jb9lkrN.png
 glyphwave: 7

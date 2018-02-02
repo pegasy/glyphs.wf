@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Kiwad (Russian)
+title: Kiwad
 glyphname: KIWAD
 glyphurl: https://i.imgur.com/ntydWAy.png
 glyphwave: 4

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Warframe FR (French)
+title: Warframe FR
 glyphname: WARFRAME FR
 glyphurl: https://i.imgur.com/LcRVM58.png
 glyphwave: 5

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Vernoc (German)
+title: Vernoc
 glyphname: VERNOC
 glyphurl: https://i.imgur.com/8VrsRIx.png
 glyphwave: 3

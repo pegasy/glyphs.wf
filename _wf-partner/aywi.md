@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Aywi (Russian)
+title: Aywi
 glyphname: AYWI
 glyphurl: https://i.imgur.com/ng7HjPv.png
 glyphwave: 7

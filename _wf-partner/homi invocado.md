@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: HomiInvacado (Portuguese)
+title: HomiInvacado
 glyphname: HOMI INVOCADO
 glyphurl: https://i.imgur.com/qtdtqvy.png
 glyphwave: 8

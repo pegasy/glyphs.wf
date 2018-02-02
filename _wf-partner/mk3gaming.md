@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: MK3 Gaming (German)
+title: MK3 Gaming
 glyphname: MK3GAMING
 glyphurl: https://i.imgur.com/HZr4WhQ.png
 glyphwave: 4

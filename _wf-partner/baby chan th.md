@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: BabyChan (Thai)
+title: BabyChan
 glyphname: BABY CHAN TH
 glyphurl: https://i.imgur.com/9lzN0yQ.png
 glyphwave: 7

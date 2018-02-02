@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: FluffyMiracle (Russian)
+title: FluffyMiracle
 glyphname: FLUFFY MIRACLE
 glyphurl: https://i.imgur.com/WRQZ3Ze.png
 glyphwave: 7

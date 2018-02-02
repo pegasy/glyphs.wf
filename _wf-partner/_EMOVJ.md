@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: EMOVJ (Spanish)
+title: EMOVJ
 glyphname: 
 glyphurl: 
 glyphwave: 9

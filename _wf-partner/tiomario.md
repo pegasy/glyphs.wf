@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: TioMario (Spanish)
+title: TioMario
 glyphname: TIOMARIO
 glyphurl: https://i.imgur.com/Hw37PC6.png
 glyphwave: 7

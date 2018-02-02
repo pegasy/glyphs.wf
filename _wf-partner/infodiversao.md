@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Infodiversao (Portuguese)
+title: Infodiversao
 glyphname: INFODIVERSAO
 glyphurl: https://i.imgur.com/gujXpyn.png
 glyphwave: 7

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Rakshasa (Taiwanese)
+title: Rakshasa
 glyphname: DAYJOBO
 glyphurl: https://imgur.com/jNEDHNq.png
 glyphwave: 9

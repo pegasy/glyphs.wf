@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: SilentMashiko (Russian)
+title: SilentMashiko
 glyphname: SILENTMASHIKO
 glyphurl: https://i.imgur.com/fUsHp1L.png
 glyphwave: 9

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Den. Tw (Chinese)
+title: Den. Tw
 glyphname: DEN TW
 glyphurl: https://i.imgur.com/c8PlX2e.png
 glyphwave: 3

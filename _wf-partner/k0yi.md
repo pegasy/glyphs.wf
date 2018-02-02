@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: k0yi (Spanish)
+title: k0yi
 glyphname: K0YI
 glyphurl: https://i.imgur.com/QQmWqNT.png
 glyphwave: 8

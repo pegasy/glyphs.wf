@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Slicker Explica (Portuguese)
+title: Slicker Explica
 glyphname: SLYCKER
 glyphurl: https://i.imgur.com/PxUE64n.png
 glyphwave: 4

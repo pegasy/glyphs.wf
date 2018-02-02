@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Raw Steel (Turkish)
+title: Raw Steel
 glyphname: RAW STEEL CLAN
 glyphurl: https://i.imgur.com/CSyUMpY.png
 glyphwave: 7

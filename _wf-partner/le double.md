@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Le_Double (French)
+title: Le_Double
 glyphname: LE DOUBLE
 glyphurl: https://i.imgur.com/mCLah3r.png
 glyphwave: 9

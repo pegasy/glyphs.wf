@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Porongo (Portuguese)
+title: Porongo
 glyphname: PORONGO
 glyphurl: https://i.imgur.com/e8ihG6L.png
 glyphwave: 7

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: El Tio Prod (Spanish)
+title: El Tio Prod
 glyphname: EL TIO PROD
 glyphurl: https://i.imgur.com/dx1ryI5.png
 glyphwave: 7

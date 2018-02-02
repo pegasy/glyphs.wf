@@ -4,15 +4,15 @@ title: glyphs.wf
 collectionName: wf-partner
 ---
 <div>
-  <h1>I hate html / css</h1>
+  <h1>List of Warframe partners</h1>
   <ul>
   {% assign collection = site.collections | where: 'label', page.collectionName | first %}
   {% for tag in collection.docs %}
   {% if tag.title == 'Template' %}
     {% continue %}
   {% endif %}
-  <li>
-  <a class="gl" href="{{ tag.url }}">
+  <li class="gl">
+  <a href="{{ tag.url }}">
   {% if tag.glyphurl %}
     <img class="glyphimage" src="{{ tag.glyphurl }}" alt="{{ tag.title }}" />
   {% endif %}
@@ -20,10 +20,10 @@ collectionName: wf-partner
   <span>
     {% if tag.glyphname %}<span class="glyphname">{{tag.glyphname }}</span>{% endif %}
     {% if tag.glyphwave %}(wave <span class="glyphwave">{{ tag.glyphwave }}</span>){% endif %}
-    {% if tag.youtube %} <a class="youtube" href="{{ tag.youtube }}">YouTube</a>{% endif %}
-    {% if tag.twitch %} <a class="twitch" href="{{ tag.twitch }}">Twitch</a>{% endif %}
-    {% if tag.twitter %} <a class="twitter" href="{{ tag.twitter }}">Twitter</a>{% endif %}
-    {% if tag.discord %} <a class="discord" href="{{ tag.twitter }}">Discord</a>{% endif %}
+    {% if tag.youtube %}| <a class="youtube" href="{{ tag.youtube }}">YouTube</a>{% endif %}
+    {% if tag.twitch %}| <a class="twitch" href="{{ tag.twitch }}">Twitch</a>{% endif %}
+    {% if tag.twitter %}| <a class="twitter" href="{{ tag.twitter }}">Twitter</a>{% endif %}
+    {% if tag.discord %}| <a class="discord" href="{{ tag.twitter }}">Discord</a>{% endif %}
   </span>
 </a>
 </li>

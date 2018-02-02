@@ -4,14 +4,15 @@
 @import 'jekyll-theme-cayman';
 
 .gl {
-    display: inline-block;
-    border: 1px solid black;
+    display: block;
+    //border: 1px solid black;
     line-height: 5em;
     height: 5em;
     margin-bottom: 0.5em;
+    list-style: none;
 }
 
-.gl > img {
+.gl img {
     vertical-align: middle;
     height: 4.5em;
 }

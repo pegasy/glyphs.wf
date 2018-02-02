@@ -1,0 +1,15 @@
+---
+layout: cc
+title: alyekk
+glyphname: ALYEKK
+glyphurl: https://i.imgur.com/yeNyHcY.png
+glyphwave: 9
+youtube: 
+twitch: https://www.twitch.tv/alyekk
+twitter: https://twitter.com/alyekly
+discord: https://discord.gg/KdRuxAV
+other-site: 
+currently-partnered: 
+stream-currency-needed-for-glyph: 
+---
+

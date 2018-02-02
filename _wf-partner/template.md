@@ -7,5 +7,8 @@ glyphwave:
 youtube: 
 twitch: 
 twitter: 
+discord: 
 other-site: 
+currently-partnered: 
+stream-currency-needed-for-glyph: 
 ---

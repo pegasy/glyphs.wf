@@ -14,6 +14,5 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
-* Ask a moderator when advertised during Warframe streams on Twitch
-* Twitch Subscription
-* Successfully prove that you have a sub-15 minute Law of Retribution to zopney (Discord: zopney#7568)
+* Follow him on Twitch, join his Discord, then post your Twitch username in #warframe-glyphs with your platform.
+* Successfully prove that you have a sub-15 minute Law of Retribution to zopney (Discord: zopney#2035).

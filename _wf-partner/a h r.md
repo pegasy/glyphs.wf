@@ -15,3 +15,5 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 ---
 
+* Glyph follower giveaways
+* Subscribe on twitch

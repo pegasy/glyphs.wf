@@ -11,9 +11,8 @@ discord: https://discord.gg/kitty
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 ---
-* Random Twitch giveaways
-* Redeem on Streamlabs extension for 450 lives
+* Redeem on Stream Elements extension for 480 points
 * Twitch Subscription

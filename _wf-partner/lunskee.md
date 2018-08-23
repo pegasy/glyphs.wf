@@ -2,10 +2,10 @@
 layout: cc
 title: LunskeeTV
 glyphname: LUNSKEE
-glyphurl: https://i.imgur.com/pzSHf9w.png
+glyphurl: https://i.imgur.com/CNuLOzG.png
 glyphwave: 1
 youtube: 
-twitch: http://www.twitch.tv/lunskee
+twitch: https://twitch.tv/lunskee
 twitter: http://twitter.com/lunskee
 discord: 
 other-site: 

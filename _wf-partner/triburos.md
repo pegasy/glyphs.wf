@@ -4,8 +4,8 @@ title: Triburos
 glyphname: TRIBUROS
 glyphurl: https://i.imgur.com/38hm2AR.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/Triburos
-twitch: https://www.twitch.tv/triburos
+youtube: https://youtube.com/user/Triburos
+twitch: https://twitch.tv/triburos
 twitter: https://twitter.com/Triburos
 discord: 
 other-site: 

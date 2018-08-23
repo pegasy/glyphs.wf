@@ -1,13 +1,13 @@
 ---
 layout: cc
-title: AdikDarkCero
+title: AdikDarkCero 
 glyphname: ADIKDARKCERO
-glyphurl: https://i.imgur.com/MggMeNt.jpg
+glyphurl: https://i.imgur.com/MggMeNt.png
 glyphwave: 8
-youtube: https://www.youtube.com/user/AdikDarkCero
-twitch: https://www.twitch.tv/adikdarkcero
+youtube: https://youtube.com/user/AdikDarkCero
+twitch: https://twitch.tv/adikdarkcero
 twitter: https://twitter.com/AdikDarkCero
-discord: 
+discord: https://discord.gg/vMCdwM
 other-site: https://www.facebook.com/AdikDarkCeroo/
 primary-language: Polish
 global-glyph-code: 

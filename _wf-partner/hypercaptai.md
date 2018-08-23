@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Hypercaptai
+title: Hypercaptai 
 glyphname: HYPERCAPTAI
-glyphurl: https://i.imgur.com/9uqCJlk.png
+glyphurl: https://i.imgur.com/bpdYD5f.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/hypercaptai
+twitch: https://twitch.tv/hypercaptai
 twitter: 
 discord: https://discord.gg/C3Y7KAg
 other-site: 

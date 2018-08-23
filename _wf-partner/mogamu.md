@@ -2,10 +2,10 @@
 layout: cc
 title: Mogamu
 glyphname: MOGAMU
-glyphurl: https://i.imgur.com/9l11Aum.png
+glyphurl: https://i.imgur.com/vwbJSdJ.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/mogamuTV
-twitch: https://www.twitch.tv/mogamu
+youtube: https://youtube.com/user/mogamuTV
+twitch: https://twitch.tv/mogamu
 twitter: http://twitter.com/Mogamu
 discord: https://discord.gg/5ypt2T
 other-site: 

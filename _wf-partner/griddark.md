@@ -1,13 +1,13 @@
 ---
 layout: cc
-title: griddark
+title: Griddark
 glyphname: GRIDDARK
-glyphurl: https://i.imgur.com/lx9jibn.png
+glyphurl: https://i.imgur.com/UGYfGvH.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/griddark
+twitch: https://twitch.tv/griddark
 twitter: https://twitter.com/griddark
-discord: https://discord.gg/NCQw7rM
+discord: https://discord.gg/griddark
 other-site: 
 primary-language: 
 global-glyph-code: 

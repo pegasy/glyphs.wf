@@ -5,10 +5,10 @@ glyphname: ALTHANITHENOBLE
 glyphurl: https://i.imgur.com/MNhWqzp.png
 glyphwave: 4
 youtube: 
-twitch: http://www.twitch.tv/althanithenoble
+twitch: https://twitch.tv/althanithenoble
 twitter: https://twitter.com/AlThaniTheNoble
 discord: https://discord.gg/mzXwSRd
-other-site: 
+other-site: https://mixer.com/TheNoobles
 primary-language: 
 global-glyph-code: 
 currently-partnered: 

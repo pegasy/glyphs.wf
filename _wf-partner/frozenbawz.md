@@ -2,10 +2,10 @@
 layout: cc
 title: Frozenbawz
 glyphname: FROZENBAWZ
-glyphurl: https://i.imgur.com/UtuIaPd.png
+glyphurl: https://i.imgur.com/l1Ju2lq.png
 glyphwave: 3
-youtube: https://www.youtube.com/c/frozenballzgaming
-twitch: http://www.twitch.tv/frozenballz
+youtube: https://youtube.com/channel/frozenballzgaming
+twitch: https://twitch.tv/frozenballz
 twitter: https://twitter.com/Frozenbawz
 discord: https://discord.gg/frozenballz
 other-site: 

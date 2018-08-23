@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Vernoc
+title: Vernoc 
 glyphname: VERNOC
 glyphurl: https://i.imgur.com/8VrsRIx.png
 glyphwave: 3
-youtube: https://www.youtube.com/user/deBurkholz
-twitch: https://www.twitch.tv/vernoc
+youtube: https://youtube.com/user/deBurkholz
+twitch: https://twitch.tv/vernoc
 twitter: 
 discord: 
 other-site: 

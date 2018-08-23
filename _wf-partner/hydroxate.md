@@ -4,8 +4,8 @@ title: Hydroxate
 glyphname: HYDROXATE
 glyphurl: https://i.imgur.com/Usf5ilQ.png
 glyphwave: 3
-youtube: https://www.youtube.com/channel/UCEvaZUb93z8LmOyLC02Dqog
-twitch: https://www.twitch.tv/hydroxate
+youtube: https://youtube.com/channel/UCEvaZUb93z8LmOyLC02Dqog
+twitch: https://twitch.tv/hydroxate
 twitter: http://twitter.com/hydroxate
 discord: https://discord.gg/pM6DWbW
 other-site: 

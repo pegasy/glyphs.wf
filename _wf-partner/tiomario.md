@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: TioMario
+title: TioMario 
 glyphname: TIOMARIO
 glyphurl: https://i.imgur.com/Hw37PC6.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/tiomario
+twitch: https://twitch.tv/tiomario
 twitter: https://twitter.com/lTioMario
 discord: https://discord.gg/6vjMK7M
 other-site: 

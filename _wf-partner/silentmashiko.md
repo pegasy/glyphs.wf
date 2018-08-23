@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: SilentMashiko
+title: SilentMashiko 
 glyphname: SILENTMASHIKO
 glyphurl: https://i.imgur.com/fUsHp1L.png
 glyphwave: 9
-youtube: http://www.youtube.com/c/SilentMashikoPlays
-twitch: https://www.twitch.tv/smashiko
+youtube: https://youtube.com/channel/SilentMashikoPlays
+twitch: https://twitch.tv/smashiko
 twitter: 
 discord: https://discord.gg/6KR4fYc
 other-site: https://vk.com/silentmashiko

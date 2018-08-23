@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: schaby21
+title: Schabybaby
 glyphname: LORDSCHABY21
 glyphurl: https://i.imgur.com/22vcrZm.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/schaby21
+twitch: https://twitch.tv/schabybaby
 twitter: https://twitter.com/Lordschaby21
 discord: 
 other-site: 

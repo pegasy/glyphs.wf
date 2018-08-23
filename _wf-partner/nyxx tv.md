@@ -5,7 +5,7 @@ glyphname: NYXX TV
 glyphurl: https://i.imgur.com/h8gS2sO.png
 glyphwave: 8
 youtube: 
-twitch: https://www.twitch.tv/nyxx_tv
+twitch: https://twitch.tv/nyxx_tv
 twitter: https://twitter.com/nyxx_tv
 discord: https://discord.gg/Mwsy7kH
 other-site: 

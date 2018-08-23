@@ -2,10 +2,10 @@
 layout: cc
 title: Tactical Potato
 glyphname: TACTICALPOTATO
-glyphurl: https://i.imgur.com/ShQ4qK2.png
+glyphurl: https://i.imgur.com/jZvLC8R.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/Sordats
-twitch: https://www.twitch.tv/tactical_potato_
+youtube: https://youtube.com/user/Sordats
+twitch: https://twitch.tv/tactical_potato_
 twitter: https://twitter.com/Potato_Powered
 discord: https://discord.gg/tacticalpotato
 other-site: 
@@ -14,3 +14,4 @@ global-glyph-code: TACTICALPOTATO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---
+

@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: FluffyMiracle
+title: FluffyMiracle 
 glyphname: FLUFFY MIRACLE
 glyphurl: https://i.imgur.com/WRQZ3Ze.png
 glyphwave: 7
 youtube: 
-twitch: http://www.twitch.tv/fluffy_miracle
+twitch: https://twitch.tv/fluffy_miracle
 twitter: 
 discord: https://discord.gg/CaDRbTU
 other-site: 

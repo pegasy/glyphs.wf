@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: D4NK3R
+title: D4NK3R 
 glyphname: D4NK3R
-glyphurl: https://i.imgur.com/GpWH9nP.png
+glyphurl: https://i.imgur.com/FdKq6bc.png
 glyphwave: 3
-youtube: https://www.youtube.com/D4NK3R
+youtube: https://youtube.com/D4NK3R
 twitch: 
 twitter: https://twitter.com/DankerGrimaldo
 discord: 

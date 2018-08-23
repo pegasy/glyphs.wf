@@ -2,9 +2,9 @@
 layout: cc
 title: DADEYFUE
 glyphname: DADEFUYE
-glyphurl: https://i.imgur.com/TOYzjvL.png
+glyphurl: https://i.imgur.com/XBPu2CJ.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/dejesusadefuye1
+youtube: https://youtube.com/user/dejesusadefuye1
 twitch: 
 twitter: https://twitter.com/daadefuyemedia
 discord: https://discord.gg/JADs4kd

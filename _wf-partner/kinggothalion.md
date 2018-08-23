@@ -2,7 +2,7 @@
 layout: cc
 title: KingGothalion
 glyphname: KINGGOTHALION
-glyphurl: https://i.imgur.com/0YOyJZc.png
+glyphurl: https://i.imgur.com/68fcC8V.png
 glyphwave: 7
 youtube: 
 twitch: 

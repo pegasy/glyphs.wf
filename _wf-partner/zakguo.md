@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Zakguo
+title: Zakguo 
 glyphname: ZAKGUO
 glyphurl: https://i.imgur.com/BRIVPcd.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/zakguo
+twitch: https://twitch.tv/zakguo
 twitter: 
 discord: 
 other-site: 

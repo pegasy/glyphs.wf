@@ -4,10 +4,10 @@ title: El canal de Row
 glyphname: EL CANAL DE ROW
 glyphurl: https://i.imgur.com/FUTZGFh.png
 glyphwave: 6
-youtube: https://www.youtube.com/user/rowchanel
-twitch: https://www.twitch.tv/juno_y_anya
+youtube: https://youtube.com/user/rowchanel
+twitch: https://twitch.tv/junowaifu
 twitter: https://twitter.com/JunoRow
-discord: https://discord.gg/rgpknmd
+discord: https://discord.gg/tfEBz9D
 other-site: 
 primary-language: 
 global-glyph-code: 

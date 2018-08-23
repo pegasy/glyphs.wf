@@ -4,8 +4,8 @@ title: TrainsyTV
 glyphname: TRAINSYTV
 glyphurl: https://i.imgur.com/zTedqSq.png
 glyphwave: 3
-youtube: https://www.youtube.com/c/trainsytv
-twitch: https://www.twitch.tv/trainsy
+youtube: https://youtube.com/channel/trainsytv
+twitch: https://twitch.tv/trainsy
 twitter: https://twitter.com/TrainsyTv
 discord: https://discord.gg/012HIIyozgsOiKw8b
 other-site: 

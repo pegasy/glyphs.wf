@@ -2,10 +2,10 @@
 layout: cc
 title: Original Wicked Fun
 glyphname: ORIGINALWICKEDFUN
-glyphurl: https://i.imgur.com/D2OAEju.png
+glyphurl: https://i.imgur.com/yEh8lAQ.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/OriginalWickedfun
-twitch: https://www.twitch.tv/wickedjecht
+youtube: https://youtube.com/user/OriginalWickedfun
+twitch: https://twitch.tv/wickedjecht
 twitter: https://twitter.com/wickedjecht
 discord: 
 other-site: 

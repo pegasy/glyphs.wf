@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Rakshasa
+title: Rakshasa 
 glyphname: DAYJOBO
-glyphurl: https://imgur.com/jNEDHNq.png
+glyphurl: https://i.imgur.com/jNEDHNq.png
 glyphwave: 9
-youtube: https://www.youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
+youtube: https://youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
 twitch: 
 twitter: 
 discord: 

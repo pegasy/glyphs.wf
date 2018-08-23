@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Eduiy16
+title: Eduiy16 
 glyphname: EDUIY16
-glyphurl: https://i.imgur.com/2IQLFhp.png
+glyphurl: https://i.imgur.com/hudZKTL.png
 glyphwave: 4
-youtube: https://www.youtube.com/user/eduiy16
+youtube: https://youtube.com/user/eduiy16
 twitch: 
 twitter: https://twitter.com/eduiy16YT
 discord: 

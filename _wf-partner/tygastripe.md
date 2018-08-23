@@ -4,8 +4,8 @@ title: Tygastripe
 glyphname: TYGASTRIPE
 glyphurl: https://i.imgur.com/GS0vd1o.png
 glyphwave: 3
-youtube: https://www.youtube.com/tygastripetv
-twitch: http://www.twitch.tv/tygastripe
+youtube: https://youtube.com/tygastripetv
+twitch: https://twitch.tv/tygastripe
 twitter: https://twitter.com/tygastripe
 discord: https://discord.gg/hBSZUWp
 other-site: 

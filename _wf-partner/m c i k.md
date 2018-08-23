@@ -2,11 +2,11 @@
 layout: cc
 title: M.C.I.K
 glyphname: M C I K
-glyphurl: https://i.imgur.com/NvQ0cY3.png
+glyphurl: https://i.imgur.com/CRWMNIg.png
 glyphwave: 3
-youtube: https://www.youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
-twitch: https://www.twitch.tv/mycatiskyo
-twitter: https://twitter.com/mycatiskyo
+youtube: https://youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
+twitch: https://twitch.tv/colejamesofficial
+twitter: https://twitter.com/colejofficial
 discord: 
 other-site: 
 primary-language: 

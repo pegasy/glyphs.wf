@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Tanchan
+title: Tanchan 
 glyphname: TANCHAN
-glyphurl: https://i.imgur.com/aCmeN5M.png
+glyphurl: https://i.imgur.com/xcE54N5.png
 glyphwave: 2
-youtube: https://www.youtube.com/c/tanchanes
-twitch: https://www.twitch.tv/tanchancicuta
+youtube: https://youtube.com/channel/tanchanes
+twitch: https://twitch.tv/tanchancicuta
 twitter: https://twitter.com/O_Tanchan
 discord: 
 other-site: https://beam.pro/tanchan

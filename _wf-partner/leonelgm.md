@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Leonel GM
+title: Leonel GM 
 glyphname: LEONELGM
 glyphurl: https://i.imgur.com/ciYMLJa.png
 glyphwave: 8
-youtube: https://www.youtube.com/user/GMLeonel
-twitch: https://www.twitch.tv/leonelgm
+youtube: https://youtube.com/user/GMLeonel
+twitch: https://twitch.tv/leonelgm
 twitter: https://twitter.com/cobayagm
 discord: 
 other-site: 

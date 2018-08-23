@@ -5,7 +5,7 @@ glyphname: IVORYSMOON
 glyphurl: https://i.imgur.com/wsQivgn.png
 glyphwave: 7
 youtube: 
-twitch: https://www.twitch.tv/ivorysmoon
+twitch: https://twitch.tv/ivorysmoon
 twitter: https://twitter.com/Ivorysmoon
 discord: https://discord.gg/ZHBwUYY
 other-site: 

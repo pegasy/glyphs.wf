@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: distant Observer
+title: Distant Observer
 glyphname: DISTANT OBSERVER
 glyphurl: https://i.imgur.com/FuNNkVv.png
 glyphwave: 3
-youtube: https://www.youtube.com/distantobserver
+youtube: https://youtube.com/distantobserver
 twitch: 
 twitter: https://twitter.com/operatordisObs
 discord: https://discord.gg/HPHgyZc

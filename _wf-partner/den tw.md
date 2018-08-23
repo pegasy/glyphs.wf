@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Den. Tw
+title: Den. Tw 
 glyphname: DEN TW
 glyphurl: https://i.imgur.com/c8PlX2e.png
 glyphwave: 3
-youtube: https://www.youtube.com/user/mkonjipl1
+youtube: https://youtube.com/user/mkonjipl1
 twitch: 
 twitter: 
 discord: 

@@ -5,7 +5,7 @@ glyphname: ALYEKK
 glyphurl: https://i.imgur.com/yeNyHcY.png
 glyphwave: 9
 youtube: 
-twitch: https://www.twitch.tv/alyekk
+twitch: https://twitch.tv/alyekk
 twitter: https://twitter.com/alyekly
 discord: https://discord.gg/KdRuxAV
 other-site: 

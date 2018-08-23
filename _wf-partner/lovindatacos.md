@@ -4,10 +4,10 @@ title: LovinDaTacos
 glyphname: LOVINDATACOS
 glyphurl: https://i.imgur.com/zMlj2nl.png
 glyphwave: 7
-youtube: https://www.youtube.com/c/lovindatacos
-twitch: https://www.twitch.tv/lovindatacos
+youtube: https://youtube.com/channel/lovindatacos
+twitch: https://twitch.tv/lovindatacos
 twitter: https://twitter.com/lovindatacos
-discord: https://discord.gg/lovindatacos
+discord: 
 other-site: 
 primary-language: 
 global-glyph-code: 

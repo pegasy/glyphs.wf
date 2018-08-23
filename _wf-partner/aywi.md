@@ -1,11 +1,11 @@
 ---
 layout: cc
-title: Aywi
+title: Aywi 
 glyphname: AYWI
 glyphurl: https://i.imgur.com/ng7HjPv.png
 glyphwave: 7
-youtube: https://www.youtube.com/c/AywiGames
-twitch: https://www.twitch.tv/aywi
+youtube: https://youtube.com/channel/AywiGames
+twitch: https://twitch.tv/aywi
 twitter: 
 discord: 
 other-site: https://vk.com/aywiclub

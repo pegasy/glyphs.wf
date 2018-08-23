@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: BRICKY
-global-glyph-code: 
+global-glyph-code: BRICKY
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: BrickyOrchid8

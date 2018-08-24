@@ -11,7 +11,7 @@ discord:
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 ---
 * Info can be found [here](https://pastebin.com/h9q3aJ3W)

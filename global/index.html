@@ -4,7 +4,6 @@ title: glyphs.wf
 collectionName: wf-partner
 ---
 <div>
-  <h5><a href="/global">List of global codes</a></h5>
   <h1>List of Warframe partners</h2>
   <ul>
   {% assign collection = site.collections | where: 'label', page.collectionName | first %}
@@ -15,6 +14,9 @@ collectionName: wf-partner
   {% if tag.layout != 'cc' %}
     {% continue %}
   {% endif %}
+  {% unless tag.global-glyph-code %}
+    {% continue %}
+  {% endunless %}
   <li class="gl">
   <a href="{{ tag.url }}">
   {% if tag.glyphurl %}
@@ -31,6 +33,7 @@ collectionName: wf-partner
     {% if tag.discord %}| <a class="discord" href="{{ tag.discord }}">Discord</a>{% endif %} -->
   </span>
 </a>
+Redeem: <a class="global-glyph-code" href="https://www.warframe.com/promocode?code={{ tag.global-glyph-code }}">{{ tag.global-glyph-code}}</a>
 </li>
   {% endfor %} 
 </ul>

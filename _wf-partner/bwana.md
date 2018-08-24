@@ -10,7 +10,7 @@ twitter: https://twitter.com/bwana
 discord: https://discord.gg/bwana
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: BWANA
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

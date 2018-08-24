@@ -10,7 +10,7 @@ twitter: https://twitter.com/lil_lexi667/
 discord: https://discord.gg/0hT7sqj0fY8NDNgz
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: LILLEXI
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

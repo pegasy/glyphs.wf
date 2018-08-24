@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: REDDIT
-global-glyph-code: 
+global-glyph-code: r/warframe
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Warframe Reddit

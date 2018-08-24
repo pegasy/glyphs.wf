@@ -10,7 +10,7 @@ twitter: https://twitter.com/HoMiInVoCaDo
 discord: https://discord.gg/3eHxWef
 other-site: 
 primary-language: Portuguese
-global-glyph-code: 
+global-glyph-code: HOMIINVOCADO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

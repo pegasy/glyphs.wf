@@ -10,7 +10,7 @@ twitter: https://twitter.com/colejofficial
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MCIK
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

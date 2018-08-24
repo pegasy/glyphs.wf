@@ -10,7 +10,7 @@ twitter: https://twitter.com/ShulGaming
 discord: https://discord.gg/shul
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: SHUL
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

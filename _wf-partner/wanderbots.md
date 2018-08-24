@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: WANDERBOTS
-global-glyph-code: 
+global-glyph-code: WANDERBOTS
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Wanderbots

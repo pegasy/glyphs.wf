@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: LYNXARIA
-global-glyph-code: 
+global-glyph-code: LYNXARIA
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Lynxaria

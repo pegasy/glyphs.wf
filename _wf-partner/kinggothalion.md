@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: https://www.warframe.com/promocode?code=KINGGOTHALION
 primary-language: 
-global-glyph-code: 
+global-glyph-code: KINGGOTHALION
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

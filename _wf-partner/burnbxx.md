@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: BURNBXX
-global-glyph-code: 
+global-glyph-code: BURNBXX
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Burnbxx

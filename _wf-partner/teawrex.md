@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: TEAWREX
-global-glyph-code: 
+global-glyph-code: TEAWREX
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Teawrex

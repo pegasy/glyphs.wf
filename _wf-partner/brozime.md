@@ -10,7 +10,7 @@ twitter: http://twitter.com/brozime
 discord: https://discord.gg/Brozime
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: BROZIME
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

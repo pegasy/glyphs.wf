@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: https://www.warframe.com/promocode?code=SUMMIT1G
 primary-language: 
-global-glyph-code: 
+global-glyph-code: SUMMIT1G
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

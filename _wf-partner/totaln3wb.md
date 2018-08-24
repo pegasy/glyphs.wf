@@ -10,7 +10,7 @@ twitter: https://twitter.com/Totaln3wb
 discord: https://discord.gg/cjg7uHq
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: TOTALN3WB
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

@@ -10,7 +10,7 @@ twitter: https://twitter.com/MCGentlemanCZ
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MCGAMERCZ
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

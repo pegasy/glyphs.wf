@@ -10,7 +10,7 @@ twitter: https://twitter.com/Djtechlive
 discord: https://discord.gg/0iRaGyTEisNJhx3b
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: DJTECHLIVE
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

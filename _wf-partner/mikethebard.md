@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: MIKETHEBARD
-global-glyph-code: 
+global-glyph-code: MIKETHEBARD
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: MikeTheBard

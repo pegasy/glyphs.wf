@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: STRIPPIN
-global-glyph-code: 
+global-glyph-code: STRIPPIN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Strippin

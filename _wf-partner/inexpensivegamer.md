@@ -10,7 +10,7 @@ twitter: https://twitter.com/inexpensivegamr
 discord: https://discord.gg/inexpensivegamer
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: INEXPENSIVEGAMER
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 ---

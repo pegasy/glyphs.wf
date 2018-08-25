@@ -2,18 +2,18 @@
 collectionName: wf-partner
 ---
 [{% assign collection = site.collections | where: 'label', page.collectionName | first %}{% for tag in collection.docs %}{% if forloop.index0 != 0%},{% endif %}{
-{% if tag.glyphname %}"glyphname": "{{ tag.glyphname }}",
-{% endif %}{% if tag.glyphurl %}"glyphurl": "{{ tag.glyphurl }}",
-{% endif %}{% if tag.glyphwave %}"wave": "{{ tag.glyphwave }}",
-{% endif %}{% if tag.youtube %}"youtube": "{{ tag.youtube }}",
-{% endif %}{% if tag.twitch %}"twitch": "{{ tag.twitch }}",
-{% endif %}{% if tag.twitter %}"twitter": "{{ tag.twitter }}",
-{% endif %}{% if tag.discord %}"discord": "{{ tag.discord }}",
-{% endif %}{% if tag.other-site %}"other-site": "{{ tag.other-site }}",
-{% endif %}{% if tag.primary-language %}"primary-language": "{{ tag.primary-language }}",
-{% endif %}{% if tag.global-glyph-code %}"global-glyph-code": "{{ tag.global-glyph-code }}",
-{% endif %}{% if tag.currently-partnered %}"currently-partnered": "{{ tag.currently-partnered }}",
-{% endif %}{% if tag.content %}"text": "{{ tag.content | strip_newlines | xml_escape }}",
-{% endif %}{% if tag.stream-currency-needed-for-glyph %}"stream-currency-needed-for-glyph": "{{ tag.stream-currency-needed-for-glyph }}",
-{% endif %}"title": "{{ tag.title }}"
+{% if tag.glyphname %}"glyphname": "{{ tag.glyphname }}",{% else %}"glyphname": ""{% endif %}
+{% if tag.glyphurl %}"glyphurl": "{{ tag.glyphurl }}",{% else %}"glyphurl": ""{% endif %}
+{% if tag.glyphwave %}"wave": "{{ tag.glyphwave }}",{% else %}"wave": ""{% endif %}
+{% if tag.youtube %}"youtube": "{{ tag.youtube }}",{% else %}"youtube": ""{% endif %}
+{% if tag.twitch %}"twitch": "{{ tag.twitch }}",{% else %}"twitch": ""{% endif %}
+{% if tag.twitter %}"twitter": "{{ tag.twitter }}",{% else %}"twitter": ""{% endif %}
+{% if tag.discord %}"discord": "{{ tag.discord }}",{% else %}"discord": ""{% endif %}
+{% if tag.other-site %}"other-site": "{{ tag.other-site }}",{% else %}"other-site": ""{% endif %}
+{% if tag.primary-language %}"primary-language": "{{ tag.primary-language }}",{% else %}"primary-language": "English"{% endif %}
+{% if tag.global-glyph-code %}"global-glyph-code": "{{ tag.global-glyph-code }}",{% else %}"global-glyph-code": ""{% endif %}
+{% if tag.currently-partnered %}"currently-partnered": "{{ tag.currently-partnered }}",{% else %}"currently-partnered": ""{% endif %}
+{% if tag.content %}"text": "{{ tag.content | strip_newlines | xml_escape }}",{% else %}"text": ""{% endif %}
+{% if tag.stream-currency-needed-for-glyph %}"stream-currency-needed-for-glyph": "{{ tag.stream-currency-needed-for-glyph }}",{% else %}"stream-currency-needed-for-glyph": ""{% endif %}
+"title": "{{ tag.title }}"
 }{% endfor %}]

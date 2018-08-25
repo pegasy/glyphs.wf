@@ -2,7 +2,7 @@
 layout: cc
 title: Rippz0r
 glyphname: RIPPZ0R
-glyphurl: https://i.imgur.com/PEFhSNp.png
+glyphurl: https://i.imgur.com/QaGaYNW.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/rippz0r

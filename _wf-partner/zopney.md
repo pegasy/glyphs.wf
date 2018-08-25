@@ -2,7 +2,7 @@
 layout: cc
 title: zopney
 glyphname: ZOPNEY
-glyphurl: https://i.imgur.com/QQab7Wd.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Zopney.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/zopney

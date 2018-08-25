@@ -2,7 +2,7 @@
 layout: cc
 title: CaptainTutu
 glyphname: CAPTAINTUTU
-glyphurl: https://i.imgur.com/B45pgoo.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/CaptainTutu.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UC-7CTcR-IXmjUUl-RLTX9oQ
 twitch: https://twitch.tv/captaintutu

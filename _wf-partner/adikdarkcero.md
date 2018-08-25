@@ -2,7 +2,7 @@
 layout: cc
 title: AdikDarkCero 
 glyphname: ADIKDARKCERO
-glyphurl: https://i.imgur.com/MggMeNt.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AdikDarkCero.png
 glyphwave: 8
 youtube: https://youtube.com/user/AdikDarkCero
 twitch: https://twitch.tv/adikdarkcero

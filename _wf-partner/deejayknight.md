@@ -2,7 +2,7 @@
 layout: cc
 title: DeejayKnight
 glyphname: DEEJAYKNIGHT
-glyphurl: https://i.imgur.com/isti1Hn.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DeejayKnight.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/deejayknight

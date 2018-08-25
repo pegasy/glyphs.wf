@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Slivarito
-glyphurl: https://i.imgur.com/i5CIsSY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Slivarito.png
 glyphwave: 14
 youtube: 
 twitch: https://twitch.tv/slivarito

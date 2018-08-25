@@ -2,7 +2,7 @@
 layout: cc
 title: Quiette Shy
 glyphname: QUITESHALLOW
-glyphurl: https://i.imgur.com/PxmsGnA.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/QuiteShallow.png
 glyphwave: 2
 youtube: https://youtube.com/channel/UCLPBnMwDwtOOEegviAyKcEg
 twitch: https://twitch.tv/quietteshy

@@ -2,7 +2,7 @@
 layout: cc
 title: Qynchou
 glyphname: QYNCHOU
-glyphurl: https://i.imgur.com/MwoTHby.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Qynchou.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UC937xh5fYZTDd5hoFzfM94w
 twitch: https://twitch.tv/qynchou

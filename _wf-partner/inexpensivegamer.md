@@ -2,7 +2,7 @@
 layout: cc
 title: InexpensiveGamer
 glyphname: INEXPENSIVEGAMER
-glyphurl: https://i.imgur.com/I8ZHNe4.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/InexpensiveGamer.png
 glyphwave: 6
 youtube: 
 twitch: https://twitch.tv/inexpensivegamer

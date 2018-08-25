@@ -2,7 +2,7 @@
 layout: cc
 title: Zanagoth
 glyphname: ZANAGOTH
-glyphurl: https://i.imgur.com/7nhgSPw.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Zanagoth.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCDhvFvWP-3TPba52Apt_2Pw
 twitch: https://twitch.tv/zanagoth

@@ -2,7 +2,7 @@
 layout: cc
 title: HomiInvacado 
 glyphname: HOMI INVOCADO
-glyphurl: https://i.imgur.com/qtdtqvy.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/HomiInvocado.png
 glyphwave: 8
 youtube: https://youtube.com/user/homiinvocadocanal
 twitch: https://twitch.tv/homiyt

@@ -2,7 +2,7 @@
 layout: cc
 title: Sp00nerism
 glyphname: SP00NERISM
-glyphurl: https://i.imgur.com/vx1vUud.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Sp00nerism.png
 glyphwave: 7
 youtube: 
 twitch: 

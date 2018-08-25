@@ -2,7 +2,7 @@
 layout: cc
 title: s0lstep
 glyphname: S0LSTEP
-glyphurl: https://i.imgur.com/8p9p1tN.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/S0lstep.png
 glyphwave: 6
 youtube: https://youtube.com/channel/s0lstep
 twitch: https://twitch.tv/s0lstep

@@ -2,7 +2,7 @@
 layout: cc
 title: LovinDaTacos
 glyphname: LOVINDATACOS
-glyphurl: https://i.imgur.com/zMlj2nl.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LovinDaTacos.png
 glyphwave: 7
 youtube: https://youtube.com/channel/lovindatacos
 twitch: https://twitch.tv/lovindatacos

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Zotbot
-glyphurl: https://i.imgur.com/XR2e4tM.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Zotbot.png
 glyphwave: 12
 youtube: 
 twitch: https://twitch.tv/zotbot

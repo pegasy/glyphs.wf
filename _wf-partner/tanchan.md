@@ -2,7 +2,7 @@
 layout: cc
 title: Tanchan 
 glyphname: TANCHAN
-glyphurl: https://i.imgur.com/xcE54N5.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Tanchan.png
 glyphwave: 2
 youtube: https://youtube.com/channel/tanchanes
 twitch: https://twitch.tv/tanchancicuta

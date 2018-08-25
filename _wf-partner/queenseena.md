@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: QueenSeena
-glyphurl: https://i.imgur.com/sMoxUdR.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Senastra23.png
 glyphwave: 9
 youtube: https://youtube.com/channel/senastra23
 twitch: https://twitch.tv/queensenaa

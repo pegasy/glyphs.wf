@@ -2,7 +2,7 @@
 layout: cc
 title: Griddark
 glyphname: GRIDDARK
-glyphurl: https://i.imgur.com/UGYfGvH.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Griddark.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/griddark

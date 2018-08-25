@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: ArgonSix
-glyphurl: https://i.imgur.com/jVra4aA.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ArgonSix.png
 glyphwave: 13
 youtube: 
 twitch: https://twitch.tv/argonsix

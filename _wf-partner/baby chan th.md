@@ -1,8 +1,8 @@
 ---
 layout: cc
-title: BabyChan 
+title: Babychan TH 
 glyphname: BABY CHAN TH
-glyphurl: https://i.imgur.com/9lzN0yQ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BabychanTH.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
 twitch: https://twitch.tv/babychanth

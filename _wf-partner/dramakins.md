@@ -2,7 +2,7 @@
 layout: cc
 title: Dramakins
 glyphname: DRAMAKINS
-glyphurl: https://i.imgur.com/S8jiEHq.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Dramakins.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/dramakins

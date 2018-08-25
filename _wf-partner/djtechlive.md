@@ -2,7 +2,7 @@
 layout: cc
 title: DjTechLive
 glyphname: DJTECHLIVE
-glyphurl: https://i.imgur.com/3TFXhZi.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DJTechlive.png
 glyphwave: 8
 youtube: https://youtube.com/channel/DJTechLive
 twitch: https://twitch.tv/djtechlive

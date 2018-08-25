@@ -2,7 +2,7 @@
 layout: cc
 title: Tenno Defton
 glyphname: TENNO DEFTON
-glyphurl: https://i.imgur.com/nO5KvlT.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Tdefton.png
 glyphwave: 4
 youtube: https://youtube.com/tennodefton
 twitch: https://twitch.tv/tdefton

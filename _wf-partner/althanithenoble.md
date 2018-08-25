@@ -2,7 +2,7 @@
 layout: cc
 title: Althanithenoble
 glyphname: ALTHANITHENOBLE
-glyphurl: https://i.imgur.com/MNhWqzp.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Althani.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/althanithenoble

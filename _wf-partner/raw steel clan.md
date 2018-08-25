@@ -2,7 +2,7 @@
 layout: cc
 title: Raw Steel 
 glyphname: RAW STEEL CLAN
-glyphurl: https://i.imgur.com/CSyUMpY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RawSteelClan.png
 glyphwave: 7
 youtube: https://youtube.com/user/rawsteelclan
 twitch: https://twitch.tv/rawsteelclan

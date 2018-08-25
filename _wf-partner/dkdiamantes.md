@@ -2,7 +2,7 @@
 layout: cc
 title: DKDiamantes
 glyphname: DKDIAMANTES
-glyphurl: https://i.imgur.com/lnPX5d7.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DKDiamantes.png
 glyphwave: 1
 youtube: https://youtube.com/user/DKDiamantes
 twitch: https://twitch.tv/dkdiamantes

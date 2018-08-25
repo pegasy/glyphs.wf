@@ -2,7 +2,7 @@
 layout: cc
 title: BBSChainWarden
 glyphname: BBSCHAINWARDEN
-glyphurl: https://i.imgur.com/MVdA59O.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BBSChainWarden.png
 glyphwave: 6
 youtube: https://youtube.com/channel/SerdarSari
 twitch: https://twitch.tv/bbschainwarden

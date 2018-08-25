@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Silver Shadow 
-glyphurl: https://i.imgur.com/hjq6YYp.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/WarframeFR.png
 glyphwave: 5
 youtube: https://youtube.com/user/FranceWarframe
 twitch: https://twitch.tv/silvershadowfr

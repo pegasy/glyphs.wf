@@ -2,7 +2,7 @@
 layout: cc
 title: Jaemz
 glyphname: JAEMZ
-glyphurl: https://i.imgur.com/Laj12k2.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/CrazyBikerDude.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCUmLeHG9qn77mn4rSe-riuQ
 twitch: https://twitch.tv/jaemz
@@ -18,4 +18,3 @@ stream-currency-needed-for-glyph:
 * Drops codes on Twitch (His and other partner’s chats)
 * Be in his discord for 1 month and ask for glyph
 * Twitch Subscription
-

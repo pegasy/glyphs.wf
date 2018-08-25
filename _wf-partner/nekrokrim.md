@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Nekrokrim 
-glyphurl: https://i.imgur.com/QpF2xxH.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Nekrokrim.png
 glyphwave: 11
 youtube: https://youtube.com/user/Nekrokrim
 twitch: https://twitch.tv/nekrokrim

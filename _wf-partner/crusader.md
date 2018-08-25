@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Crusader
-glyphurl: https://i.imgur.com/fTm97OB.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Crusader.png
 glyphwave: 11
 youtube: 
 twitch: https://twitch.tv/crusader

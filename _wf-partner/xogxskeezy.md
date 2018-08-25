@@ -2,7 +2,7 @@
 layout: cc
 title: xOGx Skeezy
 glyphname: XOGXSKEEZY
-glyphurl: https://i.imgur.com/ITnwPVI.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/XOGxSkeezy.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/skeez

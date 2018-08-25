@@ -2,7 +2,7 @@
 layout: cc
 title: CGs_Knackie
 glyphname: CGS_KNACKIE
-glyphurl: https://i.imgur.com/VBW7hmh.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/CGsKnackie.png
 glyphwave: 4
 youtube: https://youtube.com/channel/UCGtyY8k3TsBB6XLk2bVxVdg
 twitch: https://twitch.tv/cgs_knackie

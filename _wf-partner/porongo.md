@@ -2,7 +2,7 @@
 layout: cc
 title: Porongo 
 glyphname: PORONGO
-glyphurl: https://i.imgur.com/e8ihG6L.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Porongo.png
 glyphwave: 7
 youtube: https://youtube.com/PorongoGamer
 twitch: 

@@ -4,8 +4,8 @@ glyphname: FATEFUL
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Fateful
-glyphurl: https://i.imgur.com/jhKL39h.png
+title: FatefulYT
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FatefulYT.png
 glyphwave: 7
 youtube: https://youtube.com/user/FarikoCrystal
 twitch: https://twitch.tv/fateful

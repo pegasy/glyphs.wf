@@ -2,7 +2,7 @@
 layout: cc
 title: LittleNavi
 glyphname: LITTLENAVI
-glyphurl: https://i.imgur.com/8TYRwE9.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LittleNavi.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/littlenavi_

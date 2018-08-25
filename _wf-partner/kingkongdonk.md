@@ -2,7 +2,7 @@
 layout: cc
 title: KingKongDonk
 glyphname: KINGKONGDONK
-glyphurl: https://i.imgur.com/XgCCu6z.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/KingKongDonk.png
 glyphwave: 3
 youtube: https://youtube.com/channel/kingkongdonk
 twitch: https://twitch.tv/kingkongdonk

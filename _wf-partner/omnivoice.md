@@ -2,7 +2,7 @@
 layout: cc
 title: Omni Voice
 glyphname: OMNIVOICE
-glyphurl: https://i.imgur.com/hW3frmN.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/OmniVoice.png
 glyphwave: 7
 youtube: https://youtube.com/user/omniomegavoiceover
 twitch: 

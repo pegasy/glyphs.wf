@@ -2,7 +2,7 @@
 layout: cc
 title: BigJimID
 glyphname: BIGJIMID
-glyphurl: https://i.imgur.com/gLmWGBd.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BigJimID.png
 glyphwave: 4
 youtube: https://youtube.com/user/bigjimid
 twitch: https://twitch.tv/bigjimid

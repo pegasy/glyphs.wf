@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: StallordD
-glyphurl: https://i.imgur.com/SS95GTA.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/StallordD.png
 glyphwave: 15
 youtube: 
 twitch: 

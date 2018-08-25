@@ -2,7 +2,7 @@
 layout: cc
 title: TrainsyTV
 glyphname: TRAINSYTV
-glyphurl: https://i.imgur.com/zTedqSq.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TrainsyTv.png
 glyphwave: 3
 youtube: https://youtube.com/channel/trainsytv
 twitch: https://twitch.tv/trainsy

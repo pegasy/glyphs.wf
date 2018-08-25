@@ -2,7 +2,7 @@
 layout: cc
 title: Leonel GM 
 glyphname: LEONELGM
-glyphurl: https://i.imgur.com/ciYMLJa.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LeonelGM.png
 glyphwave: 8
 youtube: https://youtube.com/user/GMLeonel
 twitch: https://twitch.tv/leonelgm

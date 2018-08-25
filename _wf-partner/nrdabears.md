@@ -2,7 +2,7 @@
 layout: cc
 title: NRDabears
 glyphname: NRDABEARS
-glyphurl: https://i.imgur.com/UoAUvjh.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/NRDabears.png
 glyphwave: 7
 youtube: https://youtube.com/user/Dabears841
 twitch: https://twitch.tv/nrdabears

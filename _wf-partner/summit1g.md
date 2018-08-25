@@ -2,7 +2,7 @@
 layout: cc
 title: Summit1g
 glyphname: SUMMIT1G
-glyphurl: https://i.imgur.com/ItUhBZY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Summit1G.png
 glyphwave: 7
 youtube: 
 twitch: 

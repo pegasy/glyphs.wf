@@ -5,7 +5,7 @@ global-glyph-code: WANDERBOTS
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Wanderbots
-glyphurl: https://i.imgur.com/EyKBEUE.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Wanderbots.png
 glyphwave: 14
 youtube: https://youtube.com/user/wanderbots
 twitch: https://twitch.tv/wanderbot

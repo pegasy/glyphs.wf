@@ -2,7 +2,7 @@
 layout: cc
 title: SherpaRage
 glyphname: SHERPARAGE
-glyphurl: https://i.imgur.com/v7KCdKe.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SherpaRage.png
 glyphwave: 5
 youtube: https://youtube.com/user/sherparage
 twitch: https://twitch.tv/sherparage

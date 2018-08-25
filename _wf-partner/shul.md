@@ -2,7 +2,7 @@
 layout: cc
 title: Shul
 glyphname: SHUL
-glyphurl: https://i.imgur.com/EVOohF8.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ShulGaming.png
 glyphwave: 3
 youtube: 
 twitch: https://twitch.tv/shul

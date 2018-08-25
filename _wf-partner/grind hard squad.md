@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Grind Hard Squad
-glyphurl: 
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GrindHardSquad.png
 glyphwave: 15
 youtube: 
 twitch: 

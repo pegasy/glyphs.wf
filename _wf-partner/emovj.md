@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: EMOVJ 
-glyphurl: https://i.imgur.com/T2eo6zU.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Emovj.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCnn5ijgQMURLHCqZA_L5O0A
 twitch: https://twitch.tv/emovj

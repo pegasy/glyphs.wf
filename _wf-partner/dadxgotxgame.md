@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: DADxGOTxGAME
-glyphurl: https://i.imgur.com/Tv9zCWC.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DadXGotXGame.png
 glyphwave: 14
 youtube: https://youtube.com/channel/dadxgotxgame
 twitch: 

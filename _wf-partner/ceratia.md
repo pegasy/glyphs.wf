@@ -2,7 +2,7 @@
 layout: cc
 title: Ceratia
 glyphname: CERATIA
-glyphurl: https://i.imgur.com/hdZuuOo.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Ceratia.png
 glyphwave: 4
 youtube: https://youtube.com/channel/CeratiaTV
 twitch: https://twitch.tv/ceratia

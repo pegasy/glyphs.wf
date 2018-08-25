@@ -2,7 +2,7 @@
 layout: cc
 title: FromThe70s
 glyphname: FROMTHE70S
-glyphurl: https://i.imgur.com/8g7Ksor.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FromThe70s.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/fromthe70s

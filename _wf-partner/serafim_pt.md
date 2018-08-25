@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: serafim_pt 
-glyphurl: https://i.imgur.com/EetRELV.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SerafimPT.png
 glyphwave: 14
 youtube: 
 twitch: https://twitch.tv/serafim_pt

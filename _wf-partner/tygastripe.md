@@ -2,7 +2,7 @@
 layout: cc
 title: Tygastripe
 glyphname: TYGASTRIPE
-glyphurl: https://i.imgur.com/GS0vd1o.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Tygastripe.png
 glyphwave: 3
 youtube: https://youtube.com/tygastripetv
 twitch: https://twitch.tv/tygastripe

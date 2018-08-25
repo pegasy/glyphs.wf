@@ -2,7 +2,7 @@
 layout: cc
 title: XandyPants
 glyphname: XANDYPANTS
-glyphurl: https://i.imgur.com/DqfN3Bs.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/XandyPants.png
 glyphwave: 6
 youtube: https://youtube.com/channel/UCSYUiqtdg--jpSGJty-ti0A
 twitch: https://twitch.tv/xandypants

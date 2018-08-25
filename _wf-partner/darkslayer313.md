@@ -2,7 +2,7 @@
 layout: cc
 title: Darkslayer313
 glyphname: DARKSLAYER313
-glyphurl: https://i.imgur.com/KVJpYFA.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DarkSlayer313.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UC7VzzRIj59YOKhiZolmA4oQ
 twitch: https://twitch.tv/darkslayer313

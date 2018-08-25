@@ -2,7 +2,7 @@
 layout: cc
 title: Den. Tw 
 glyphname: DEN TW
-glyphurl: https://i.imgur.com/c8PlX2e.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Dentw.png
 glyphwave: 3
 youtube: https://youtube.com/user/mkonjipl1
 twitch: 

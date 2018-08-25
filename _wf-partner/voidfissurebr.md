@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: VoidFissure 
-glyphurl: https://i.imgur.com/QvRzzN8.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VoidFissureBR.png
 glyphwave: 14
 youtube: https://youtube.com/channel/voidfissurebr
 twitch: 

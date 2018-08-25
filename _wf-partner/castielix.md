@@ -2,7 +2,7 @@
 layout: cc
 title: Castielix 
 glyphname: CASTIELIX
-glyphurl: https://i.imgur.com/q6YZa7T.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/CASTiELiX.png
 glyphwave: 3
 youtube: https://youtube.com/user/CASTIELIX
 twitch: https://twitch.tv/castielix

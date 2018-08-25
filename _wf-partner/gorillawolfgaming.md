@@ -2,7 +2,7 @@
 layout: cc
 title: GorillaWolfGaming
 glyphname: GORILLAWOLFGAMING
-glyphurl: https://i.imgur.com/b7T3fRG.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GorillaWolfGaming.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCcWxpSY_ykJ8crmHjoGSY5Q
 twitch: https://twitch.tv/gorillawolfgaming

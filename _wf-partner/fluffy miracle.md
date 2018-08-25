@@ -2,7 +2,7 @@
 layout: cc
 title: FluffyMiracle 
 glyphname: FLUFFY MIRACLE
-glyphurl: https://i.imgur.com/WRQZ3Ze.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FluffyMiracle.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/fluffy_miracle

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: PokketNinja
-glyphurl: https://i.imgur.com/lZCL4Lx.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/PokketNinja.png
 glyphwave: 12
 youtube: https://youtube.com/channel/PokketNinja
 twitch: https://twitch.tv/pokketninja

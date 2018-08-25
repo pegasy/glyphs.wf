@@ -5,7 +5,7 @@ global-glyph-code: LYNXARIA
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Lynxaria
-glyphurl: https://i.imgur.com/C8Z0G5Z.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Lynxaria.png
 glyphwave: 12
 youtube: 
 twitch: https://twitch.tv/lynxaria

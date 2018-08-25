@@ -2,7 +2,7 @@
 layout: cc
 title: SabaiGuy
 glyphname: SABAIGUY
-glyphurl: https://i.imgur.com/Q23SGL5.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SabaiGuy.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/sabaiguy

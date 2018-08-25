@@ -2,7 +2,7 @@
 layout: cc
 title: D4NK3R 
 glyphname: D4NK3R
-glyphurl: https://i.imgur.com/FdKq6bc.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png
 glyphwave: 3
 youtube: https://youtube.com/D4NK3R
 twitch: 

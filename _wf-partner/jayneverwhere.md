@@ -2,7 +2,7 @@
 layout: cc
 title: JayNeverwhere
 glyphname: JAYNEVERWHERE
-glyphurl: https://i.imgur.com/nvWRvMD.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/JayNeverwhere.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/jayneverwhere

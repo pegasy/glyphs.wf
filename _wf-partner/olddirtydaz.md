@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: OldDirtyDaz
-glyphurl: https://i.imgur.com/zPocuKu.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/OldDirtyDaz.png
 glyphwave: 13
 youtube: 
 twitch: https://twitch.tv/olddirtydaz

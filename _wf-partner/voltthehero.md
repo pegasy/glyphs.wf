@@ -2,7 +2,7 @@
 layout: cc
 title: VoltTheHero
 glyphname: VOLTTHEHERO
-glyphurl: https://i.imgur.com/9xapDXE.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VoltTheHero.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UC4rRzEaisREb5WR_Ly3VXZg
 twitch: https://twitch.tv/voltthehero

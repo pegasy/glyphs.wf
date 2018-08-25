@@ -2,7 +2,7 @@
 layout: cc
 title: KrashOmnis
 glyphname: KRASHOMNIS
-glyphurl: https://i.imgur.com/FTuPgI7.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/KrashOmnis.png
 glyphwave: 7
 youtube: https://youtube.com/krashomnis
 twitch: https://twitch.tv/krashomnis

@@ -2,7 +2,7 @@
 layout: cc
 title: Warframe Madness
 glyphname: WARFRAME MADNESS
-glyphurl: https://i.imgur.com/Uo56vrp.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/WarframeMadness.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCjMVasr2dgSOQW_qmWeMgUQ
 twitch: https://twitch.tv/vamp6x6x6x

@@ -2,7 +2,7 @@
 layout: cc
 title: CruxedKat
 glyphname: CHRISISHD
-glyphurl: https://i.imgur.com/oElWj7a.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ChrisIsHD.png
 glyphwave: 7
 youtube: https://youtube.com/channel/CruxedKat
 twitch: https://twitch.tv/CruxedKat

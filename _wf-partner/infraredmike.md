@@ -2,7 +2,7 @@
 layout: cc
 title: Infraredmike
 glyphname: INFRAREDMIKE
-glyphurl: https://i.imgur.com/ZoWyMFH.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/InfraredMike.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/infraredmike

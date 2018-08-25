@@ -2,7 +2,7 @@
 layout: cc
 title: DappaDanMan
 glyphname: DAPPADANMAN
-glyphurl: https://i.imgur.com/N7dCQys.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DappaDanMan.png
 glyphwave: 6
 youtube: https://youtube.com/user/DappaDanProductions
 twitch: https://twitch.tv/dappadanman

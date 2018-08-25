@@ -2,7 +2,7 @@
 layout: cc
 title: Rahetalius
 glyphname: RAHETALIUS
-glyphurl: https://i.imgur.com/EapQMF9.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Rahetalius.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UClecEk_RnQMtZ1jqeQyjhxw
 twitch: 

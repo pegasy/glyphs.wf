@@ -2,7 +2,7 @@
 layout: cc
 title: VVhite Angel 
 glyphname: VVHITE ANGEL
-glyphurl: https://i.imgur.com/hneeZDQ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VVhiteAngel.png
 glyphwave: 2
 youtube: https://youtube.com/channel/UCffeBUU4GfgCouaNt-h_-tw
 twitch: https://twitch.tv/vvhite_angel

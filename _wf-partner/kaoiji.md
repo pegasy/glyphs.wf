@@ -2,7 +2,7 @@
 layout: cc
 title: Kaoiji
 glyphname: KAOIJI
-glyphurl: https://i.imgur.com/lcJdqxC.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kaoiji.png
 glyphwave: 6
 youtube: https://youtube.com/channel/Kaoiji
 twitch: https://twitch.tv/kaoiji

@@ -2,7 +2,7 @@
 layout: cc
 title: Gooperatives
 glyphname: GOOPERATIVES
-glyphurl: https://i.imgur.com/F4lwfbH.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Gooperatives.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/gooperatives

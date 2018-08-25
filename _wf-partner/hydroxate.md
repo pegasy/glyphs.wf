@@ -2,7 +2,7 @@
 layout: cc
 title: Hydroxate
 glyphname: HYDROXATE
-glyphurl: https://i.imgur.com/Usf5ilQ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Hydroxate.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCEvaZUb93z8LmOyLC02Dqog
 twitch: https://twitch.tv/hydroxate

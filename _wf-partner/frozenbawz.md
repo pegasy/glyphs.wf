@@ -2,7 +2,7 @@
 layout: cc
 title: Frozenbawz
 glyphname: FROZENBAWZ
-glyphurl: https://i.imgur.com/l1Ju2lq.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Frozenbawz.png
 glyphwave: 3
 youtube: https://youtube.com/channel/frozenballzgaming
 twitch: https://twitch.tv/frozenballz

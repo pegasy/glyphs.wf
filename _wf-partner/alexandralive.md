@@ -2,7 +2,7 @@
 layout: cc
 title: AlexandraLive
 glyphname: ALEXANDRALIVE
-glyphurl: https://i.imgur.com/x3qk4DS.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AlexandraLive.png
 glyphwave: 7
 youtube: https://youtube.com/channel/AlexandraOrlando
 twitch: https://twitch.tv/alexandralive

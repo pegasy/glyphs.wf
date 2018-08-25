@@ -2,7 +2,7 @@
 layout: cc
 title: KingGothalion
 glyphname: KINGGOTHALION
-glyphurl: https://i.imgur.com/68fcC8V.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/KingGothalion.png
 glyphwave: 7
 youtube: 
 twitch: 

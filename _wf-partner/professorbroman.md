@@ -2,7 +2,7 @@
 layout: cc
 title: ProfessorBroman
 glyphname: PROFESSORBROMAN
-glyphurl: https://i.imgur.com/TyeiVjF.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ProfessorBroman.png
 glyphwave: 7
 youtube: 
 twitch: 

@@ -2,7 +2,7 @@
 layout: cc
 title: Adelfos Selene
 glyphname: ADELFOS SELENE
-glyphurl: https://i.imgur.com/mptbDR9.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AdelfosSelene.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/adelfos_selene

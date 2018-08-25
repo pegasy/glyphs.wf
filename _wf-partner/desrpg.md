@@ -2,7 +2,7 @@
 layout: cc
 title: DesRPG
 glyphname: DESRPG
-glyphurl: https://i.imgur.com/6I1qKvs.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DesRPG.png
 glyphwave: 5
 youtube: https://youtube.com/user/DestroyaRpg
 twitch: https://twitch.tv/desrpg

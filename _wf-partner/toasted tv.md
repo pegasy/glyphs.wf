@@ -2,7 +2,7 @@
 layout: cc
 title: Toasted__TV
 glyphname: TOASTED TV
-glyphurl: https://i.imgur.com/PSlfQ4S.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ToastedTV.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/toasted__tv

@@ -2,7 +2,7 @@
 layout: cc
 title: Mogamu
 glyphname: MOGAMU
-glyphurl: https://i.imgur.com/vwbJSdJ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Mogamu.png
 glyphwave: 1
 youtube: https://youtube.com/user/mogamuTV
 twitch: https://twitch.tv/mogamu

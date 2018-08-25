@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: GlamShatterskull
-glyphurl: 
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GlamShatterskull.png
 glyphwave: 15
 youtube: 
 twitch: https://twitch.tv/glamshatterskull

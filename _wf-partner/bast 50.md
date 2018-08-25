@@ -2,7 +2,7 @@
 layout: cc
 title: Bast_50
 glyphname: BAST 50
-glyphurl: https://i.imgur.com/SMb6fg8.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Bast50.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/bast_50

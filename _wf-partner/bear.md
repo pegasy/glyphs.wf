@@ -2,7 +2,7 @@
 layout: cc
 title: MrBearGaming
 glyphname: BEAR
-glyphurl: https://i.imgur.com/3yRKNnp.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrBearGaming.png
 glyphwave: 3
 youtube: 
 twitch: https://twitch.tv/bear

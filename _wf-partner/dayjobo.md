@@ -2,7 +2,7 @@
 layout: cc
 title: Rakshasa 
 glyphname: DAYJOBO
-glyphurl: https://i.imgur.com/jNEDHNq.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DayJoBo.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
 twitch: 

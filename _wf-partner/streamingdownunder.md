@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: streamingdownunder
-glyphurl: https://i.imgur.com/xOfKWI5.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/StreamingDownUnder.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCP8RhMjq8n6wgbSF9U44ajQ
 twitch: https://twitch.tv/streamingdownunder

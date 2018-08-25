@@ -2,7 +2,7 @@
 layout: cc
 title: AgayGuyplays
 glyphname: AGGP
-glyphurl: https://i.imgur.com/dwGA5RO.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AGGP.png
 glyphwave: 1
 youtube: https://youtube.com/channel/UCvGa_xpJct3pLv-lK3qHnoQ
 twitch: https://twitch.tv/agayguyplays

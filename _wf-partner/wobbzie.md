@@ -2,7 +2,7 @@
 layout: cc
 title: Wobbzie
 glyphname: WOBBZIE
-glyphurl: https://i.imgur.com/QDfvLcy.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Wobbzie.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/wobbzie

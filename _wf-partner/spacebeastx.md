@@ -2,7 +2,7 @@
 layout: cc
 title: Spacebeastx
 glyphname: SPACEBEASTX
-glyphurl: https://i.imgur.com/jRoNU4s.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Spacebeastx.png
 glyphwave: 8
 youtube: https://youtube.com/channel/UCkrsGHNBC1LWqPAjGllM5Fg
 twitch: https://twitch.tv/spacebeastx

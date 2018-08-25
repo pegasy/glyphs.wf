@@ -2,7 +2,7 @@
 layout: cc
 title: Uncle Cat 
 glyphname: UNCLE CAT
-glyphurl: https://i.imgur.com/dKEUdQZ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/UncleCat.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCSKSt1Uo6iHjYeZv8BXdrGg
 twitch: https://twitch.tv/unclecatth

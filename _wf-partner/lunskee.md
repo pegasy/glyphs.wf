@@ -2,7 +2,7 @@
 layout: cc
 title: LunskeeTV
 glyphname: LUNSKEE
-glyphurl: https://i.imgur.com/CNuLOzG.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Lunskee.png
 glyphwave: 1
 youtube: 
 twitch: https://twitch.tv/lunskee

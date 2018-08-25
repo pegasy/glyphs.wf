@@ -2,7 +2,7 @@
 layout: cc
 title: wgrates
 glyphname: WGRATES
-glyphurl: https://i.imgur.com/fY7zokv.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Wgrates.png
 glyphwave: 1
 youtube: https://youtube.com/wgrates
 twitch: https://twitch.tv/wgrates

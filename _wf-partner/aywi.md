@@ -2,7 +2,7 @@
 layout: cc
 title: Aywi 
 glyphname: AYWI
-glyphurl: https://i.imgur.com/ng7HjPv.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Aywi.png
 glyphwave: 7
 youtube: https://youtube.com/channel/AywiGames
 twitch: https://twitch.tv/aywi

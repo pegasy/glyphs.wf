@@ -2,7 +2,7 @@
 layout: cc
 title: Flare Eyes
 glyphname: FLAREEYES
-glyphurl: https://i.imgur.com/4xKvOxM.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FlareEyes.png
 glyphwave: 1
 youtube: 
 twitch: https://twitch.tv/flare_eyes

@@ -2,7 +2,7 @@
 layout: cc
 title: M.C.I.K
 glyphname: M C I K
-glyphurl: https://i.imgur.com/CRWMNIg.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MCIK.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
 twitch: https://twitch.tv/colejamesofficial

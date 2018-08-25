@@ -2,7 +2,7 @@
 layout: cc
 title: MCGamerCZ
 glyphname: MCGAMERCZ
-glyphurl: https://i.imgur.com/whenbL7.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MCGamerCZ.png
 glyphwave: 8
 youtube: https://youtube.com/user/MCGamerCZ
 twitch: https://twitch.tv/mcgamercz

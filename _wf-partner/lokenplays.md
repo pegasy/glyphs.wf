@@ -2,7 +2,7 @@
 layout: cc
 title: LokenPlays
 glyphname: LOKENPLAYS
-glyphurl: https://i.imgur.com/pDMMY6O.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Lokenplays.png
 glyphwave: 1
 youtube: https://youtube.com/user/Lokenplays
 twitch: https://twitch.tv/lokenplays

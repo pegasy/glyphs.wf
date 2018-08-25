@@ -2,7 +2,7 @@
 layout: cc
 title: WoxLi
 glyphname: WOXLI
-glyphurl: https://i.imgur.com/iGPddGF.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Woxli.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/woxli

@@ -2,7 +2,7 @@
 layout: cc
 title: NeoNess 007
 glyphname: NEONESS007
-glyphurl: https://i.imgur.com/wFtfpq3.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/NeoNess.png
 glyphwave: 5
 youtube: https://youtube.com/NeoNess007
 twitch: https://twitch.tv/neoness007

@@ -2,7 +2,7 @@
 layout: cc
 title: 13angTv
 glyphname: 13ANGTV
-glyphurl: https://i.imgur.com/aU3nCTY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/13angTV.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/13angtv

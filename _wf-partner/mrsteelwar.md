@@ -2,7 +2,7 @@
 layout: cc
 title: MrSteelWar1337 
 glyphname: MRSTEELWAR
-glyphurl: https://i.imgur.com/nlgpcIg.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrSteelWar.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCLtJwLdxIOAA1uEDAnCcUxA
 twitch: https://twitch.tv/steelwar1337

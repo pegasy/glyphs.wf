@@ -2,7 +2,7 @@
 layout: cc
 title: Life of Rio
 glyphname: LIFEOF RIO
-glyphurl: https://i.imgur.com/ayx9FkO.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LifeOfRio.png
 glyphwave: 3
 youtube: https://youtube.com/channel/LifeOfRio
 twitch: https://twitch.tv/lifeofrio

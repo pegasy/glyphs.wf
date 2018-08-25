@@ -2,7 +2,7 @@
 layout: cc
 title: Tenno Clock News
 glyphname: TCN
-glyphurl: https://i.imgur.com/5dNAqg2.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TCN.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/tgdm

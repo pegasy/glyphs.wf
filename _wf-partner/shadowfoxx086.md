@@ -2,7 +2,7 @@
 layout: cc
 title: ShadowFoxx086
 glyphname: SHADOWFOXX086
-glyphurl: https://i.imgur.com/CbMcST9.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ShadowFoxx086.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/shadowfox

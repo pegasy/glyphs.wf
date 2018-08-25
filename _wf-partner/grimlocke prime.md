@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: GrimlockePrime
-glyphurl: https://i.imgur.com/ZsCeZmY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GrimlockePrime.png
 glyphwave: 12
 youtube: https://youtube.com/user/solitarybleek
 twitch: 

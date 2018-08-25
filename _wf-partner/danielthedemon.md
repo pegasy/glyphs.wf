@@ -2,7 +2,7 @@
 layout: cc
 title: DanieltheDemon
 glyphname: DANIELTHEDEMON
-glyphurl: https://i.imgur.com/Xwj8OFp.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DanieltheDemon.png
 glyphwave: 2
 youtube: https://youtube.com/danielthedemon
 twitch: https://twitch.tv/danielthedemon

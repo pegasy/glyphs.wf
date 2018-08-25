@@ -2,7 +2,7 @@
 layout: cc
 title: Hots'Hom Stories 
 glyphname: HOTS'HOM STORIES
-glyphurl: https://i.imgur.com/Jb9lkrN.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/HotsHomStories.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCZkq39Y0w8s3pD1AwTnQgKg
 twitch: https://twitch.tv/hotshom

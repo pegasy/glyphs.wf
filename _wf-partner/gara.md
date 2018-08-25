@@ -2,7 +2,7 @@
 layout: cc
 title: Gara
 glyphname: GARA
-glyphurl: https://i.imgur.com/kYH68jC.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/GlassAvatarDark.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCTFejWhiO3nnzecmml_Vzew
 twitch: https://twitch.tv/gara_bezimennii

@@ -2,7 +2,7 @@
 layout: cc
 title: Bikeman
 glyphname: BIKEMAN
-glyphurl: https://i.imgur.com/NCBFSLL.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Bikeman.png
 glyphwave: 7
 youtube: 
 twitch: 

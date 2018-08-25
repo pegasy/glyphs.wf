@@ -5,7 +5,7 @@ global-glyph-code: BRICKY
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: BrickyOrchid8
-glyphurl: https://i.imgur.com/m5GruOC.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Bricky.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCqdcfoz9hDXCXbJDaklkwjQ
 twitch: https://twitch.tv/brickyorchid8

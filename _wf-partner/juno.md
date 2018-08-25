@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: El canal de Row
-glyphurl: https://i.imgur.com/XSHANrm.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ElCanaldeRow.png
 glyphwave: 6
 youtube: https://youtube.com/user/rowchanel
 twitch: https://twitch.tv/junowaifu

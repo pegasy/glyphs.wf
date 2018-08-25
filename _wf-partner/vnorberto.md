@@ -2,7 +2,7 @@
 layout: cc
 title: Norbert Veres
 glyphname: VNORBERTO
-glyphurl: https://i.imgur.com/UV3qCwa.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Vnorberto.png
 glyphwave: 7
 youtube: https://youtube.com/user/vNORBERTO065
 twitch: https://twitch.tv/vnorberto

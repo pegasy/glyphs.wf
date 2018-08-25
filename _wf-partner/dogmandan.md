@@ -2,7 +2,7 @@
 layout: cc
 title: DogManDan
 glyphname: DOGMANDAN
-glyphurl: https://i.imgur.com/kt583p9.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DogManDan.png
 glyphwave: 1
 youtube: https://youtube.com/user/dogmandan75
 twitch: https://twitch.tv/officialdogmandan

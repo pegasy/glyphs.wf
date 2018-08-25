@@ -2,7 +2,7 @@
 layout: cc
 title: Smashley
 glyphname: SMASHLEY
-glyphurl: https://i.imgur.com/wsXzPDa.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Smashley.png
 glyphwave: 3
 youtube: https://youtube.com/user/ashley66444
 twitch: https://twitch.tv/smashley

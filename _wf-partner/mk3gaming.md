@@ -2,7 +2,7 @@
 layout: cc
 title: MK3 Gaming 
 glyphname: MK3GAMING
-glyphurl: https://i.imgur.com/HZr4WhQ.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MK3Gaming.png
 glyphwave: 4
 youtube: https://youtube.com/user/Killburnmk3
 twitch: 

@@ -2,7 +2,7 @@
 layout: cc
 title: UnrealYuki
 glyphname: UNREALYUKI
-glyphurl: https://i.imgur.com/TBMmgCa.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/UnrealYuki.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/unrealyuki

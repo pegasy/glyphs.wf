@@ -2,7 +2,7 @@
 layout: cc
 title: NoSympathyy
 glyphname: NOSYMPATHYY
-glyphurl: https://i.imgur.com/i3fki1I.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/NoSympathyy.png
 glyphwave: 7
 youtube: https://youtube.com/NoSympathyyCA1
 twitch: https://twitch.tv/NoSympathyy

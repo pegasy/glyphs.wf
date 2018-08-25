@@ -2,7 +2,7 @@
 layout: cc
 title: ToYou
 glyphname: TOYOU
-glyphurl: https://i.imgur.com/qB2NTol.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/ToYou.png
 glyphwave: 5
 youtube: https://youtube.com/user/hiltoyou
 twitch: 

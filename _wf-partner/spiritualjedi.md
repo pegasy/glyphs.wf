@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Spiritual Jedi
-glyphurl: https://i.imgur.com/hCfFzVS.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SpiritualJedi.png
 glyphwave: 14
 youtube: 
 twitch: https://twitch.tv/spiritualjedi

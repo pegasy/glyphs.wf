@@ -2,7 +2,7 @@
 layout: cc
 title: Le_Double 
 glyphname: LE DOUBLE
-glyphurl: https://i.imgur.com/mCLah3r.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LeDouble.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/le_double

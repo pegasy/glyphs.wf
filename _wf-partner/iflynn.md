@@ -2,7 +2,7 @@
 layout: cc
 title: iFlynn
 glyphname: IFLYNN
-glyphurl: https://i.imgur.com/vLqJrrf.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Iflynn.png
 glyphwave: 1
 youtube: https://youtube.com/user/xiFlynn
 twitch: https://twitch.tv/iflynn

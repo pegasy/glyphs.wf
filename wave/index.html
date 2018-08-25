@@ -1,0 +1,40 @@
+---
+layout: default
+title: glyphs.wf
+collectionName: wf-partner
+---
+<div>
+  <h1>List of Warframe partners</h2>
+  <ul>
+  {% assign collection = site.collections | where: 'label', page.collectionName | first %}
+  {% for tag in collection.docs %}
+  {% if tag.title == 'Template' %}
+    {% continue %}
+  {% endif %}
+  {% if tag.layout != 'cc' %}
+    {% continue %}
+  {% endif %}
+  {% unless tag.global-glyph-code %}
+    {% continue %}
+  {% endunless %}
+  <li class="gl">
+  <a href="{{ tag.url }}">
+  {% if tag.glyphurl %}
+    <img class="glyphimage" src="{{ tag.glyphurl }}" alt="{{ tag.title }}" />
+  {% endif %}
+
+  <span>
+    {% if tag.glyphname %}<span class="glyphname">{{tag.glyphname }}</span>{% endif %}
+    {% if tag.glyphwave %}(wave <span class="glyphwave">{{ tag.glyphwave }}</span>){% endif %}
+    {% if tag.primary-language %}[<span class="primary-language">{{ tag.primary-language }}</span>]{% endif %}
+    <!-- {% if tag.youtube %}| <a class="youtube" href="{{ tag.youtube }}">YouTube</a>{% endif %}
+    {% if tag.twitch %}| <a class="twitch" href="{{ tag.twitch }}">Twitch</a>{% endif %}
+    {% if tag.twitter %}| <a class="twitter" href="{{ tag.twitter }}">Twitter</a>{% endif %}
+    {% if tag.discord %}| <a class="discord" href="{{ tag.discord }}">Discord</a>{% endif %} -->
+  </span>
+</a>
+Redeem: <a class="global-glyph-code" href="https://www.warframe.com/promocode?code={{ tag.global-glyph-code }}">{{ tag.global-glyph-code}}</a>
+</li>
+  {% endfor %} 
+</ul>
+</div>

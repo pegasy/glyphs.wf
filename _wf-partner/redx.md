@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: RedX
-glyphurl: https://i.imgur.com/SHOGjzh.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RedX.png
 glyphwave: 15
 youtube: 
 twitch: https://twitch.tv/redx

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: LeyzarGaming
-glyphurl: https://i.imgur.com/akYWYnB.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LeyzarViewGaming.png
 glyphwave: 14
 youtube: https://youtube.com/LeyzarGamingViews
 twitch: https://twitch.tv/leyzargamingviews

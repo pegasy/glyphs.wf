@@ -2,7 +2,7 @@
 layout: cc
 title: Roy Gaming 
 glyphname: ROY GAMING
-glyphurl: https://i.imgur.com/tB13csR.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RoyGaming.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCUKEdxP_t9LeyvGow34wsLg
 twitch: 

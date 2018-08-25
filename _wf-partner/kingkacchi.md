@@ -2,7 +2,7 @@
 layout: cc
 title: KingKacchi
 glyphname: KINGKACCHI
-glyphurl: https://i.imgur.com/OkYQ6SM.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kacchi.png
 glyphwave: 4
 youtube: https://youtube.com/user/Kacchi90
 twitch: https://twitch.tv/kingkacchi90

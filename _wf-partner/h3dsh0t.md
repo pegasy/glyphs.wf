@@ -2,7 +2,7 @@
 layout: cc
 title: H3dsh0t
 glyphname: H3DSH0T
-glyphurl: https://i.imgur.com/HPG7721.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/H3dsh0t.png
 glyphwave: 1
 youtube: https://youtube.com/user/youngrozzz
 twitch: https://twitch.tv/h3dsh0t

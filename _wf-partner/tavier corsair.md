@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Tavier Corsair
-glyphurl: https://i.imgur.com/qhU953j.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TavierCorsair.png
 glyphwave: 11
 youtube: https://youtube.com/channel/UC4crGRGgCaiNm3bBc51YAhA
 twitch: https://twitch.tv/taviercorsair

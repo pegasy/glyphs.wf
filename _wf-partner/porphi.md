@@ -2,7 +2,7 @@
 layout: cc
 title: Porphi
 glyphname: PORPHI
-glyphurl: https://i.imgur.com/vkk3d0d.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Porphi.png
 glyphwave: 7
 youtube: https://youtube.com/channel/porphi
 twitch: 

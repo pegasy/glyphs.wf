@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: BackyardisTV
-glyphurl: https://i.imgur.com/jB3kn3f.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BackyardisTV.png
 glyphwave: 12
 youtube: https://youtube.com/BackyardisTV
 twitch: https://twitch.tv/backyardisTV

@@ -2,7 +2,7 @@
 layout: cc
 title: Makarimorph
 glyphname: MAKARIMORPH
-glyphurl: https://i.imgur.com/D57bTLk.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Makarimorph.png
 glyphwave: 6
 youtube: https://youtube.com/razmitex
 twitch: https://twitch.tv/makarimorph

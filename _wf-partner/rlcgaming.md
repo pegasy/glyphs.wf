@@ -2,7 +2,7 @@
 layout: cc
 title: RLCGaming
 glyphname: RLCGAMING
-glyphurl: https://i.imgur.com/Na2AVhe.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RLCGaming.png
 glyphwave: 3
 youtube: https://youtube.com/user/xnuk3rapidz97797
 twitch: https://twitch.tv/rlcgaming

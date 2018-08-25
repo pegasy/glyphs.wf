@@ -2,7 +2,7 @@
 layout: cc
 title: JoeyZero
 glyphname: JOEYZERO
-glyphurl: https://i.imgur.com/8Ce2yg5.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/JoeyZero.png
 glyphwave: 7
 youtube: https://youtube.com/user/liquidshadows99
 twitch: https://twitch.tv/joeyzerotv

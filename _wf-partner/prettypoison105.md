@@ -2,7 +2,7 @@
 layout: cc
 title: Prettypoison105
 glyphname: PRETTYPOISON105
-glyphurl: https://i.imgur.com/7FVxDj2.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/PrettyPoison.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/prettypoison105

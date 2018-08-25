@@ -2,7 +2,7 @@
 layout: cc
 title: Eduiy16 
 glyphname: EDUIY16
-glyphurl: https://i.imgur.com/hudZKTL.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Eduiy16.png
 glyphwave: 4
 youtube: https://youtube.com/user/eduiy16
 twitch: 

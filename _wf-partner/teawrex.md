@@ -5,7 +5,7 @@ global-glyph-code: TEAWREX
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Teawrex
-glyphurl: https://i.imgur.com/zGSVHAm.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Teawrex.png
 glyphwave: 14
 youtube: https://youtube.com/channel/TheTeawrexTwitch
 twitch: https://twitch.tv/teawrex

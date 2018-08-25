@@ -2,7 +2,7 @@
 layout: cc
 title: Schabybaby
 glyphname: LORDSCHABY21
-glyphurl: https://i.imgur.com/22vcrZm.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Lordschaby.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/schabybaby

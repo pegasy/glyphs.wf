@@ -2,7 +2,7 @@
 layout: cc
 title: k0yi 
 glyphname: K0YI
-glyphurl: https://i.imgur.com/QQmWqNT.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/K0yi.png
 glyphwave: 8
 youtube: https://youtube.com/channel/UCOuOTQMmuNJdyzze-yTS5nA
 twitch: https://twitch.tv/k0yi

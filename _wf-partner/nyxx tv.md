@@ -2,7 +2,7 @@
 layout: cc
 title: NyXx_tv
 glyphname: NYXX TV
-glyphurl: https://i.imgur.com/h8gS2sO.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Nyxxtv.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/nyxx_tv

@@ -2,7 +2,7 @@
 layout: cc
 title: XiaRose
 glyphname: XIAROSE
-glyphurl: https://i.imgur.com/W97xwvn.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/XiaRose.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCYzxkQ_Bp940JJe2XBMuTJQ
 twitch: https://twitch.tv/xiarose

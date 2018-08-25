@@ -2,7 +2,7 @@
 layout: cc
 title: Kiwad 
 glyphname: KIWAD
-glyphurl: https://i.imgur.com/ntydWAy.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kiwad.png
 glyphwave: 4
 youtube: https://youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
 twitch: https://twitch.tv/kiwad

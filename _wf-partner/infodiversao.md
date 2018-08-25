@@ -2,7 +2,7 @@
 layout: cc
 title: Infodiversao 
 glyphname: INFODIVERSAO
-glyphurl: https://i.imgur.com/gujXpyn.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Infodiversao.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCQVZw42Hlhg7_Q1Ip36KkrQ
 twitch: https://twitch.tv/infodiversao

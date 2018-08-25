@@ -2,7 +2,7 @@
 layout: cc
 title: FrameFace: Xenogelion
 glyphname: XENOGELION
-glyphurl: https://i.imgur.com/kIKsVav.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Xenogelion.png
 glyphwave: 2
 youtube: https://youtube.com/channel/UCklKSHzWsDN8T-NZwaWwbOw
 twitch: https://twitch.tv/xenogelion2

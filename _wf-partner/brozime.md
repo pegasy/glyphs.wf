@@ -2,7 +2,7 @@
 layout: cc
 title: Brozime
 glyphname: BROZIME
-glyphurl: https://i.imgur.com/RhZeOpv.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Brozime.png
 glyphwave: 4
 youtube: https://youtube.com/Brozime
 twitch: https://twitch.tv/brozime

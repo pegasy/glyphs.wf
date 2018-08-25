@@ -2,7 +2,7 @@
 layout: cc
 title: IvorysMoon
 glyphname: IVORYSMOON
-glyphurl: https://i.imgur.com/wsQivgn.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/IvorysMoon.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/ivorysmoon

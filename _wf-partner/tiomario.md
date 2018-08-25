@@ -2,7 +2,7 @@
 layout: cc
 title: TioMario 
 glyphname: TIOMARIO
-glyphurl: https://i.imgur.com/Hw37PC6.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TioMario.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/tiomario

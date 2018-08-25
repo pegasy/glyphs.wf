@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Blackoni
-glyphurl: https://i.imgur.com/wsPpbbP.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BlackOni.png
 glyphwave: 13
 youtube: 
 twitch: https://twitch.tv/blackoni

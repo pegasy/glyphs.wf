@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: lluull 
-glyphurl: https://i.imgur.com/JiIqzcx.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LluulL.png
 glyphwave: 11
 youtube: https://youtube.com/channel/UCCl4cgnFbvoUwmSB8hdyEPg
 twitch: 

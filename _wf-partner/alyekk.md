@@ -2,7 +2,7 @@
 layout: cc
 title: alyekk
 glyphname: ALYEKK
-glyphurl: https://i.imgur.com/yeNyHcY.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Alyekk.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/alyekk

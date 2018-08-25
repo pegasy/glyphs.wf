@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: The Reaper Hunter
-glyphurl: https://imgur.com/a/9K9ej7n
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TheReaperHunter.png
 glyphwave: 15
 youtube: 
 twitch: https://twitch.tv/reaper_hunter

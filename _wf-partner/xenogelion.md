@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: FrameFace: Xenogelion
+title: Xenogelion
 glyphname: XENOGELION
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Xenogelion.png
 glyphwave: 2

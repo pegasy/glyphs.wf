@@ -4,7 +4,7 @@ glyphname: DOBRATV
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Hypercaptai 
+title: Hypercaptai
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Hypercaptai.png
 glyphwave: 7
 youtube: 

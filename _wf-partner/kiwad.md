@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Kiwad 
+title: Kiwad
 glyphname: KIWAD
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kiwad.png
 glyphwave: 4

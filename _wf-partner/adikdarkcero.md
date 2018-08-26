@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: AdikDarkCero 
+title: AdikDarkCero
 glyphname: ADIKDARKCERO
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AdikDarkCero.png
 glyphwave: 8

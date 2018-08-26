@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Castielix 
+title: Castielix
 glyphname: CASTIELIX
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/CASTiELiX.png
 glyphwave: 3

@@ -4,7 +4,7 @@ glyphname: THEDORTIP
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: TheDorTip 
+title: TheDorTip
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TheDorTip.png
 glyphwave: 10
 youtube: https://youtube.com/channel/UCgg2rFcXdVAO7knAN33yFIg

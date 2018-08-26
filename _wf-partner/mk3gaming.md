@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: MK3 Gaming 
+title: MK3 Gaming
 glyphname: MK3GAMING
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MK3Gaming.png
 glyphwave: 4

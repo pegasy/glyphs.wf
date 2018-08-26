@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Gamingb*tches 
+title: Gamingb*tches
 glyphname: GAMING B*TCHES
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GamingBitches.png
 glyphwave: 7

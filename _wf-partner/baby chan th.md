@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Babychan TH 
+title: Babychan TH
 glyphname: BABY CHAN TH
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BabychanTH.png
 glyphwave: 7

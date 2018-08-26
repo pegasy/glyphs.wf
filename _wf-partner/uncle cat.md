@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Uncle Cat 
+title: Uncle Cat
 glyphname: UNCLE CAT
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/UncleCat.png
 glyphwave: 7

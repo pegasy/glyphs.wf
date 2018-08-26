@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: D4NK3R 
+title: D4NK3R
 glyphname: D4NK3R
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png
 glyphwave: 3

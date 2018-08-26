@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Den. Tw 
+title: Den. Tw
 glyphname: DEN TW
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Dentw.png
 glyphwave: 3

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: MrSteelWar1337 
+title: MrSteelWar1337
 glyphname: MRSTEELWAR
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrSteelWar.png
 glyphwave: 9

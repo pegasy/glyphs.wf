@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Leonel GM 
+title: Leonel GM
 glyphname: LEONELGM
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LeonelGM.png
 glyphwave: 8

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Eduiy16 
+title: Eduiy16
 glyphname: EDUIY16
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Eduiy16.png
 glyphwave: 4

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: FluffyMiracle 
+title: FluffyMiracle
 glyphname: FLUFFY MIRACLE
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FluffyMiracle.png
 glyphwave: 7

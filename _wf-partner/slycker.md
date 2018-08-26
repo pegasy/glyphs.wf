@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Slicker Explica 
+title: Slicker Explica
 glyphname: SLYCKER
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Slycker.png
 glyphwave: 4

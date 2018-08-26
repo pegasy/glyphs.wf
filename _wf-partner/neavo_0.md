@@ -4,7 +4,7 @@ glyphname: NEAVO_0
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Neavo_0 
+title: Neavo_0
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Neavo.png
 glyphwave: 12
 youtube: 

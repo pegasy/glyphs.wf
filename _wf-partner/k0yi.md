@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: k0yi 
+title: k0yi
 glyphname: K0YI
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/K0yi.png
 glyphwave: 8

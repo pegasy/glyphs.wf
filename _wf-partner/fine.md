@@ -4,7 +4,7 @@ glyphname: FINE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Endotti 
+title: Endotti
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Endotti.png
 glyphwave: 14
 youtube: https://youtube.com/channel/UCdoJy3bMyVthhhSwoXzlg_A

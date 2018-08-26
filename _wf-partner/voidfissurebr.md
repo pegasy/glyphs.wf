@@ -4,7 +4,7 @@ glyphname: VOIDFISSUREBR
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: VoidFissure 
+title: VoidFissure
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VoidFissureBR.png
 glyphwave: 14
 youtube: https://youtube.com/channel/voidfissurebr

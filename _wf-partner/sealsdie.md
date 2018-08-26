@@ -4,7 +4,7 @@ glyphname: SEALSDIE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Sealsdie 
+title: Sealsdie
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Sealsdie.png
 glyphwave: 15
 youtube: 

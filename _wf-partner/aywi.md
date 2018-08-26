@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Aywi 
+title: Aywi
 glyphname: AYWI
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Aywi.png
 glyphwave: 7

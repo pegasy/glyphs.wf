@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: VVhite Angel 
+title: VVhite Angel
 glyphname: VVHITE ANGEL
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VVhiteAngel.png
 glyphwave: 2

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Zakguo 
+title: Zakguo
 glyphname: ZAKGUO
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Zakguo.png
 glyphwave: 7

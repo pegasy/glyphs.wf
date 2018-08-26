@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: El Tio Prod 
+title: El Tio Prod
 glyphname: EL TIO PROD
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/EltioProd.png
 glyphwave: 7

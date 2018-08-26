@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Porongo 
+title: Porongo
 glyphname: PORONGO
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Porongo.png
 glyphwave: 7

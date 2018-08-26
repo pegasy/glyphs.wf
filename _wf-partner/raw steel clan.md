@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Raw Steel 
+title: Raw Steel
 glyphname: RAW STEEL CLAN
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RawSteelClan.png
 glyphwave: 7

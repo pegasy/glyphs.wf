@@ -4,7 +4,7 @@ glyphname: MRMORGENSTERN
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: MrMorgenstern 
+title: MrMorgenstern
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrMorgenstern.png
 glyphwave: 10
 youtube: 

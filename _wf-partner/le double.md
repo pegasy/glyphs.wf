@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Le_Double 
+title: Le_Double
 glyphname: LE DOUBLE
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LeDouble.png
 glyphwave: 9

@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: HomiInvacado 
+title: HomiInvacado
 glyphname: HOMI INVOCADO
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/HomiInvocado.png
 glyphwave: 8

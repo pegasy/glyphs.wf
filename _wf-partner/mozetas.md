@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Mozetas 
+title: Mozetas
 glyphname: MOZETAS
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Mozetas.png
 glyphwave: 7

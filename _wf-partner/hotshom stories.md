@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Hots'Hom Stories 
+title: Hots'Hom Stories
 glyphname: HOTS'HOM STORIES
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/HotsHomStories.png
 glyphwave: 7

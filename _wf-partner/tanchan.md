@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Tanchan 
+title: Tanchan
 glyphname: TANCHAN
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Tanchan.png
 glyphwave: 2

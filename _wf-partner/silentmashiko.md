@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: SilentMashiko 
+title: SilentMashiko
 glyphname: SILENTMASHIKO
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SilentMashiko.png
 glyphwave: 9

@@ -4,7 +4,7 @@ glyphname: VLADISLAVA LYNX
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Vladislava_Lynx 
+title: Vladislava_Lynx
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VladislavaLynx.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCjbLrwVXF81glh2jqlu-3FA

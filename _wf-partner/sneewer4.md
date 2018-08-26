@@ -4,7 +4,7 @@ glyphname: SNEEWER4
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Sneewer4 
+title: Sneewer4
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/VGWFR.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCUCrV7O8oCC59JDV-3v0JHg

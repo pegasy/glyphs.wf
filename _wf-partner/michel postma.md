@@ -14,4 +14,5 @@ discord: https://discord.gg/XNYEJhV
 other-site: 
 primary-language: 
 ---
-
+* Youtube video description
+* Glyph giveaways during Twitch Streams

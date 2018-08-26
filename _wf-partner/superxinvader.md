@@ -4,7 +4,7 @@ glyphname: SUPERXINVADER
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Superxinvader
+title: SuperxInvader
 glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Superxinvader.png
 glyphwave: 15
 youtube: 

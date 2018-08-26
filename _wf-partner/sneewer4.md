@@ -14,4 +14,5 @@ discord: https://discord.gg/w6Ac5zy
 other-site: 
 primary-language: French
 ---
-
+* Posts glyph codes on Twitter
+* Gift him forma bundle (IGN: sNeewer4)

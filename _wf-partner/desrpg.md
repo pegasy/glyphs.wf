@@ -2,7 +2,7 @@
 layout: cc
 title: DesRPG
 glyphname: DESRPG
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DesRPG.png
+glyphurl: https://i.glyphs.wf/glyphs/DesRPG.png
 glyphwave: 5
 youtube: https://youtube.com/user/DestroyaRpg
 twitch: https://twitch.tv/desrpg
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * PM him on [Facebook](https://www.facebook.com/DesRPG)

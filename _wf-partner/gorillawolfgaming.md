@@ -2,7 +2,7 @@
 layout: cc
 title: GorillaWolfGaming
 glyphname: GORILLAWOLFGAMING
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GorillaWolfGaming.png
+glyphurl: https://i.glyphs.wf/glyphs/GorillaWolfGaming.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCcWxpSY_ykJ8crmHjoGSY5Q
 twitch: https://twitch.tv/gorillawolfgaming
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Follow and ask for a glyph when they are streaming warframe on Twitch

@@ -2,7 +2,7 @@
 layout: cc
 title: RavenN
 glyphname: RAVENN
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RaVeNZ.png
+glyphurl: https://i.glyphs.wf/glyphs/RaVeNZ.png
 glyphwave: 4
 youtube: https://youtube.com/channel/UCs0u-yJpbJc3zwYbVENUzHQ
 twitch: https://twitch.tv/ravennlefrenchy
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops glyph codes on Twitch
 * Gift him forma bundle (IGN: RavenNSector) and PM on discord ([OBR]RavenN#6675)

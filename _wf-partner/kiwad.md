@@ -2,7 +2,7 @@
 layout: cc
 title: Kiwad
 glyphname: KIWAD
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kiwad.png
+glyphurl: https://i.glyphs.wf/glyphs/Kiwad.png
 glyphwave: 4
 youtube: https://youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
 twitch: https://twitch.tv/kiwad
@@ -13,6 +13,8 @@ primary-language: Russian
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Posts glyph codes on Twitter
 * Accumulate 750 points on Twitch then type !glyph to redeem glyph

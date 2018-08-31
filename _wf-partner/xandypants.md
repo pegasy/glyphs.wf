@@ -2,7 +2,7 @@
 layout: cc
 title: XandyPants
 glyphname: XANDYPANTS
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/XandyPants.png
+glyphurl: https://i.glyphs.wf/glyphs/XandyPants.png
 glyphwave: 6
 youtube: https://youtube.com/channel/UCSYUiqtdg--jpSGJty-ti0A
 twitch: https://twitch.tv/xandypants
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Win a giveaway on discord (ex. Fashionframe Saturdays)
 * Beat him in Drift Frame on Wednesdays on Twitch

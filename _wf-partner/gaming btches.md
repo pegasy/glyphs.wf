@@ -2,7 +2,7 @@
 layout: cc
 title: Gamingb*tches
 glyphname: GAMING B*TCHES
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GamingBitches.png
+glyphurl: https://i.glyphs.wf/glyphs/GamingBitches.png
 glyphwave: 7
 youtube: https://youtube.com/gamingbtches
 twitch: 
@@ -13,5 +13,7 @@ primary-language: Portuguese
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Ask for it on Discord

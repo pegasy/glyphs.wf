@@ -2,7 +2,7 @@
 layout: cc
 title: Lil_Lexi
 glyphname: LIL LEXI
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LilLexi.png
+glyphurl: https://i.glyphs.wf/glyphs/LilLexi.png
 glyphwave: 9
 youtube: https://youtube.com/channel/UCAalGFso9y0v7l7yAw397_g
 twitch: https://twitch.tv/lil_lexi
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: LILLEXI
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

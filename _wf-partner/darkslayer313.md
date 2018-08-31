@@ -2,7 +2,7 @@
 layout: cc
 title: Darkslayer313
 glyphname: DARKSLAYER313
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DarkSlayer313.png
+glyphurl: https://i.glyphs.wf/glyphs/DarkSlayer313.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UC7VzzRIj59YOKhiZolmA4oQ
 twitch: https://twitch.tv/darkslayer313
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Glyph giveaways on Twitch, Twitter & Discord
 * Subscribe on Twitch for 2 consecutive months

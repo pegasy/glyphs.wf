@@ -1,0 +1,14 @@
+<div class="container-fluid mt-4">
+  <div class="row justify-content-center">
+        {% assign collection = site.collections | where: 'label', 'wf-partner' | first %}
+        {% for cc in collection.docs %}
+        {% if cc.title == 'Template' %}
+          {% continue %}
+        {% endif %}
+        {% if cc.layout != 'cc' %}
+          {% continue %}
+        {% endif %}
+          {% include cc.html %}
+        {% endfor %}
+  </div>
+</div>

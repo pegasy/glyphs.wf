@@ -2,7 +2,7 @@
 layout: cc
 title: GogumaGaming
 glyphname: GOGUMAGAMING
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GogumaGaming.png
+glyphurl: https://i.glyphs.wf/glyphs/GogumaGaming.png
 glyphwave: 9
 youtube: https://youtube.com/user/GogumaGaming
 twitch: https://twitch.tv/gogumagaming
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

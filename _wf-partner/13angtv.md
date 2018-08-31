@@ -2,7 +2,7 @@
 layout: cc
 title: 13angTv
 glyphname: 13ANGTV
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/13angTV.png
+glyphurl: https://i.glyphs.wf/glyphs/13angTV.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/13angtv
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops glyph codes in Twitch chat
 * Twitch Subscription

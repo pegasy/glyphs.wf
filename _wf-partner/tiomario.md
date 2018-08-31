@@ -2,7 +2,7 @@
 layout: cc
 title: TioMario
 glyphname: TIOMARIO
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TioMario.png
+glyphurl: https://i.glyphs.wf/glyphs/TioMario.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/tiomario
@@ -13,5 +13,7 @@ primary-language: Spanish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Ask for it in Discord

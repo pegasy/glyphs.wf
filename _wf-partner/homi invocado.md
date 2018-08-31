@@ -2,7 +2,7 @@
 layout: cc
 title: HomiInvacado
 glyphname: HOMI INVOCADO
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/HomiInvocado.png
+glyphurl: https://i.glyphs.wf/glyphs/HomiInvocado.png
 glyphwave: 8
 youtube: https://youtube.com/user/homiinvocadocanal
 twitch: https://twitch.tv/homiyt
@@ -13,5 +13,7 @@ primary-language: Portuguese
 global-glyph-code: HOMIINVOCADO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

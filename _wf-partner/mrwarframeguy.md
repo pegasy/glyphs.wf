@@ -2,7 +2,7 @@
 layout: cc
 title: MrWarframe Guy
 glyphname: MRWARFRAMEGUY
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrWarframeGuy.png
+glyphurl: https://i.glyphs.wf/glyphs/MrWarframeGuy.png
 glyphwave: 7
 youtube: https://youtube.com/channel/Mrwarframeguy
 twitch: 
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops codes in Youtube video descriptions/comments

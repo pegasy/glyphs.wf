@@ -2,7 +2,7 @@
 layout: cc
 title: Smashley
 glyphname: SMASHLEY
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Smashley.png
+glyphurl: https://i.glyphs.wf/glyphs/Smashley.png
 glyphwave: 3
 youtube: https://youtube.com/user/ashley66444
 twitch: https://twitch.tv/smashley
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Purchase glyph with smashbucks (around 100k smashbucks) when it pops up in !store in twitch stream
 * Twitch Subscription

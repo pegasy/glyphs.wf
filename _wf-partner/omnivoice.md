@@ -2,7 +2,7 @@
 layout: cc
 title: Omni Voice
 glyphname: OMNIVOICE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/OmniVoice.png
+glyphurl: https://i.glyphs.wf/glyphs/OmniVoice.png
 glyphwave: 7
 youtube: https://youtube.com/user/omniomegavoiceover
 twitch: 
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Posts keywords in his youtube videos which you can use to redeem a glyph [here](http://xenogelion.com/Hidden/Glyph_Codes.php) (Keywords have a limited amount of uses)

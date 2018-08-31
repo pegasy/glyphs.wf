@@ -2,7 +2,7 @@
 layout: cc
 title: Gara
 glyphname: GARA
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/GlassAvatarDark.png
+glyphurl: https://i.glyphs.wf/glyphs/GlassAvatarDark.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCTFejWhiO3nnzecmml_Vzew
 twitch: https://twitch.tv/gara_bezimennii
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Posts glyph codes on youtube videos

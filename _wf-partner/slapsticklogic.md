@@ -2,7 +2,7 @@
 layout: cc
 title: SlapstickLogic
 glyphname: SLAPSTICKLOGIC
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Slapsticklogic.png
+glyphurl: https://i.glyphs.wf/glyphs/Slapsticklogic.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/slapsticklogic
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Glyph giveaways at random on Twitch
 * Ask a moderator when advertised during Warframe streams on Twitch

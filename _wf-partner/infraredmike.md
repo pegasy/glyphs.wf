@@ -2,7 +2,7 @@
 layout: cc
 title: Infraredmike
 glyphname: INFRAREDMIKE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/InfraredMike.png
+glyphurl: https://i.glyphs.wf/glyphs/InfraredMike.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/infraredmike
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Raffles on Twitch

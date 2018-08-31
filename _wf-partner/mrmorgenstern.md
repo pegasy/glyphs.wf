@@ -5,13 +5,15 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: MrMorgenstern
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrMorgenstern.png
+glyphurl: https://i.glyphs.wf/glyphs/MrMorgenstern.png
 glyphwave: 10
 youtube: 
 twitch: https://twitch.tv/mrmorgenstern
 twitter: https://twitter.com/Dan_Morgenstern
 discord: https://discord.gg/25afCqY
-other-site: https://www.facebook.com/Mr-Morgenstern-494518310928015/
+other-site: 
 primary-language: German
+facebook: https://www.facebook.com/Mr-Morgenstern-494518310928015/
+mixer: 
 ---
 

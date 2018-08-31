@@ -2,7 +2,7 @@
 layout: cc
 title: IvorysMoon
 glyphname: IVORYSMOON
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/IvorysMoon.png
+glyphurl: https://i.glyphs.wf/glyphs/IvorysMoon.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/ivorysmoon
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Raffles on Twitch
 * Twitch Subscription

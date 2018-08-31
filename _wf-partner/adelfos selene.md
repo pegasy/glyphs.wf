@@ -2,7 +2,7 @@
 layout: cc
 title: Adelfos Selene
 glyphname: ADELFOS SELENE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AdelfosSelene.png
+glyphurl: https://i.glyphs.wf/glyphs/AdelfosSelene.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/adelfos_selene
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Watch stream for 50 hours (!cookies to check) and ask for glyph.
 * Twitch Subscription

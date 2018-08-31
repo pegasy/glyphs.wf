@@ -2,7 +2,7 @@
 layout: cc
 title: DADEYFUE
 glyphname: DADEFUYE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Dadefuye.png
+glyphurl: https://i.glyphs.wf/glyphs/Dadefuye.png
 glyphwave: 7
 youtube: https://youtube.com/user/dejesusadefuye1
 twitch: 
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Posts codes in Discord

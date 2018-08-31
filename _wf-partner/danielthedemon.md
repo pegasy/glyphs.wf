@@ -2,7 +2,7 @@
 layout: cc
 title: DanieltheDemon
 glyphname: DANIELTHEDEMON
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DanieltheDemon.png
+glyphurl: https://i.glyphs.wf/glyphs/DanieltheDemon.png
 glyphwave: 2
 youtube: https://youtube.com/danielthedemon
 twitch: https://twitch.tv/danielthedemon
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Twitch Raffle
 * Twitch Subscription

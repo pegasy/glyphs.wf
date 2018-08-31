@@ -2,7 +2,7 @@
 layout: cc
 title: Raw Steel
 glyphname: RAW STEEL CLAN
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/RawSteelClan.png
+glyphurl: https://i.glyphs.wf/glyphs/RawSteelClan.png
 glyphwave: 7
 youtube: https://youtube.com/user/rawsteelclan
 twitch: https://twitch.tv/rawsteelclan
@@ -13,6 +13,8 @@ primary-language: Turkish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Raffles on Discord
 * Codes in Youtube Videos

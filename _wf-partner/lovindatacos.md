@@ -2,7 +2,7 @@
 layout: cc
 title: LovinDaTacos
 glyphname: LOVINDATACOS
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LovinDaTacos.png
+glyphurl: https://i.glyphs.wf/glyphs/LovinDaTacos.png
 glyphwave: 7
 youtube: https://youtube.com/channel/lovindatacos
 twitch: https://twitch.tv/lovindatacos
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 5000
+facebook: 
+mixer: 
 ---
 * Raffles on Twtich
 * Twitch Subscription

@@ -2,7 +2,7 @@
 layout: cc
 title: MCGamerCZ
 glyphname: MCGAMERCZ
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MCGamerCZ.png
+glyphurl: https://i.glyphs.wf/glyphs/MCGamerCZ.png
 glyphwave: 8
 youtube: https://youtube.com/user/MCGamerCZ
 twitch: https://twitch.tv/mcgamercz
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: MCGAMERCZ
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

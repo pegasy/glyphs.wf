@@ -2,7 +2,7 @@
 layout: cc
 title: Triburos
 glyphname: TRIBUROS
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Triburos.png
+glyphurl: https://i.glyphs.wf/glyphs/Triburos.png
 glyphwave: 7
 youtube: https://youtube.com/user/Triburos
 twitch: https://twitch.tv/triburos
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops codes on Twitter

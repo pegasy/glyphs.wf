@@ -2,7 +2,7 @@
 layout: cc
 title: InexpensiveGamer
 glyphname: INEXPENSIVEGAMER
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/InexpensiveGamer.png
+glyphurl: https://i.glyphs.wf/glyphs/InexpensiveGamer.png
 glyphwave: 6
 youtube: 
 twitch: https://twitch.tv/inexpensivegamer
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: INEXPENSIVEGAMER
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Twitch Raffles during Warframe streams
 * Twitch Subscription

@@ -2,7 +2,7 @@
 layout: cc
 title: Zakguo
 glyphname: ZAKGUO
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Zakguo.png
+glyphurl: https://i.glyphs.wf/glyphs/Zakguo.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/zakguo
@@ -13,6 +13,8 @@ primary-language: Chinese
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Twitch Raffles
 * 3000 points on StreamElements

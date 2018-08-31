@@ -2,7 +2,7 @@
 layout: cc
 title: Prettypoison105
 glyphname: PRETTYPOISON105
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/PrettyPoison.png
+glyphurl: https://i.glyphs.wf/glyphs/PrettyPoison.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/prettypoison105
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 4200
+facebook: 
+mixer: 
 ---
 * Watch stream on Twitch for 69 hours and earn 4200 noots (Stream currency)
 * Glyph giveaways on Twitch

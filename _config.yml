@@ -1,15 +1,44 @@
+# Site settings
 title: glyphs.wf
-description: For all your glyph collecting needs
-show_downloads: false
+email:
+author:
+description: For all your glyph seeking needs
+url: https://dev.glyphs.wf
+baseurl: 
+
 google_analytics: UA-113492652-1
 theme: 
 collections:
   wf-partner:
     output: true
-    permalink: /wf-partner/:name
+    permalink: /:title
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+# plugins:
+#   - jekyll-archives
+#   - jekyll-redirect-from
+
+# jekyll-archives:
+#   enabled: ['category']
+#   layouts:
+#     category: global
+#   permalinks:
+#     category: '/global/wf-partner/:name/'
+
+# Social icons
+show_social_icons: true
+github_username: pegasy
+twitter_username: Pegasy_
+discord_username: Pegasy#0001
+
 github:
   is_project_page: false
   repository_url: https://github.com/pegasy/glyphs.wf
   repository_name: glyphs.wf
   owner_name: pegasy
   owner_url: https://github.com/pegasy/
+

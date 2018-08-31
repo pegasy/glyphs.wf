@@ -2,7 +2,7 @@
 layout: cc
 title: Infodiversao
 glyphname: INFODIVERSAO
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Infodiversao.png
+glyphurl: https://i.glyphs.wf/glyphs/Infodiversao.png
 glyphwave: 7
 youtube: https://youtube.com/channel/UCQVZw42Hlhg7_Q1Ip36KkrQ
 twitch: https://twitch.tv/infodiversao
@@ -13,5 +13,7 @@ primary-language: Portuguese
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops codes in streams

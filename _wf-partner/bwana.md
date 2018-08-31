@@ -2,7 +2,7 @@
 layout: cc
 title: Bwana
 glyphname: BWANA
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Bwana.png
+glyphurl: https://i.glyphs.wf/glyphs/Bwana.png
 glyphwave: 4
 youtube: https://youtube.com/user/iobuffa
 twitch: https://twitch.tv/bwana
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: BWANA
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Twitch glyph raffle and posts codes in Twitch chat
 * Twitch Subscription

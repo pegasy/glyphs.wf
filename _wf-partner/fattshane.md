@@ -2,7 +2,7 @@
 layout: cc
 title: Fattshane
 glyphname: FATTSHANE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/FattShane.png
+glyphurl: https://i.glyphs.wf/glyphs/FattShane.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/fattshane
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops codes on Twitch/Twitter/Discord

@@ -2,7 +2,7 @@
 layout: cc
 title: Tactical Potato
 glyphname: TACTICALPOTATO
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/TacticalPotato.png
+glyphurl: https://i.glyphs.wf/glyphs/TacticalPotato.png
 glyphwave: 1
 youtube: https://youtube.com/user/Sordats
 twitch: https://twitch.tv/tactical_potato_
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: TACTICALPOTATO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

@@ -2,7 +2,7 @@
 layout: cc
 title: Sabuuchi
 glyphname: SABUUCHI
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Sabuuchi.png
+glyphurl: https://i.glyphs.wf/glyphs/Sabuuchi.png
 glyphwave: 9
 youtube: https://youtube.com/Sabuuchi
 twitch: https://twitch.tv/sabuuchi
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

@@ -2,16 +2,18 @@
 layout: cc
 title: Bikeman
 glyphname: BIKEMAN
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Bikeman.png
+glyphurl: https://i.glyphs.wf/glyphs/Bikeman.png
 glyphwave: 7
 youtube: 
 twitch: 
 twitter: 
 discord: 
-other-site: https://www.warframe.com/promocode?code=BIKEMAN
+other-site: 
 primary-language: 
 global-glyph-code: BIKEMAN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

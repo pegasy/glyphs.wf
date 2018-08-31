@@ -5,13 +5,15 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Yantzi
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Yantzi.png
+glyphurl: https://i.glyphs.wf/glyphs/Yantzi.png
 glyphwave: 10
 youtube: https://youtube.com/user/byantzi
 twitch: https://twitch.tv/yantzi
 twitter: https://twitter.com/yantzi_
 discord: https://discord.gg/0jZimIroToqAYR9l
-other-site: https://www.facebook.com/twitch.yantzi
+other-site: 
 primary-language: 
+facebook: https://www.facebook.com/twitch.yantzi
+mixer: 
 ---
 

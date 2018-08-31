@@ -2,7 +2,7 @@
 layout: cc
 title: SkillUp
 glyphname: SKILLUP
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SkillUp.png
+glyphurl: https://i.glyphs.wf/glyphs/SkillUp.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/skill_up_gg
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: SKILLUP
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 

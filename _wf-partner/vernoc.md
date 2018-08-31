@@ -2,7 +2,7 @@
 layout: cc
 title: Vernoc
 glyphname: VERNOC
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Vernoc.png
+glyphurl: https://i.glyphs.wf/glyphs/Vernoc.png
 glyphwave: 3
 youtube: https://youtube.com/user/deBurkholz
 twitch: https://twitch.tv/vernoc
@@ -13,5 +13,7 @@ primary-language: German
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Posts glyph codes during Twitch stream

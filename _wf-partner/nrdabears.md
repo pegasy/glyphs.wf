@@ -2,7 +2,7 @@
 layout: cc
 title: NRDabears
 glyphname: NRDABEARS
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/NRDabears.png
+glyphurl: https://i.glyphs.wf/glyphs/NRDabears.png
 glyphwave: 7
 youtube: https://youtube.com/user/Dabears841
 twitch: https://twitch.tv/nrdabears
@@ -13,5 +13,7 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Drops codes on Twitter

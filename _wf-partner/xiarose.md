@@ -2,7 +2,7 @@
 layout: cc
 title: XiaRose
 glyphname: XIAROSE
-glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/XiaRose.png
+glyphurl: https://i.glyphs.wf/glyphs/XiaRose.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCYzxkQ_Bp940JJe2XBMuTJQ
 twitch: https://twitch.tv/xiarose
@@ -13,6 +13,8 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
 ---
 * Glyph giveaways on Twitch streams
 * Reach level 20 on discord (by chatting).

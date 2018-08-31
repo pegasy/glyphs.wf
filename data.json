@@ -9,6 +9,8 @@ collectionName: wf-partner
 {% endif %}{% if tag.twitch %}"twitch": "{{ tag.twitch }}",
 {% endif %}{% if tag.twitter %}"twitter": "{{ tag.twitter }}",
 {% endif %}{% if tag.discord %}"discord": "{{ tag.discord }}",
+{% endif %}{% if tag.facebook %}"facebook": "{{ tag.facebook }}",
+{% endif %}{% if tag.mixer %}"mixer": "{{ tag.mixer }}",
 {% endif %}{% if tag.other-site %}"other-site": "{{ tag.other-site }}",
 {% endif %}{% if tag.primary-language %}"primary-language": "{{ tag.primary-language }}",
 {% endif %}{% if tag.global-glyph-code %}"global-glyph-code": "{{ tag.global-glyph-code }}",

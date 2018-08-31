@@ -2,7 +2,7 @@
 layout: cc
 title: k0yi
 glyphname: K0YI
-glyphurl: https://i.glyphs.wf/glyphs/K0yi.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/K0yi.png
 glyphwave: 8
 youtube: https://youtube.com/channel/UCOuOTQMmuNJdyzze-yTS5nA
 twitch: https://twitch.tv/k0yi
@@ -13,7 +13,5 @@ primary-language: Spanish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 

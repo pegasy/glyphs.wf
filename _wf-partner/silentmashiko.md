@@ -2,7 +2,7 @@
 layout: cc
 title: SilentMashiko
 glyphname: SILENTMASHIKO
-glyphurl: https://i.glyphs.wf/glyphs/SilentMashiko.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/SilentMashiko.png
 glyphwave: 9
 youtube: https://youtube.com/channel/SilentMashikoPlays
 twitch: https://twitch.tv/smashiko
@@ -13,8 +13,6 @@ primary-language: Russian
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 1500
-facebook: 
-mixer: 
 ---
 * Buying Glyph via 1500 Кусь (streamlabs' currency) - takes 25 hours
 * Random giveaways

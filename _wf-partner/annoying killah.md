@@ -2,7 +2,7 @@
 layout: cc
 title: Annoying Killah
 glyphname: ANNOYING KILLAH
-glyphurl: https://i.glyphs.wf/glyphs/AnnoyingKillah.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AnnoyingKillah.png
 glyphwave: 5
 youtube: https://youtube.com/channel/UCSkjPuFTNLq8u4f5gDmxcSw
 twitch: https://twitch.tv/annoying_killah
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * YouTube video descriptions
 * Twitter posts

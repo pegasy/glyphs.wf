@@ -2,7 +2,7 @@
 layout: cc
 title: Distant Observer
 glyphname: DISTANT OBSERVER
-glyphurl: https://i.glyphs.wf/glyphs/DistantObserver.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DistantObserver.png
 glyphwave: 3
 youtube: https://youtube.com/distantobserver
 twitch: 
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 

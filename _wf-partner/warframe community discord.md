@@ -2,7 +2,7 @@
 layout: cc
 title: Warframe Community Discord
 glyphname: WARFRAME COMMUNITY DISCORD
-glyphurl: https://i.glyphs.wf/glyphs/WarframeCommunityDiscord.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/WarframeCommunityDiscord.png
 glyphwave: 9
 youtube: 
 twitch: 
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 

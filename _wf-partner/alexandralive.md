@@ -2,7 +2,7 @@
 layout: cc
 title: AlexandraLive
 glyphname: ALEXANDRALIVE
-glyphurl: https://i.glyphs.wf/glyphs/AlexandraLive.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AlexandraLive.png
 glyphwave: 7
 youtube: https://youtube.com/channel/AlexandraOrlando
 twitch: https://twitch.tv/alexandralive
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Redeem with 100 Biscuits (check amount with !biscuits)
 * Twitch Subscription

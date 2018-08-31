@@ -5,15 +5,13 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: AccessibleGamer
-glyphurl: https://i.glyphs.wf/glyphs/AccessibleGamer.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AccessibleGamer.png
 glyphwave: 14
 youtube: 
 twitch: https://twitch.tv/accessiblegamer
 twitter: https://twitter.com/accessiblegamer
 discord: https://discord.gg/CSMTAZs
-other-site: 
+other-site: https://www.facebook.com/accessiblegamer/
 primary-language: 
-facebook: https://www.facebook.com/accessiblegamer/
-mixer: 
 ---
 

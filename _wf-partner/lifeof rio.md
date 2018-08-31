@@ -2,7 +2,7 @@
 layout: cc
 title: Life of Rio
 glyphname: LIFEOF RIO
-glyphurl: https://i.glyphs.wf/glyphs/LifeOfRio.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/LifeOfRio.png
 glyphwave: 3
 youtube: https://youtube.com/channel/LifeOfRio
 twitch: https://twitch.tv/lifeofrio
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Glyph giveaways on Twitch
 * Reach level 20 on discord (by chatting)

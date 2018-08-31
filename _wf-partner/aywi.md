@@ -2,7 +2,7 @@
 layout: cc
 title: Aywi
 glyphname: AYWI
-glyphurl: https://i.glyphs.wf/glyphs/Aywi.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Aywi.png
 glyphwave: 7
 youtube: https://youtube.com/channel/AywiGames
 twitch: https://twitch.tv/aywi
@@ -13,7 +13,5 @@ primary-language: Russian
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Drops codes in Twitch chat

@@ -2,7 +2,7 @@
 layout: cc
 title: Wobbzie
 glyphname: WOBBZIE
-glyphurl: https://i.glyphs.wf/glyphs/Wobbzie.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Wobbzie.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/wobbzie
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Ask a moderator when advertised during Twitch Streams
 * Watch stream and earn 350 teef and redeem while stream is live with extension

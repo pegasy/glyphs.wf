@@ -2,7 +2,7 @@
 layout: cc
 title: Kaoiji
 glyphname: KAOIJI
-glyphurl: https://i.glyphs.wf/glyphs/Kaoiji.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Kaoiji.png
 glyphwave: 6
 youtube: https://youtube.com/channel/Kaoiji
 twitch: https://twitch.tv/kaoiji
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Ask a moderator for a glyph code during a stream
 * Send him a screenshot on Discord showing that you have at least 25 partner glyphs

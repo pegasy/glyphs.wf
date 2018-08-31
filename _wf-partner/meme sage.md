@@ -2,7 +2,7 @@
 layout: cc
 title: Meme Sage
 glyphname: MEME SAGE
-glyphurl: https://i.glyphs.wf/glyphs/MemeSage.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MemeSage.png
 glyphwave: 4
 youtube: https://youtube.com/channel/MemeSage
 twitch: https://twitch.tv/memesage
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Glyph giveaways on Twitch
 * Reach level 20 on his discord (by chatting)

@@ -2,7 +2,7 @@
 layout: cc
 title: BigJimID
 glyphname: BIGJIMID
-glyphurl: https://i.glyphs.wf/glyphs/BigJimID.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/BigJimID.png
 glyphwave: 4
 youtube: https://youtube.com/user/bigjimid
 twitch: https://twitch.tv/bigjimid
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Watch stream for 50 minutes (10 flames) and redeem a glyph on StreamElements
 * Twitch Subscription

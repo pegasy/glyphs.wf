@@ -3,4 +3,3 @@ _site
 Gemfile.lock
 *.gem
 .vs
-.jekyll-metadata

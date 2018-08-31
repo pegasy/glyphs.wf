@@ -2,7 +2,7 @@
 layout: cc
 title: DappaDanMan
 glyphname: DAPPADANMAN
-glyphurl: https://i.glyphs.wf/glyphs/DappaDanMan.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DappaDanMan.png
 glyphwave: 6
 youtube: https://youtube.com/user/DappaDanProductions
 twitch: https://twitch.tv/dappadanman
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Twitch glyph raffles while streaming warframe
 * 2000 coins (166.66 hours) on Twitch

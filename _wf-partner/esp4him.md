@@ -2,7 +2,7 @@
 layout: cc
 title: Esp4him
 glyphname: ESP4HIM
-glyphurl: https://i.glyphs.wf/glyphs/Esp4him.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Esp4him.png
 glyphwave: 3
 youtube: https://youtube.com/channel/UCzu71M_mM-ixS9Ru8VDgfHg
 twitch: https://twitch.tv/esp4him
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Glyph giveaways on Twitch
 * Twitch Subscription

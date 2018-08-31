@@ -2,7 +2,7 @@
 layout: cc
 title: AdmiralBahroo
 glyphname: ADMIRAL BAHROO
-glyphurl: https://i.glyphs.wf/glyphs/AdmiralBahroo.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/AdmiralBahroo.png
 glyphwave: 7
 youtube: 
 twitch: 
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: ADMIRALBAHROO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 

@@ -2,7 +2,7 @@
 layout: cc
 title: LunskeeTV
 glyphname: LUNSKEE
-glyphurl: https://i.glyphs.wf/glyphs/Lunskee.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Lunskee.png
 glyphwave: 1
 youtube: 
 twitch: https://twitch.tv/lunskee
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Twitter Posts
 * Giveaways during Warframe Twitch stream breaks

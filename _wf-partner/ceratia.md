@@ -2,7 +2,7 @@
 layout: cc
 title: Ceratia
 glyphname: CERATIA
-glyphurl: https://i.glyphs.wf/glyphs/Ceratia.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Ceratia.png
 glyphwave: 4
 youtube: https://youtube.com/channel/CeratiaTV
 twitch: https://twitch.tv/ceratia
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Twitch Raffle
 * Twitch Subscription

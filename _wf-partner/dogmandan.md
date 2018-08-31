@@ -2,7 +2,7 @@
 layout: cc
 title: DogManDan
 glyphname: DOGMANDAN
-glyphurl: https://i.glyphs.wf/glyphs/DogManDan.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DogManDan.png
 glyphwave: 1
 youtube: https://youtube.com/user/dogmandan75
 twitch: https://twitch.tv/officialdogmandan
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * PM him ingame (IGN: DogManDan) and ask for a glyph
 * PM on any social media and ask for a glyph

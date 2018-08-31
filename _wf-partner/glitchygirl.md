@@ -2,7 +2,7 @@
 layout: cc
 title: GlitchyGirl
 glyphname: GLITCHYGIRL
-glyphurl: https://i.glyphs.wf/glyphs/GlitchyGirl.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/GlitchyGirl.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/glitchygirl
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 

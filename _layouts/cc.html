@@ -1,52 +1,43 @@
 ---
 layout: default
 ---
-{% assign cc = page %}
-<div class="card" style="width: 20rem; margin: 1em;">
-    <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
-    <div class="card-body">
-        <h5 class="card-title">{{ cc.title }}</h5>
-        <div class="social-links">
-                {% if cc.youtube %}
-                <a target="_blank" href="{{ cc.youtube }}">
-                    <i class="fab fa-youtube fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.twitch %}
-                <a target="_blank" href="{{ cc.twitch }}">
-                    <i class="fab fa-twitch fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.discord %}
-                <a target="_blank" href="{{ cc.discord }}">
-                    <i class="fab fa-discord fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.twitter %}
-                <a target="_blank" href="{{ cc.twitter }}">
-                    <i class="fab fa-twitter fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.facebook %}
-                <a target="_blank" href="{{ cc.facebook }}">
-                    <i class="fab fa-facebook fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.other-site %}
-                <a target="_blank" href="{{ cc.other-site }}">
-                    <i class="fas fa-globe fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.mixer %}
-                <a target="_blank" href="{{ cc.mixer }}">
-                    <i class="fa fa-bullhorn fa-2x"></i>
-                </a>
-                {% endif %}
-        </div>
-        <p class="card-text">{{ cc.glyphname }}</p>
-        {% if cc.global-glyph-code %}
-            <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
-        {% endif %}
-        {{ content }}
-    </div>
+<div>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.glyphurl %}
+    <img class="glyphimage" src="{{ page.glyphurl }}" alt="{{ page.title }}" />
+  {% endif %}
+
+  <p>
+    {% if page.glyphname %}<span class="glyphname">{{ page.glyphname }}</span>{% endif %}
+    {% if page.glyphwave %}(wave <span class="glyphwave">{{ page.glyphwave }}</span>){% endif %}
+    {% if page.primary-language %}[<span class="primary-language">{{ page.primary-language }}</span>]{% endif %}
+    {% if page.youtube %}| <a class="youtube" href="{{ page.youtube }}">YouTube</a>{% endif %}
+    {% if page.twitch %}| <a class="twitch" href="{{ page.twitch }}">Twitch</a>{% endif %}
+    {% if page.twitter %}| <a class="twitter" href="{{ page.twitter }}">Twitter</a>{% endif %}
+    {% if page.discord %}| <a class="discord" href="{{ page.discord }}">Discord</a>{% endif %}
+  </p>
+  
+    {% if page.global-glyph-code %}
+      <p>Global glyph code: <a class="global-glyph-code" href="https://www.warframe.com/promocode?code={{ page.global-glyph-code }}">{{ page.global-glyph-code}}</a></p>
+    {% endif %}
+
+    {% if page.other-site %}
+      <p>Website: <a class="other-site" href="{{ page.other-site }}">{{ page.other-site }}</a></p>
+    {% endif %}
+    
+    {% if page.stream-currency-needed-for-glyph %}
+      <p class="stream-currency-needed-for-glyph">Can be acquired with {{ page.stream-currency-needed-for-glyph }} of the streamers currency.</p>
+    {% endif %}
+    
+    {% if page.currently-partnered == false %}
+      <h3 class="currently-partnered">Not currently partered with DE / warframe (might still have codes left)!</h3>
+    {% endif %}
+
 </div>
+{% assign scontent = content | strip_newlines %}
+{% if scontent != "" %}
+    <h2>How to acquire</h2>
+    {{ content }}
+{% endif %}
+<a href="/">&#x3C; Back</a>

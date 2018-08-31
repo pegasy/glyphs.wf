@@ -2,7 +2,7 @@
 layout: cc
 title: DKDiamantes
 glyphname: DKDIAMANTES
-glyphurl: https://i.glyphs.wf/glyphs/DKDiamantes.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DKDiamantes.png
 glyphwave: 1
 youtube: https://youtube.com/user/DKDiamantes
 twitch: https://twitch.tv/dkdiamantes
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Twitch Raffles
 * 2500 Stacks on StreamElements

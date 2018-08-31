@@ -2,7 +2,7 @@
 layout: cc
 title: Tanchan
 glyphname: TANCHAN
-glyphurl: https://i.glyphs.wf/glyphs/Tanchan.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Tanchan.png
 glyphwave: 2
 youtube: https://youtube.com/channel/tanchanes
 twitch: https://twitch.tv/tanchancicuta
@@ -13,7 +13,5 @@ primary-language: Spanish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Glyph raffles on Twitch

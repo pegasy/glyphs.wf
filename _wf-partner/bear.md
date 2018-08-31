@@ -2,7 +2,7 @@
 layout: cc
 title: MrBearGaming
 glyphname: BEAR
-glyphurl: https://i.glyphs.wf/glyphs/MrBearGaming.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/MrBearGaming.png
 glyphwave: 3
 youtube: 
 twitch: https://twitch.tv/bear
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Message [DE]Taylor in-game to obtain

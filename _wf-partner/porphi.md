@@ -2,7 +2,7 @@
 layout: cc
 title: Porphi
 glyphname: PORPHI
-glyphurl: https://i.glyphs.wf/glyphs/Porphi.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Porphi.png
 glyphwave: 7
 youtube: https://youtube.com/channel/porphi
 twitch: 
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Raffles/Code Drops on Discord

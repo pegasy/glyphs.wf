@@ -7,11 +7,11 @@ title:
 
 <head>
     <title>{{ page.title }}</title>
-    <meta http-equiv="refresh" content="0; url=/{{ page.link | slugify }}">
-    <link rel="canonical" href="/{{ page.link | slugify }}" />
+    <meta http-equiv="refresh" content="0; url={{ page.link | slugify }}">
+    <link rel="canonical" href="{{ page.link | slugify }}" />
 </head>
 <body>
-<a href="/{{ page.link | slugify }}"><h1>/{{ page.link | slugify }}</h1></a>
+<a href="{{ page.link | slugify }}"><h1>{{ page.link | slugify }}</h1></a>
 </body>
 
 </html>

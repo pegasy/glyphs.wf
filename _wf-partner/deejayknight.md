@@ -2,7 +2,7 @@
 layout: cc
 title: DeejayKnight
 glyphname: DEEJAYKNIGHT
-glyphurl: https://i.glyphs.wf/glyphs/DeejayKnight.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/DeejayKnight.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/deejayknight
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Raffles on Twitch
 * Twitch Subscription

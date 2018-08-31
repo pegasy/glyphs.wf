@@ -2,7 +2,7 @@
 layout: cc
 title: WoxLi
 glyphname: WOXLI
-glyphurl: https://i.glyphs.wf/glyphs/Woxli.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Woxli.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/woxli
@@ -13,7 +13,5 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Redeem for 100 Crumbs on StreamElements

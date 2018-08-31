@@ -2,7 +2,7 @@
 layout: cc
 title: Makarimorph
 glyphname: MAKARIMORPH
-glyphurl: https://i.glyphs.wf/glyphs/Makarimorph.png
+glyphurl: http://content.warframe.com/MobileExport/Lotus/Interface/Icons/Player/ContentCreators/Makarimorph.png
 glyphwave: 6
 youtube: https://youtube.com/razmitex
 twitch: https://twitch.tv/makarimorph
@@ -13,8 +13,6 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
 ---
 * Twitch Raffles
 * Win one of the plat giveaways on Twitch App / Discord and exchange it for a glyph

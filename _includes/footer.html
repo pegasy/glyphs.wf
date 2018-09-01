@@ -31,12 +31,14 @@
 <script>
     $(document).on('click', '[data-toggle="modal"]', function (event) {
       event.preventDefault();
+      // debugger;
       // https://stackoverflow.com/questions/824349/modify-the-url-without-reloading-the-page
-      console.log(event.currentTarget.href);
+      var l = event.currentTarget.getAttribute('href');
+      // console.log(l);
       
-      window.history.pushState({ "html": "", "pageTitle": "" }, "", url = event.currentTarget.href);
+      window.history.pushState({ "html": "", "pageTitle": "" }, "", url = l);
 
-      ga('set', 'page', '/' + event.currentTarget.href);
+      ga('set', 'page', l);
       ga('send', 'pageview');
     });
 

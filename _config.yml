@@ -31,9 +31,12 @@ sass:
 
 # Social icons
 show_social_icons: true
-github_username: pegasy
-twitter_username: Pegasy_
-discord_username: Pegasy#0001
+social_links:
+  github: https://github.com/pegasy
+  twitter: https://twitter.com/Pegasy_
+  discord: https://discord.gg/VPCFYku
+  discord_username: Pegasy#0001
+
 
 github:
   is_project_page: false

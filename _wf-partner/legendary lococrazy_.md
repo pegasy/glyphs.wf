@@ -6,7 +6,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 title: LocoCrazy
 glyphurl: https://i.glyphs.wf/glyphs/GasMask.png
-glyphwave: 0
+glyphwave: 14
 youtube: 
 twitch: 
 twitter: https://twitter.com/LocoCrazy__

@@ -11,7 +11,7 @@ discord: https://discordapp.com/invite/RCC3SgH
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 

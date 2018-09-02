@@ -2,8 +2,10 @@
     <div class="card text-white">
         <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">
         <div class="card-img-overlay">
-                <!-- <div class="card-footer">{{ cc.glyphname }}</div> -->
-                <div class="card-footer">{{ cc.glyphname }}</div>
+            <div class="card-footer">
+                <span class="float-right">({{ cc.glyphwave }})</span>
+                <span>{{ cc.glyphname }}</span>
+            </div>
         </div>
     </div>
 </a>

@@ -3,9 +3,9 @@ layout: default
 ---
 {% assign cc = page %}
 <div class="card" style="width: 20rem; margin: 1em;">
+    <h5 class="card-title">{{ cc.title }}</h5>
     <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
     <div class="card-body">
-        <h5 class="card-title">{{ cc.title }}</h5>
         <div class="social-links">
                 {% if cc.youtube %}
                 <a target="_blank" href="{{ cc.youtube }}">
@@ -43,6 +43,7 @@ layout: default
                 </a>
                 {% endif %}
         </div>
+        <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
         <p class="card-text">{{ cc.glyphname }}</p>
         {% if cc.global-glyph-code %}
             <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>

@@ -5,9 +5,7 @@ permalink: /waves/
 ---
 {% assign collection = site.collections | where: 'label', 'wf-partner' | first %}
 {% assign collection = collection.docs | group_by_exp:"cc", "cc.glyphwave | prepend: '000' | slice: -4, 4" | sort: "name" | reverse %}
-
 {% for group in collection %}
-
 {% if group.name == '' %}
     {% continue %}
 {% endif %}
@@ -25,7 +23,6 @@ permalink: /waves/
                 {% continue %}
             {% endif %}
             {% include cc-card.html %}
-            {% include cc-modal.html %}
         {%endfor%}
     </div>
 </div>

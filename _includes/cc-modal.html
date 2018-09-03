@@ -2,29 +2,28 @@
     <div class="modal-dialog">
         <!-- Modal content-->
         <div class="modal-content .cc-list">
-                <div class="modal-header">
-                    <h4 class="modal-title">{{ cc.title }}</h4>
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                </div>
-                <div class="modal-body">
-                    <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
-                    <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
-                    <p>{{ cc.glyphname }}</p>
-                    {% include cc-social-links.html %}
-                    
-                    {% if cc.global-glyph-code %}
-                        <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
-                        <strike>
-                                <p>{{ cc.content }}</p>
-                        </strike>
-                    {% else %}
-                        <p>{{ cc.content }}</p>
-                    {% endif %}
-                </div>
-                <div class="modal-footer">
-                    <a href="{{ cc.url }}" class="btn btn-primary">Open partner page</a>
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                </div>
+            <div class="modal-header">
+                <h4 class="modal-title">{{ cc.title }}</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
+            <div class="modal-body">
+                <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
+                <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
+                <p>{{ cc.glyphname }}</p>
+                {% include cc-social-links.html %}
+                {% if cc.global-glyph-code %}
+                    <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
+                    <div style="text-decoration: line-through;">
+                        {{ cc.content }}
+                    </div>
+                {% else %}
+                    {{ cc.content }}
+                {% endif %}
+            </div>
+            <div class="modal-footer">
+                <a href="{{ cc.url }}" class="btn btn-primary">Open partner page</a>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
     </div>
 </div>

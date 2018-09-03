@@ -29,30 +29,36 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js" integrity="sha256-jGAkJO3hvqIDc4nIY1sfh/FPbV+UK+1N+xJJg6zzr7A=" crossorigin="anonymous"></script> -->
 <script>
-    $(document).on('click', '[data-toggle="modal"]', function (event) {
-      event.preventDefault();
-      // debugger;
-      // https://stackoverflow.com/questions/824349/modify-the-url-without-reloading-the-page
-      var l = event.currentTarget.getAttribute('href');
-      // console.log(l);
-      
-      window.history.pushState({ "html": "", "pageTitle": "" }, "", url = l);
+  $(document).on('click', '[data-toggle="modal"]', function (event) {
+    event.preventDefault();
+    // debugger;
+    // https://stackoverflow.com/questions/824349/modify-the-url-without-reloading-the-page
+    var l = event.currentTarget.getAttribute('href');
+    // console.log(l);
+    
+    window.history.pushState({ "html": "", "pageTitle": "" }, "", url = l);
 
-      ga('set', 'page', l);
-      ga('send', 'pageview');
+    ga('set', 'page', l);
+    ga('send', 'pageview');
+  });
+
+  $(document).on('hide.bs.modal', function () {
+    // history.replaceState({}, document.title, ".");
+    history.back();
+  });
+
+  $(document).ready(function(){
+    $("#filter").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#partner-list > div").filter(function() {
+        var s = $(this).text().toLowerCase().indexOf(value);
+        // if(s == -1) { // search on html for searching through links?
+        //   s = $(this).html().toLowerCase().indexOf(value);
+        // }
+        $(this).toggle(s > -1)
+      });
     });
-
-    $(document).on('hide.bs.modal', function () {
-      // history.replaceState({}, document.title, ".");
-      history.back();
-    });
-
-    // $(function() {
-    //   // debugger;
-    //   console.log(window.location.pathname);
-    //   var link = $('a[href="' + window.location.hash + '"]');
-    //   //link.trigger("click");
-    // });
+  });
 </script>
 
 {% if site.google_analytics %}

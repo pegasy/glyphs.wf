@@ -4,7 +4,7 @@ title: SilentMashiko
 glyphname: SILENTMASHIKO
 glyphurl: https://i.glyphs.wf/glyphs/SilentMashiko.png
 glyphwave: 9
-youtube: https://youtube.com/channel/SilentMashikoPlays
+youtube: https://www.youtube.com/SilentMashikoPlays
 twitch: https://twitch.tv/smashiko
 twitter: 
 discord: https://discord.gg/6KR4fYc

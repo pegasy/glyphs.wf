@@ -4,7 +4,7 @@ title: FrameFace Xenogelion
 glyphname: XENOGELION
 glyphurl: https://i.glyphs.wf/glyphs/Xenogelion.png
 glyphwave: 2
-youtube: https://youtube.com/channel/UCklKSHzWsDN8T-NZwaWwbOw
+youtube: https://www.youtube.com/channel/UCklKSHzWsDN8T-NZwaWwbOw
 twitch: https://twitch.tv/xenogelion2
 twitter: https://twitter.com/Xenogelion
 discord: https://discord.gg/fvfR6Rm

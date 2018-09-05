@@ -4,7 +4,7 @@ title: VVhite Angel
 glyphname: VVHITE ANGEL
 glyphurl: https://i.glyphs.wf/glyphs/VVhiteAngel.png
 glyphwave: 2
-youtube: https://youtube.com/channel/UCffeBUU4GfgCouaNt-h_-tw
+youtube: https://www.youtube.com/channel/UCffeBUU4GfgCouaNt-h_-tw
 twitch: https://twitch.tv/vvhite_angel
 twitter: https://twitter.com/VVhite_Angel
 discord: https://discord.gg/Ug6XkmF

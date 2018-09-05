@@ -4,7 +4,7 @@ title: J3ubbleboy
 glyphname: J3UBBLEBOY
 glyphurl: https://i.glyphs.wf/glyphs/J3ubbleboy.png
 glyphwave: 8
-youtube: https://youtube.com/channel/UCL_aG8E9GeXChtENEpEWG8g
+youtube: https://www.youtube.com/channel/UCL_aG8E9GeXChtENEpEWG8g
 twitch: https://twitch.tv/j3ubbleboy
 twitter: https://twitter.com/j3ubbleboy
 discord: https://discordapp.com/invite/J3ubbleboy

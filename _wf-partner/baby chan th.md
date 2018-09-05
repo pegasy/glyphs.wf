@@ -4,7 +4,7 @@ title: Babychan TH
 glyphname: BABY CHAN TH
 glyphurl: https://i.glyphs.wf/glyphs/BabychanTH.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
+youtube: https://www.youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
 twitch: https://twitch.tv/babychanth
 twitter: https://twitter.com/xBabychanTHx
 discord: https://discord.gg/USzaZgM

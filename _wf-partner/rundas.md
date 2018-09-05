@@ -4,7 +4,7 @@ title: Rundas342
 glyphname: RUNDAS
 glyphurl: https://i.glyphs.wf/glyphs/Rundas.png
 glyphwave: 4
-youtube: https://youtube.com/user/Rundas342
+youtube: https://www.youtube.com/user/Rundas342
 twitch: https://twitch.tv/rundas
 twitter: https://twitter.com/Subzeroex
 discord: 

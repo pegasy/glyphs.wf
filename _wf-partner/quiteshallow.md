@@ -4,7 +4,7 @@ title: Quiette Shy
 glyphname: QUITESHALLOW
 glyphurl: https://i.glyphs.wf/glyphs/QuiteShallow.png
 glyphwave: 2
-youtube: https://youtube.com/channel/UCLPBnMwDwtOOEegviAyKcEg
+youtube: https://www.youtube.com/channel/UCLPBnMwDwtOOEegviAyKcEg
 twitch: https://twitch.tv/quietteshy
 twitter: https://twitter.com/quiteshallow
 discord: 

@@ -4,7 +4,7 @@ title: wgrates
 glyphname: WGRATES
 glyphurl: https://i.glyphs.wf/glyphs/Wgrates.png
 glyphwave: 1
-youtube: https://youtube.com/wgrates
+youtube: https://www.youtube.com/wgrates
 twitch: https://twitch.tv/wgrates
 twitter: https://twitter.com/wgrates
 discord: https://discord.gg/0lfrjgdiecOMb7dw

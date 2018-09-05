@@ -4,7 +4,7 @@ title: RavenN
 glyphname: RAVENN
 glyphurl: https://i.glyphs.wf/glyphs/RaVeNZ.png
 glyphwave: 4
-youtube: https://youtube.com/channel/UCs0u-yJpbJc3zwYbVENUzHQ
+youtube: https://www.youtube.com/channel/UCs0u-yJpbJc3zwYbVENUzHQ
 twitch: https://twitch.tv/ravennlefrenchy
 twitter: https://twitter.com/RavennSector
 discord: 

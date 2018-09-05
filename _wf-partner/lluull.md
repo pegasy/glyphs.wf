@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: lluull
 glyphurl: https://i.glyphs.wf/glyphs/LluulL.png
 glyphwave: 11
-youtube: https://youtube.com/channel/UCCl4cgnFbvoUwmSB8hdyEPg
+youtube: https://www.youtube.com/channel/UCCl4cgnFbvoUwmSB8hdyEPg
 twitch: 
 twitter: 
 discord: 

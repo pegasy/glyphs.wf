@@ -4,7 +4,7 @@ title: Uncle Cat
 glyphname: UNCLE CAT
 glyphurl: https://i.glyphs.wf/glyphs/UncleCat.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCSKSt1Uo6iHjYeZv8BXdrGg
+youtube: https://www.youtube.com/channel/UCSKSt1Uo6iHjYeZv8BXdrGg
 twitch: https://twitch.tv/unclecatth
 twitter: https://twitter.com/UncleCatTH
 discord: 

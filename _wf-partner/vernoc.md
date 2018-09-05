@@ -4,7 +4,7 @@ title: Vernoc
 glyphname: VERNOC
 glyphurl: https://i.glyphs.wf/glyphs/Vernoc.png
 glyphwave: 3
-youtube: https://youtube.com/user/deBurkholz
+youtube: https://www.youtube.com/user/deBurkholz
 twitch: https://twitch.tv/vernoc
 twitter: 
 discord: 

@@ -4,7 +4,7 @@ title: Leonel GM
 glyphname: LEONELGM
 glyphurl: https://i.glyphs.wf/glyphs/LeonelGM.png
 glyphwave: 8
-youtube: https://youtube.com/user/GMLeonel
+youtube: https://www.youtube.com/user/GMLeonel
 twitch: https://twitch.tv/leonelgm
 twitter: https://twitter.com/cobayagm
 discord: 

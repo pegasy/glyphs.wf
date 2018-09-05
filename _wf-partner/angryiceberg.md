@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Angry Iceberg
 glyphurl: https://i.glyphs.wf/glyphs/AngryIceberg.png
 glyphwave: 11
-youtube: https://youtube.com/channel/angryicebergtv
+youtube: https://www.youtube.com/angryicebergtv
 twitch: https://twitch.tv/angry_iceberg
 twitter: http://www.twitter.com/angry_iceberg
 discord: https://discord.gg/angry-iceberg

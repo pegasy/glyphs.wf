@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: BackyardisTV
 glyphurl: https://i.glyphs.wf/glyphs/BackyardisTV.png
 glyphwave: 12
-youtube: https://youtube.com/BackyardisTV
+youtube: https://www.youtube.com/BackyardisTV
 twitch: https://twitch.tv/backyardisTV
 twitter: http://twitter.com/backyardisTV
 discord: https://discord.me/backyardisTV

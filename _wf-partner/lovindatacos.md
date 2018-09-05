@@ -4,7 +4,7 @@ title: LovinDaTacos
 glyphname: LOVINDATACOS
 glyphurl: https://i.glyphs.wf/glyphs/LovinDaTacos.png
 glyphwave: 7
-youtube: https://youtube.com/channel/lovindatacos
+youtube: https://www.youtube.com/lovindatacos
 twitch: https://twitch.tv/lovindatacos
 twitter: https://twitter.com/lovindatacos
 discord: 

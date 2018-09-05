@@ -4,7 +4,7 @@ title: DADEYFUE
 glyphname: DADEFUYE
 glyphurl: https://i.glyphs.wf/glyphs/Dadefuye.png
 glyphwave: 7
-youtube: https://youtube.com/user/dejesusadefuye1
+youtube: https://www.youtube.com/user/dejesusadefuye1
 twitch: 
 twitter: https://twitter.com/daadefuyemedia
 discord: https://discord.gg/JADs4kd

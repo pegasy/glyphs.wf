@@ -4,7 +4,7 @@ title: Kiwad
 glyphname: KIWAD
 glyphurl: https://i.glyphs.wf/glyphs/Kiwad.png
 glyphwave: 4
-youtube: https://youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
+youtube: https://www.youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
 twitch: https://twitch.tv/kiwad
 twitter: https://twitter.com/KiWadim
 discord: 

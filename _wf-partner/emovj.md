@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: EMOVJ
 glyphurl: https://i.glyphs.wf/glyphs/Emovj.png
 glyphwave: 9
-youtube: https://youtube.com/channel/UCnn5ijgQMURLHCqZA_L5O0A
+youtube: https://www.youtube.com/channel/UCnn5ijgQMURLHCqZA_L5O0A
 twitch: https://twitch.tv/emovj
 twitter: https://twitter.com/EmocionGames
 discord: 

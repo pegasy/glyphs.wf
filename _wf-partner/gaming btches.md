@@ -4,7 +4,7 @@ title: Gamingb*tches
 glyphname: GAMING B*TCHES
 glyphurl: https://i.glyphs.wf/glyphs/GamingBitches.png
 glyphwave: 7
-youtube: https://youtube.com/gamingbtches
+youtube: https://www.youtube.com/gamingbtches
 twitch: 
 twitter: 
 discord: https://discord.gg/cute3X3

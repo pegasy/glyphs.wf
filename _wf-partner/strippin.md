@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Strippin
 glyphurl: https://i.glyphs.wf/glyphs/Strippin.png
 glyphwave: 13
-youtube: https://youtube.com/strippin
+youtube: https://www.youtube.com/strippin
 twitch: https://twitch.tv/Strippin
 twitter: https://twitter.com/strippin
 discord: https://discord.gg/aFtM7Gs

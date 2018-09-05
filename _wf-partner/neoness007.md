@@ -4,7 +4,7 @@ title: NeoNess 007
 glyphname: NEONESS007
 glyphurl: https://i.glyphs.wf/glyphs/NeoNess.png
 glyphwave: 5
-youtube: https://youtube.com/NeoNess007
+youtube: https://www.youtube.com/NeoNess007
 twitch: https://twitch.tv/neoness007
 twitter: https://twitter.com/NeoNess007
 discord: 

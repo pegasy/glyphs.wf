@@ -4,7 +4,7 @@ title: Tenno Defton
 glyphname: TENNO DEFTON
 glyphurl: https://i.glyphs.wf/glyphs/Tdefton.png
 glyphwave: 4
-youtube: https://youtube.com/tennodefton
+youtube: https://www.youtube.com/user/TheEagleSarge
 twitch: https://twitch.tv/tdefton
 twitter: https://twitter.com/TDefton
 discord: https://discord.gg/dBE2Hvg

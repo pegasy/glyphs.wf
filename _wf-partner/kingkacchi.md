@@ -4,7 +4,7 @@ title: KingKacchi
 glyphname: KINGKACCHI
 glyphurl: https://i.glyphs.wf/glyphs/Kacchi.png
 glyphwave: 4
-youtube: https://youtube.com/user/Kacchi90
+youtube: https://www.youtube.com/user/Kacchi90
 twitch: https://twitch.tv/kingkacchi90
 twitter: https://twitter.com/MARAKACCHI
 discord: 

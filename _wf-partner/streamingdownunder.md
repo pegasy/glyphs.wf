@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: streamingdownunder
 glyphurl: https://i.glyphs.wf/glyphs/StreamingDownUnder.png
 glyphwave: 9
-youtube: https://youtube.com/channel/UCP8RhMjq8n6wgbSF9U44ajQ
+youtube: https://www.youtube.com/channel/UCP8RhMjq8n6wgbSF9U44ajQ
 twitch: https://twitch.tv/streamingdownunder
 twitter: https://twitter.com/WFDownUnder
 discord: https://discord.gg/wtkKggv

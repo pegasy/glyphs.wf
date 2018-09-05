@@ -4,7 +4,7 @@ title: Brozime
 glyphname: BROZIME
 glyphurl: https://i.glyphs.wf/glyphs/Brozime.png
 glyphwave: 4
-youtube: https://youtube.com/Brozime
+youtube: https://www.youtube.com/user/Brozime
 twitch: https://twitch.tv/brozime
 twitter: http://twitter.com/brozime
 discord: https://discord.gg/Brozime

@@ -4,7 +4,7 @@ title: Rageypoo
 glyphname: RAGEYPOO
 glyphurl: https://i.glyphs.wf/glyphs/Ragey.png
 glyphwave: 4
-youtube: https://youtube.com/user/Ragesauce
+youtube: https://www.youtube.com/user/Ragesauce
 twitch: https://twitch.tv/rageypoo
 twitter: https://twitter.com/iamrageypoo
 discord: https://discord.gg/sMttRRT

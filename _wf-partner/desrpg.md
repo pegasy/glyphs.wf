@@ -4,7 +4,7 @@ title: DesRPG
 glyphname: DESRPG
 glyphurl: https://i.glyphs.wf/glyphs/DesRPG.png
 glyphwave: 5
-youtube: https://youtube.com/user/DestroyaRpg
+youtube: https://www.youtube.com/user/DestroyaRpg
 twitch: https://twitch.tv/desrpg
 twitter: https://twitter.com/DesRPG
 discord: https://discordapp.com/invite/RCC3SgH

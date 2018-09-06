@@ -31,10 +31,7 @@
 <script>
   $(document).on('click', '[data-toggle="modal"]', function (event) {
     event.preventDefault();
-    // debugger;
-    // https://stackoverflow.com/questions/824349/modify-the-url-without-reloading-the-page
     var l = event.currentTarget.getAttribute('href');
-    // console.log(l);
     
     window.history.pushState({ "html": "", "pageTitle": "" }, "", url = l);
 
@@ -43,7 +40,6 @@
   });
 
   $(document).on('hide.bs.modal', function () {
-    // history.replaceState({}, document.title, ".");
     history.back();
   });
 
@@ -52,9 +48,6 @@
       var value = $(this).val().toLowerCase();
       $("#partner-list > div").filter(function() {
         var s = $(this).text().toLowerCase().indexOf(value);
-        // if(s == -1) { // search on html for searching through links?
-        //   s = $(this).html().toLowerCase().indexOf(value);
-        // }
         $(this).toggle(s > -1)
       });
     });

@@ -7,7 +7,7 @@ glyphwave: 6
 youtube: https://www.youtube.com/razmitex
 twitch: https://twitch.tv/makarimorph
 twitter: http://www.twitter.com/makarimorph
-discord: 
+discord: https://discord.gg/makarimorph
 other-site: 
 primary-language: 
 global-glyph-code: 

@@ -4,7 +4,7 @@ title: CaptainTutu
 glyphname: CAPTAINTUTU
 glyphurl: https://i.glyphs.wf/glyphs/CaptainTutu.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UC-7CTcR-IXmjUUl-RLTX9oQ
+youtube: https://www.youtube.com/channel/UC-7CTcR-IXmjUUl-RLTX9oQ
 twitch: https://twitch.tv/captaintutu
 twitter: https://twitter.com/TheCaptainTutu
 discord: https://discord.gg/k8DT82z

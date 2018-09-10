@@ -4,7 +4,7 @@ title: Bwana
 glyphname: BWANA
 glyphurl: https://i.glyphs.wf/glyphs/Bwana.png
 glyphwave: 4
-youtube: https://youtube.com/user/iobuffa
+youtube: https://www.youtube.com/user/iobuffa
 twitch: https://twitch.tv/bwana
 twitter: https://twitter.com/bwana
 discord: https://discord.gg/bwana

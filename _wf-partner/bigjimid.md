@@ -4,7 +4,7 @@ title: BigJimID
 glyphname: BIGJIMID
 glyphurl: https://i.glyphs.wf/glyphs/BigJimID.png
 glyphwave: 4
-youtube: https://youtube.com/user/bigjimid
+youtube: https://www.youtube.com/user/bigjimid
 twitch: https://twitch.tv/bigjimid
 twitter: https://twitter.com/bigjimgg
 discord: https://discord.gg/Wn3rkvs

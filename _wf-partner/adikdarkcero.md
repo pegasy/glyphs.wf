@@ -4,7 +4,7 @@ title: AdikDarkCero
 glyphname: ADIKDARKCERO
 glyphurl: https://i.glyphs.wf/glyphs/AdikDarkCero.png
 glyphwave: 8
-youtube: https://youtube.com/user/AdikDarkCero
+youtube: https://www.youtube.com/user/AdikDarkCero
 twitch: https://twitch.tv/adikdarkcero
 twitter: https://twitter.com/AdikDarkCero
 discord: https://discord.gg/vMCdwM

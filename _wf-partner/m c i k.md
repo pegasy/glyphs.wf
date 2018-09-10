@@ -4,7 +4,7 @@ title: M.C.I.K
 glyphname: M C I K
 glyphurl: https://i.glyphs.wf/glyphs/MCIK.png
 glyphwave: 3
-youtube: https://youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
+youtube: https://www.youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
 twitch: https://twitch.tv/colejamesofficial
 twitter: https://twitter.com/colejofficial
 discord: 

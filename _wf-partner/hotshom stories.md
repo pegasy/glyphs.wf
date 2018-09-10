@@ -4,7 +4,7 @@ title: Hots'Hom Stories
 glyphname: HOTS'HOM STORIES
 glyphurl: https://i.glyphs.wf/glyphs/HotsHomStories.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCZkq39Y0w8s3pD1AwTnQgKg
+youtube: https://www.youtube.com/channel/UCZkq39Y0w8s3pD1AwTnQgKg
 twitch: https://twitch.tv/hotshom
 twitter: 
 discord: 

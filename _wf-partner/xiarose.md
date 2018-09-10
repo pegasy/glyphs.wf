@@ -4,7 +4,7 @@ title: XiaRose
 glyphname: XIAROSE
 glyphurl: https://i.glyphs.wf/glyphs/XiaRose.png
 glyphwave: 3
-youtube: https://youtube.com/channel/UCYzxkQ_Bp940JJe2XBMuTJQ
+youtube: https://www.youtube.com/channel/UCYzxkQ_Bp940JJe2XBMuTJQ
 twitch: https://twitch.tv/xiarose
 twitter: https://twitter.com/XiaRose6
 discord: https://discord.gg/vqkkhvE

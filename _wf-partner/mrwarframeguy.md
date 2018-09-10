@@ -4,7 +4,7 @@ title: MrWarframe Guy
 glyphname: MRWARFRAMEGUY
 glyphurl: https://i.glyphs.wf/glyphs/MrWarframeGuy.png
 glyphwave: 7
-youtube: https://youtube.com/channel/Mrwarframeguy
+youtube: https://www.youtube.com/Mrwarframeguy
 twitch: 
 twitter: https://twitter.com/MrWarframeGuy
 discord: 

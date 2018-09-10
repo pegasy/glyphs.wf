@@ -4,7 +4,7 @@ title: Esp4him
 glyphname: ESP4HIM
 glyphurl: https://i.glyphs.wf/glyphs/Esp4him.png
 glyphwave: 3
-youtube: https://youtube.com/channel/UCzu71M_mM-ixS9Ru8VDgfHg
+youtube: https://www.youtube.com/channel/UCzu71M_mM-ixS9Ru8VDgfHg
 twitch: https://twitch.tv/esp4him
 twitter: http://www.twitter.com/esp4him
 discord: 

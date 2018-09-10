@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Bennyfits
 glyphurl: https://i.glyphs.wf/glyphs/Bennyfits.png
 glyphwave: 11
-youtube: https://youtube.com/channel/BennyFits
+youtube: https://www.youtube.com/BennyFits
 twitch: https://twitch.tv/bennyfits
 twitter: http://twitter.com/bennyfitstv
 discord: http://discord.bennyfits.tv/

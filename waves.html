@@ -1,0 +1,29 @@
+---
+layout: default
+title: Glyphs per wave
+permalink: /waves/
+---
+{% assign collection = site.collections | where: 'label', 'wf-partner' | first %}
+{% assign collection = collection.docs | group_by_exp:"cc", "cc.glyphwave | prepend: '000' | slice: -4, 4" | sort: "name" | reverse %}
+{% for group in collection %}
+{% if group.name == '' %}
+    {% continue %}
+{% endif %}
+{% assign wave = group.name | plus: 0 %}    
+<div class="container-fluid mt-4">
+    <a href="#{{ wave }}">
+        <h3 class="text-muted" id="{{ wave }}">Wave {{ wave }}<span class="float-right">{{ group.items.size }} glyphs</span></h3>
+    </a>
+    <div class="row justify-content-center cc-list">
+        {% for cc in group.items %}
+            {% if cc.title == 'Template' %}
+                {% continue %}
+            {% endif %}
+            {% if cc.layout != 'cc' %}
+                {% continue %}
+            {% endif %}
+            {% include cc-card.html %}
+        {%endfor%}
+    </div>
+</div>
+{%endfor%}

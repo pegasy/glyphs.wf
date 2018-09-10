@@ -1,9 +1,13 @@
-<a href="{{ cc.url }}" data-target="#{{ cc.title | slugify }}" data-toggle="modal">
-    <div class="card text-white">
-        <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">
-        <div class="card-img-overlay">
-                <!-- <div class="card-footer">{{ cc.glyphname }}</div> -->
-                <div class="card-footer">{{ cc.glyphname }}</div>
+<div>
+    <a href="{{ cc.url }}" data-target="#{{ cc.title | slugify }}" data-toggle="modal">
+        <div class="card text-white">
+            <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">
+            <div class="card-img-overlay">
+                <div class="card-footer">
+                    <span>{{ cc.glyphname }}</span>
+                </div>
+            </div>
         </div>
-    </div>
-</a>
+    </a>
+    {% include cc-modal.html %}
+</div>

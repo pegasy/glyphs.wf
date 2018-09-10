@@ -4,7 +4,7 @@ title: A_H_R
 glyphname: A H R
 glyphurl: https://i.glyphs.wf/glyphs/AHR.png
 glyphwave: 9
-youtube: https://youtube.com/channel/UCbjoOzfn6qfCGPmlzPSkCsA
+youtube: https://www.youtube.com/channel/UCbjoOzfn6qfCGPmlzPSkCsA
 twitch: https://twitch.tv/A_H_R
 twitter: https://twitter.com/ImAnthonyHarris
 discord: https://discord.gg/GQW4BWD

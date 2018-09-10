@@ -4,7 +4,7 @@ title: Sabuuchi
 glyphname: SABUUCHI
 glyphurl: https://i.glyphs.wf/glyphs/Sabuuchi.png
 glyphwave: 9
-youtube: https://youtube.com/Sabuuchi
+youtube: https://www.youtube.com/Sabuuchi
 twitch: https://twitch.tv/sabuuchi
 twitter: https://twitter.com/Sabuuchi
 discord: https://discord.gg/vaj97Ry

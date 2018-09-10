@@ -4,7 +4,7 @@ title: HynkardSector
 glyphname: HYNKARDSECTOR
 glyphurl: https://i.glyphs.wf/glyphs/HynkardSector.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCz0V2sC_NHoOai92TTTdmEg
+youtube: https://www.youtube.com/channel/UCz0V2sC_NHoOai92TTTdmEg
 twitch: 
 twitter: https://twitter.com/HynkardSector
 discord: 

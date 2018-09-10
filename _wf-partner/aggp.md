@@ -4,7 +4,7 @@ title: AgayGuyplays
 glyphname: AGGP
 glyphurl: https://i.glyphs.wf/glyphs/AGGP.png
 glyphwave: 1
-youtube: https://youtube.com/channel/UCvGa_xpJct3pLv-lK3qHnoQ
+youtube: https://www.youtube.com/channel/UCvGa_xpJct3pLv-lK3qHnoQ
 twitch: https://twitch.tv/agayguyplays
 twitter: http://www.twitter.com/agayguyplays
 discord: https://discord.gg/e3enVnd

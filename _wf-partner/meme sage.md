@@ -4,7 +4,7 @@ title: Meme Sage
 glyphname: MEME SAGE
 glyphurl: https://i.glyphs.wf/glyphs/MemeSage.png
 glyphwave: 4
-youtube: https://youtube.com/channel/MemeSage
+youtube: https://www.youtube.com/MemeSage
 twitch: https://twitch.tv/memesage
 twitter: https://twitter.com/MemeSageZ
 discord: https://discord.gg/msFkrKK

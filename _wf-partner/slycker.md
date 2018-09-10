@@ -4,7 +4,7 @@ title: Slicker Explica
 glyphname: SLYCKER
 glyphurl: https://i.glyphs.wf/glyphs/Slycker.png
 glyphwave: 4
-youtube: https://youtube.com/channel/SlickerExplica
+youtube: https://www.youtube.com/c/SlickerExplica
 twitch: https://twitch.tv/slyckerslk
 twitter: https://twitter.com/Slycker_yt
 discord: https://discord.gg/013WbL1p9Ocyngbow

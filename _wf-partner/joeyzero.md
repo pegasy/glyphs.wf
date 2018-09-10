@@ -4,7 +4,7 @@ title: JoeyZero
 glyphname: JOEYZERO
 glyphurl: https://i.glyphs.wf/glyphs/JoeyZero.png
 glyphwave: 7
-youtube: https://youtube.com/user/liquidshadows99
+youtube: https://www.youtube.com/user/liquidshadows99
 twitch: https://twitch.tv/joeyzerotv
 twitter: http://twitter.com/joeyzerotv
 discord: https://discord.gg/0XYN4ElrtYtLiNun

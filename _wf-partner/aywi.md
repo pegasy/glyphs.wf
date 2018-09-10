@@ -4,7 +4,7 @@ title: Aywi
 glyphname: AYWI
 glyphurl: https://i.glyphs.wf/glyphs/Aywi.png
 glyphwave: 7
-youtube: https://youtube.com/channel/AywiGames
+youtube: https://www.youtube.com/c/AywiGames
 twitch: https://twitch.tv/aywi
 twitter: 
 discord: 

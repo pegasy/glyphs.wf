@@ -4,7 +4,7 @@ title: DanieltheDemon
 glyphname: DANIELTHEDEMON
 glyphurl: https://i.glyphs.wf/glyphs/DanieltheDemon.png
 glyphwave: 2
-youtube: https://youtube.com/danielthedemon
+youtube: https://www.youtube.com/danielthedemon
 twitch: https://twitch.tv/danielthedemon
 twitter: https://twitter.com/DanieltheDemon
 discord: https://discord.gg/0RoLAVFXFlP6E7R4

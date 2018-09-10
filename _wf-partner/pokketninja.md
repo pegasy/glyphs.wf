@@ -7,10 +7,10 @@ stream-currency-needed-for-glyph:
 title: PokketNinja
 glyphurl: https://i.glyphs.wf/glyphs/PokketNinja.png
 glyphwave: 12
-youtube: https://youtube.com/channel/PokketNinja
+youtube: https://www.youtube.com/PokketNinja
 twitch: https://twitch.tv/pokketninja
 twitter: https://twitter.com/PokketNinja
-discord: https://discord.gg/8etrqd8
+discord: https://discord.gg/5wwuxzg
 other-site: 
 primary-language: 
 facebook: https://www.facebook.com/PokketNinja/

@@ -4,7 +4,7 @@ title: Darkslayer313
 glyphname: DARKSLAYER313
 glyphurl: https://i.glyphs.wf/glyphs/DarkSlayer313.png
 glyphwave: 3
-youtube: https://youtube.com/channel/UC7VzzRIj59YOKhiZolmA4oQ
+youtube: https://www.youtube.com/channel/UC7VzzRIj59YOKhiZolmA4oQ
 twitch: https://twitch.tv/darkslayer313
 twitter: https://twitter.com/darkslayer313
 discord: https://discordapp.com/invite/Fb2MmGx

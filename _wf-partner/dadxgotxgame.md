@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: DADxGOTxGAME
 glyphurl: https://i.glyphs.wf/glyphs/DadXGotXGame.png
 glyphwave: 14
-youtube: https://youtube.com/channel/dadxgotxgame
+youtube: https://www.youtube.com/dadxgotxgame
 twitch: 
 twitter: https://twitter.com/dadxgotxgame
 discord: https://discord.gg/Y5bxhCQ

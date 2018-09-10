@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Yantzi
 glyphurl: https://i.glyphs.wf/glyphs/Yantzi.png
 glyphwave: 10
-youtube: https://youtube.com/user/byantzi
+youtube: https://www.youtube.com/user/byantzi
 twitch: https://twitch.tv/yantzi
 twitter: https://twitter.com/yantzi_
 discord: https://discord.gg/0jZimIroToqAYR9l

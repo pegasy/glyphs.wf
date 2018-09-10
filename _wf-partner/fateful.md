@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: FatefulYT
 glyphurl: https://i.glyphs.wf/glyphs/FatefulYT.png
 glyphwave: 7
-youtube: https://youtube.com/user/FarikoCrystal
+youtube: https://www.youtube.com/user/FarikoCrystal
 twitch: https://twitch.tv/fateful
 twitter: https://twitter.com/FatefulYT
 discord: https://discord.gg/SWpKC8G

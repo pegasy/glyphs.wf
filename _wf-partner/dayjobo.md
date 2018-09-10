@@ -4,7 +4,7 @@ title: Rakshasa
 glyphname: DAYJOBO
 glyphurl: https://i.glyphs.wf/glyphs/DayJoBo.png
 glyphwave: 9
-youtube: https://youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
+youtube: https://www.youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
 twitch: 
 twitter: 
 discord: 

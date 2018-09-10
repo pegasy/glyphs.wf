@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: GrimlockePrime
 glyphurl: https://i.glyphs.wf/glyphs/GrimlockePrime.png
 glyphwave: 12
-youtube: https://youtube.com/user/solitarybleek
+youtube: https://www.youtube.com/user/solitarybleek
 twitch: 
 twitter: https://twitter.com/GrimlockePrime
 discord: https://discord.gg/e2E5v

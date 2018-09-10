@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 113
 ---
 * Glyph giveaways on Twitch
 * Reach level 20 on discord (by chatting)

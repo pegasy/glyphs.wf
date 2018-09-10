@@ -15,5 +15,6 @@ other-site:
 primary-language: 
 facebook: http://www.facebook.com/thestrippin
 mixer: 
+id: 188
 ---
 

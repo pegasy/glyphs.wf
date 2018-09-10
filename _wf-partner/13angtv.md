@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 2
 ---
 * Drops glyph codes in Twitch chat
 * Twitch Subscription

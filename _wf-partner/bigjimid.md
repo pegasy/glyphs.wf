@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 24
 ---
 * Watch stream for 50 minutes (10 flames) and redeem a glyph on StreamElements
 * Twitch Subscription

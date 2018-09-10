@@ -15,5 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 105
 ---
 * PM [DE]Taylor ingame and ask for a glyph

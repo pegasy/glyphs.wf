@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/aeonknight86
 mixer: 
+id: 7
 ---
 * Raffles on Twitch
 * Redeem on Streamlabs for 8700 Aeonflux

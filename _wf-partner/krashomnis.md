@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 106
 ---
 * Drops codes on Twitter
 * Base Tier [Patreon](https://www.patreon.com/krashomnis)

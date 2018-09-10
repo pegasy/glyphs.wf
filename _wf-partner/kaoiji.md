@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 102
 ---
 * Ask a moderator for a glyph code during a stream
 * Send him a screenshot on Discord showing that you have at least 25 partner glyphs

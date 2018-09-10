@@ -15,5 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 83
 ---
 * Go to #glyph_request in Discord and type @Taxon glyphs request pc

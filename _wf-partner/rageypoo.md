@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 154
 ---
 * Glyph codes giveaway on Twitch streams
 * Posts glyph codes in random Warframe Partner Twitch streams

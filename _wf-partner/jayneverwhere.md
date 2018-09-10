@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 98
 ---
 * Get 600 points in stream and ask for glyph
 * Twitch Subscription

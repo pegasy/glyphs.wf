@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 1500
 facebook: 
 mixer: 
+id: 175
 ---
 * YouTube paid subscription (channel membership)
 * Level 20 on Discord server via MEE6 bot

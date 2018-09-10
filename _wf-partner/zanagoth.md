@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 228
 ---
 * PM him on Discord
 * Drops codes on Youtube/Twitch

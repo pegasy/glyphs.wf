@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 70
 ---
 * Subscribe on Twitch using this Link
 * Go to #glyph-chat on discord and type:

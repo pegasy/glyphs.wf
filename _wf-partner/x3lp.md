@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 222
 ---
 * Twitch Raffles
 * Reach the rank of Operator on his Discord

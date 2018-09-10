@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/porongogamer/
 mixer: 
+id: 147
 ---
 * Join the TennoHelp Discord and receive a member role by following the instructions then in #glifos_glyph type:
 * * !g_porongo PC

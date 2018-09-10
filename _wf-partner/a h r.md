@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/groups/HouseOfN3RDs
 mixer: 
+id: 9
 ---
 * Glyph follower giveaways
 * Subscribe on twitch

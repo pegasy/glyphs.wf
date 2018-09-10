@@ -15,5 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 79
 ---
 * Follow and ask for a glyph when they are streaming warframe on Twitch

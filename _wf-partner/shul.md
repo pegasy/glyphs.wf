@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 174
 ---
 * Follow him on Twitch, join his Discord, then post your Twitch username in #warframe-glyphs with your platform.
 * Successfully prove that you have a sub-15 minute Law of Retribution to zopney (Discord: zopney#2035).

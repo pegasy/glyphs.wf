@@ -15,6 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
+id: 138
 ---
 * Watch stream for 50 hours on Twitch then ask for code in chat
 * Twitch Clips contest

@@ -39,6 +39,21 @@
     ga('send', 'pageview');
   });
 
+  $(document).on('change', '.cc-list input[type="checkbox"]', function(event){
+    var checkedContentCreators = $('.cc-list input[type="checkbox"]').filter(':checked');
+    var ccids = checkedContentCreators.map(function(i,e){return $(e).data('ccid')}).toArray();
+    var hash = "#cc=" + ccids.join(",");
+    window.location.hash = hash;
+  });
+
+  $(document).ready(function(){
+    if(window.location.hash.includes('cc=')){
+      var ccIds = window.location.hash.split('cc=')[1].split(',')
+      var checkboxes = $('[data-ccid]').filter(function(i,e){ return ccIds.includes($(e).data('ccid').toString()) });
+      checkboxes.prop("checked", true);
+    }
+  });
+
   $(document).on('hide.bs.modal', function () {
     history.back();
   });

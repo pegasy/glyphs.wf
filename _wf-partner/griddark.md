@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 80
+ccid: 80
 ---
 * Twitch Raffles
 * Twitch Subscription

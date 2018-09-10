@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 17
+ccid: 17
 ---
 * Drops codes in Twitch chat

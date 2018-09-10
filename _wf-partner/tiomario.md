@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 199
+ccid: 199
 ---
 * Ask for it in Discord

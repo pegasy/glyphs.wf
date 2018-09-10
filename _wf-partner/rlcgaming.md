@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 3000
 facebook: 
 mixer: 
-id: 163
+ccid: 163
 ---
 * Buy the glyph with stream currency in StreamElements store (costs 3000 melons / 25 hours)

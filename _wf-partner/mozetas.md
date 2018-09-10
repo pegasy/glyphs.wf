@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/cafofodomozetas
 mixer: 
-id: 130
+ccid: 130
 ---
 

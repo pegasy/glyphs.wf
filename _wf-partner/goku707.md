@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 77
+ccid: 77
 ---
 * Watch for 10 hours and ask in #glyph channel for glyph
 * Subscribe on Twitch

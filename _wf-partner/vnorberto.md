@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/NorbertosPcGamesAndVlogs
 mixer: 
-id: 136
+ccid: 136
 ---
 * Ask for it in stream

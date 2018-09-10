@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: https://www.facebook.com/PokketNinja/
 mixer: 
-id: 146
+ccid: 146
 ---
 

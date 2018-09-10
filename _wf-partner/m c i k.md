@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 121
+ccid: 121
 ---
 * Posts glyph codes in Twitch chat
 * Glyph giveaways on Twitch

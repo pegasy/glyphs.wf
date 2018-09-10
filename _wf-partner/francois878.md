@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 68
+ccid: 68
 ---
 * Message him on Twitter/Discord and ask for a glyph

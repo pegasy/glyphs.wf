@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: https://www.facebook.com/twitch.yantzi
 mixer: 
-id: 226
+ccid: 226
 ---
 

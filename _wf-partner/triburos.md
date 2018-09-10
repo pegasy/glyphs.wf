@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 204
+ccid: 204
 ---
 * Drops codes on Twitter

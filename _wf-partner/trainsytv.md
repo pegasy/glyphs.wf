@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 203
+ccid: 203
 ---
 * PM [DE]Taylor in game

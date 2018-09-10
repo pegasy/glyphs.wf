@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/xBabychanx/
 mixer: 
-id: 19
+ccid: 19
 ---
 * Drops codes on Twitch/Twitter
 * Posts codes in YouTube video descriptions/comments

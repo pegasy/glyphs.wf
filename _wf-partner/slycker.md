@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 180
+ccid: 180
 ---
 * PM Slycker on Discord

@@ -15,6 +15,6 @@ other-site:
 primary-language: Russian
 facebook: 
 mixer: 
-id: 135
+ccid: 135
 ---
 

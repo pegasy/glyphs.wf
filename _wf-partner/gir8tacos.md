@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: 
 mixer: 
-id: 73
+ccid: 73
 ---
 

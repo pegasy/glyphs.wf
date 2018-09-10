@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: https://mixer.com/TheNoobles
-id: 11
+ccid: 11
 ---
 * Follow on Twitch then ask for glyph

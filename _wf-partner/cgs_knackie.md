@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 37
+ccid: 37
 ---
 * Twitter Posts
 * Gift him wishlisted items ingame (IGN: CGs_Knackie) - [More Info](https://twitter.com/juli3n45/status/876108902357774339)

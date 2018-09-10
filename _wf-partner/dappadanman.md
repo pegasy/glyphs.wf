@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 45
+ccid: 45
 ---
 * Twitch glyph raffles while streaming warframe
 * 2000 coins (166.66 hours) on Twitch

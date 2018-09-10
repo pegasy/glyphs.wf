@@ -15,6 +15,6 @@ other-site:
 primary-language: Japanese
 facebook: 
 mixer: 
-id: 122
+ccid: 122
 ---
 

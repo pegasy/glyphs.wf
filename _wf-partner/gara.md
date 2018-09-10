@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 72
+ccid: 72
 ---
 * Posts glyph codes on youtube videos

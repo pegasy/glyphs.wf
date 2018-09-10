@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: https://www.facebook.com/leyzargaming
 mixer: 
-id: 110
+ccid: 110
 ---
 

@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 10
+ccid: 10
 ---
 * Redeem with 100 Biscuits (check amount with !biscuits)
 * Twitch Subscription

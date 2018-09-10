@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 131
+ccid: 131
 ---
 * Message [DE]Taylor in-game to obtain

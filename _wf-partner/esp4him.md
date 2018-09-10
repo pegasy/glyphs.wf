@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 62
+ccid: 62
 ---
 * Glyph giveaways on Twitch
 * Twitch Subscription

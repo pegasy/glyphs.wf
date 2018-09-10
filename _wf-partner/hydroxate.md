@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 87
+ccid: 87
 ---
 * PM one of the HausKeepers in Discord

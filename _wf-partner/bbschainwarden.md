@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 22
+ccid: 22
 ---
 * Codes in youtube videos (not the “going live on Twitch” ones)
 * Raffles on Twitch

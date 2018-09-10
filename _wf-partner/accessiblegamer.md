@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: https://www.facebook.com/accessiblegamer/
 mixer: 
-id: 3
+ccid: 3
 ---
 

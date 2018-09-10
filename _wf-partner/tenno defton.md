@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 196
+ccid: 196
 ---
 * Posts glyph codes on Twitter
 * Join discord and chat until you reach level 10

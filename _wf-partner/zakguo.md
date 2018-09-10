@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 227
+ccid: 227
 ---
 * Twitch Raffles
 * 3000 points on StreamElements

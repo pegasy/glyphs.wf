@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 14
+ccid: 14
 ---
 * YouTube video descriptions
 * Twitter posts

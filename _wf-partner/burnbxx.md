@@ -15,6 +15,6 @@ other-site:
 primary-language: 
 facebook: 
 mixer: 
-id: 30
+ccid: 30
 ---
 

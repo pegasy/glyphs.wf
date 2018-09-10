@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 118
+ccid: 118
 ---
 * Twitch Subscription
 * 100 Lokenbucks on Streamlabs via browser or Stream widget

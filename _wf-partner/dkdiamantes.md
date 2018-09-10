@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 53
+ccid: 53
 ---
 * Twitch Raffles
 * 2500 Stacks on StreamElements

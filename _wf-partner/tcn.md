@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 195
+ccid: 195
 ---
 * Posts glyph codes on [website](http://www.tennoclocknews.com/)
 * 50 Bus Tickets (250 minutes) at [WarframeRSB Twitch Stream](https://www.twitch.tv/warframersb)

@@ -15,6 +15,6 @@ currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 49
+ccid: 49
 ---
 * PM him on [Facebook](https://www.facebook.com/DesRPG)

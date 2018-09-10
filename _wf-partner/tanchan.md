@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 192
+ccid: 192
 ---
 * Glyph raffles on Twitch

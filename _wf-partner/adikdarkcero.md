@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/AdikDarkCeroo/
 mixer: 
-id: 5
+ccid: 5
 ---
 

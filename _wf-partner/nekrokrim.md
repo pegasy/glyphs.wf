@@ -15,6 +15,6 @@ other-site:
 primary-language: Hungarian
 facebook: http://facebook.com/nekrokrim
 mixer: 
-id: 137
+ccid: 137
 ---
 

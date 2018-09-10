@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 169
+ccid: 169
 ---
 * Ask one of his mods on Twitch for a code

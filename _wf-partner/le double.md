@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: http://www.facebook.com/uneheuredouchecomprise
 mixer: 
-id: 109
+ccid: 109
 ---
 

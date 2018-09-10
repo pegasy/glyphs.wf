@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 202
+ccid: 202
 ---
 * Join the TennoHelp Discord and receive a member role by following the instructions then in #glifos_glyph type:
 * * !g_toyou PC

@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 119
+ccid: 119
 ---
 * Twitter Posts
 * Giveaways during Warframe Twitch stream breaks

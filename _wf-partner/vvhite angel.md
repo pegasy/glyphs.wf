@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 213
+ccid: 213
 ---
 * Gift him forma bundle (PC IGN: VVhite_Angel)
 * Become a [Tipeee](https://www.tipeee.com/vvhite-angel-warframe)

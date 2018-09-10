@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 54
+ccid: 54
 ---
 * PM him ingame (IGN: DogManDan) and ask for a glyph
 * PM on any social media and ask for a glyph

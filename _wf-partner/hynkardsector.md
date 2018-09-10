@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 88
+ccid: 88
 ---
 * Drops codes in comments of Youtube videos

@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/roygaming/
 mixer: 
-id: 164
+ccid: 164
 ---
 * Posts glyph codes on facebook
 * Posts glyph codes in youtube videos

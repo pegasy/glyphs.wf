@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 4
+ccid: 4
 ---
 * Watch stream for 50 hours (!cookies to check) and ask for glyph.
 * Twitch Subscription

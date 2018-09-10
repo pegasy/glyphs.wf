@@ -15,6 +15,6 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 104
+ccid: 104
 ---
 * Whisper him on Twitch

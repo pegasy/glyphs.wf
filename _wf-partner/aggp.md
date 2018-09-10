@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 8
+ccid: 8
 ---
 * Drops glyph codes in Twitch chat
 * YouTube Videos (Rare Occasion)

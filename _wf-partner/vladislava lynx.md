@@ -15,6 +15,6 @@ other-site: https://vk.com/vladislava_lynx
 primary-language: Russian
 facebook: 
 mixer: 
-id: 209
+ccid: 209
 ---
 

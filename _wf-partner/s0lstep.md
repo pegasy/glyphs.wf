@@ -15,7 +15,7 @@ currently-partnered:
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
-id: 166
+ccid: 166
 ---
 * Glyph raffles on stream
 * Posts glyph codes in #glyph_hype in discord

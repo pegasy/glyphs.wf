@@ -1,42 +1,47 @@
 <div class="social-links">
     {% if cc.youtube %}
-    <a target="_blank" href="{{ cc.youtube }}">
+    <a target="_blank" href="{{ cc.youtube }}" title="{{ cc.youtube }}">
         <i class="fab fa-youtube fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.twitch %}
-    <a target="_blank" href="{{ cc.twitch }}">
+    <a target="_blank" href="{{ cc.twitch }}" title="{{ cc.twitch }}">
         <i class="fab fa-twitch fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.mixer %}
-    <a target="_blank" href="{{ cc.mixer }}">
+    <a target="_blank" href="{{ cc.mixer }}" title="{{ cc.mixer }}">
         <i class="fa fa-bullhorn fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.discord %}
-    <a target="_blank" href="{{ cc.discord }}">
+    <a target="_blank" href="{{ cc.discord }}" title="{{ cc.discord_username | cc.discord }}">
         <i class="fab fa-discord fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.twitter %}
-    <a target="_blank" href="{{ cc.twitter }}">
+    <a target="_blank" href="{{ cc.twitter }}" title="{{ cc.twitter }}">
         <i class="fab fa-twitter fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.facebook %}
-    <a target="_blank" href="{{ cc.facebook }}">
+    <a target="_blank" href="{{ cc.facebook }}" title="{{ cc.facebook }}">
         <i class="fab fa-facebook fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.vk %}
-    <a target="_blank" href="{{ cc.vk }}">
+    <a target="_blank" href="{{ cc.vk }}"> title="{{ cc.vk }}">
         <i class="fab fa-vk fa-2x"></i>
     </a>
     {% endif %}
     {% if cc.other-site %}
-    <a target="_blank" href="{{ cc.other-site }}">
+    <a target="_blank" href="{{ cc.other-site }}" title="{{ cc.other-site }}">
         <i class="fas fa-globe fa-2x"></i>
+    </a>
+    {% endif %}
+    {% if cc.github %}
+    <a target="_blank" href="{{ cc.github }}" title="{{ cc.github }}">
+        <i class="fab fa-github fa-2x"></i>
     </a>
     {% endif %}
 </div>

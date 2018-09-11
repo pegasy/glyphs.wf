@@ -4,10 +4,10 @@ title: DesRPG
 glyphname: DESRPG
 glyphurl: https://i.glyphs.wf/glyphs/DesRPG.png
 glyphwave: 5
-youtube: https://www.youtube.com/user/DestroyaRpg
-twitch: https://twitch.tv/desrpg
-twitter: https://twitter.com/DesRPG
-discord: https://discordapp.com/invite/RCC3SgH
+_youtube: https://www.youtube.com/user/DestroyaRpg
+_twitch: https://twitch.tv/desrpg
+_twitter: https://twitter.com/DesRPG
+_discord: https://discordapp.com/invite/RCC3SgH
 other-site: 
 primary-language: 
 global-glyph-code: 
@@ -17,4 +17,4 @@ facebook:
 mixer: 
 ccid: 49
 ---
-* PM him on [Facebook](https://www.facebook.com/DesRPG)
+* Glyph no longer in game (default lotus glyph)

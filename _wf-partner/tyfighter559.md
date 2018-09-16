@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: TyFighter559
-glyphurl: https://imgur.com/a/dLLG7Qf
+glyphurl: https://i.imgur.com/GkOit5K.png
 glyphwave: 15
 youtube: https://youtube.com/TyFighter559
 twitch: 

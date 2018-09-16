@@ -8,7 +8,7 @@ title: DeepBlueBeard
 glyphurl: https://i.glyphs.wf/glyphs/DeepBlueBeard.png
 glyphwave: 15
 youtube: 
-twitch: 
+twitch: https://twitch.tv/deepbluebeard
 twitter: https://twitter.com/DeepBlueBeard
 discord: http://discord.gg/deepsquad
 other-site: 

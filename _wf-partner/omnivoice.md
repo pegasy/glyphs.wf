@@ -4,7 +4,7 @@ title: Omni Voice
 glyphname: OMNIVOICE
 glyphurl: https://i.glyphs.wf/glyphs/OmniVoice.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/omniomegavoiceover
+youtube: https://www.youtube.com/channel/UCxUVIJKUOw5PtGSbhFMXJGw
 twitch: 
 twitter: https://twitter.com/OmniOmegaVoice
 discord: 

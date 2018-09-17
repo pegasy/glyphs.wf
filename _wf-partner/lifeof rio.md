@@ -4,7 +4,7 @@ title: Life of Rio
 glyphname: LIFEOF RIO
 glyphurl: https://i.glyphs.wf/glyphs/LifeOfRio.png
 glyphwave: 3
-youtube: https://www.youtube.com/LifeOfRio
+youtube: https://www.youtube.com/channel/UCJvvxReyeGXxoqnpB8kQvUA
 twitch: https://twitch.tv/lifeofrio
 twitter: https://twitter.com/lifeofrio
 discord: https://discord.gg/lifeofrio

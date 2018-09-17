@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: El canal de Row
 glyphurl: https://i.glyphs.wf/glyphs/ElCanaldeRow.png
 glyphwave: 6
-youtube: https://www.youtube.com/user/rowchanel
+youtube: https://www.youtube.com/channel/UCkND-omTxDcTRu0cxmzoq1g
 twitch: https://twitch.tv/junowaifu
 twitter: https://twitter.com/JunoRow
 discord: https://discord.gg/tfEBz9D

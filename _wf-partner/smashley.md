@@ -4,7 +4,7 @@ title: Smashley
 glyphname: SMASHLEY
 glyphurl: https://i.glyphs.wf/glyphs/Smashley.png
 glyphwave: 3
-youtube: https://www.youtube.com/user/ashley66444
+youtube: https://www.youtube.com/channel/UCFDM5PEBt6_YQ8tG7EaS5hw
 twitch: https://twitch.tv/smashley
 twitter: http://twitter.com/smashleytwitch
 discord: https://discord.gg/0Z09RqdxEppINnaI

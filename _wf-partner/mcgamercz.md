@@ -4,7 +4,7 @@ title: MCGamerCZ
 glyphname: MCGAMERCZ
 glyphurl: https://i.glyphs.wf/glyphs/MCGamerCZ.png
 glyphwave: 8
-youtube: https://www.youtube.com/user/MCGamerCZ
+youtube: https://www.youtube.com/channel/UCbv6z1qCD7-a6wLMQaddthA
 twitch: https://twitch.tv/mcgamercz
 twitter: https://twitter.com/MCGentlemanCZ
 discord: 

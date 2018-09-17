@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Silver Shadow
 glyphurl: https://i.glyphs.wf/glyphs/WarframeFR.png
 glyphwave: 5
-youtube: https://www.youtube.com/user/FranceWarframe
+youtube: https://www.youtube.com/channel/UCAX7WqD5zY7mcB9sWhuv3vQ
 twitch: https://twitch.tv/silvershadowfr
 twitter: https://twitter.com/SilverShadowFR
 discord: http://discord.gg/eEYFGra

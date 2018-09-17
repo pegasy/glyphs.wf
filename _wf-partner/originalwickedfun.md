@@ -4,7 +4,7 @@ title: Original Wicked Fun
 glyphname: ORIGINALWICKEDFUN
 glyphurl: https://i.glyphs.wf/glyphs/OriginalWickedfun.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/OriginalWickedfun
+youtube: https://www.youtube.com/channel/UCP8e1KBXS5xxhf4Yy9j_geg
 twitch: https://twitch.tv/wickedjecht
 twitter: https://twitter.com/wickedjecht
 discord: 

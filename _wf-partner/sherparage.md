@@ -4,7 +4,7 @@ title: SherpaRage
 glyphname: SHERPARAGE
 glyphurl: https://i.glyphs.wf/glyphs/SherpaRage.png
 glyphwave: 5
-youtube: https://www.youtube.com/user/sherparage
+youtube: https://www.youtube.com/channel/UCsgbl1VU_PFucB5kuNe6Ing
 twitch: https://twitch.tv/sherparage
 twitter: https://twitter.com/SherpaRage
 discord: https://discord.gg/SWCApYv

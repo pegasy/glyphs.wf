@@ -4,7 +4,7 @@ title: s0lstep
 glyphname: S0LSTEP
 glyphurl: https://i.glyphs.wf/glyphs/S0lstep.png
 glyphwave: 6
-youtube: https://www.youtube.com/s0lstep
+youtube: https://www.youtube.com/channel/UCpJCvqTjjsTBg-v92YJHuNg
 twitch: https://twitch.tv/s0lstep
 twitter: https://twitter.com/S0lStep
 discord: https://discord.gg/Tw4fGxR

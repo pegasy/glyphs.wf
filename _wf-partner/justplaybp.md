@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: JustPlayBP
 glyphurl: https://i.glyphs.wf/glyphs/JustPlayBP.png
 glyphwave: 11
-youtube: https://www.youtube.com/user/JustPlayBP
+youtube: https://www.youtube.com/channel/UC8ZCMsLm9LURmfMxLeRmI2Q
 twitch: https://twitch.tv/justplaybp
 twitter: https://twitter.com/JustPlayBP
 discord: 

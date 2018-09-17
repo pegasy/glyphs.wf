@@ -4,7 +4,7 @@ title: Porongo
 glyphname: PORONGO
 glyphurl: https://i.glyphs.wf/glyphs/Porongo.png
 glyphwave: 7
-youtube: https://www.youtube.com/PorongoGamer
+youtube: https://www.youtube.com/channel/UCOR3W2e-G1Sl9tJ-IRGfttg
 twitch: 
 twitter: https://twitter.com/porongogamer
 discord: 

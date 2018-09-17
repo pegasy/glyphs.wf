@@ -4,7 +4,7 @@ title: Ceratia
 glyphname: CERATIA
 glyphurl: https://i.glyphs.wf/glyphs/Ceratia.png
 glyphwave: 4
-youtube: https://www.youtube.com/CeratiaTV
+youtube: https://www.youtube.com/channel/UCygEjZ-BZxFhZNj1ybLhPCA
 twitch: https://twitch.tv/ceratia
 twitter: https://twitter.com/CeratiaTV
 discord: 

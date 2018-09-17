@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Buff00n
 glyphurl: https://i.glyphs.wf/glyphs/Buff00n.png
 glyphwave: 14
-youtube: https://www.youtube.com/Buff00n
+youtube: https://www.youtube.com/channel/UCSh6NP08gueUDMMdj1iHimg
 twitch: 
 twitter: 
 discord: 

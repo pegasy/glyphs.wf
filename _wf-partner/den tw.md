@@ -4,7 +4,7 @@ title: Den. Tw
 glyphname: DEN TW
 glyphurl: https://i.glyphs.wf/glyphs/Dentw.png
 glyphwave: 3
-youtube: https://www.youtube.com/user/mkonjipl1
+youtube: https://www.youtube.com/channel/UCJmDx4U__N13X5KFMKOJKEQ
 twitch: 
 twitter: 
 discord: 

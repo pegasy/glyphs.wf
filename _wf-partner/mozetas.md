@@ -4,7 +4,7 @@ title: Mozetas
 glyphname: MOZETAS
 glyphurl: https://i.glyphs.wf/glyphs/Mozetas.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/mozetas
+youtube: https://www.youtube.com/channel/UCcGsVKthjBhJTNsEagn8d4A
 twitch: https://twitch.tv/mozetas
 twitter: 
 discord: 

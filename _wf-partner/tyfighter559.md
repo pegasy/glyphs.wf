@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: TyFighter559
 glyphurl: https://i.imgur.com/GkOit5K.png
 glyphwave: 15
-youtube: https://youtube.com/TyFighter559
+youtube: https://www.youtube.com/channel/UCGIHGopbiLiZG-T_IL3AdkQ
 twitch: 
 twitter: https://twitter.com/TyFighter559
 discord: https://discord.gg/EENEUEw

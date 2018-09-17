@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: VoidFissure
 glyphurl: https://i.glyphs.wf/glyphs/VoidFissureBR.png
 glyphwave: 14
-youtube: https://www.youtube.com/voidfissurebr
+youtube: https://www.youtube.com/channel/UCrgv5haPvhNUSzCG9hPgdIA
 twitch: 
 twitter: https://twitter.com/VoidFissureBR
 discord: https://discord.gg/nYRrTGx

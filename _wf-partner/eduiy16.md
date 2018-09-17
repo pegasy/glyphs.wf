@@ -4,7 +4,7 @@ title: Eduiy16
 glyphname: EDUIY16
 glyphurl: https://i.glyphs.wf/glyphs/Eduiy16.png
 glyphwave: 4
-youtube: https://www.youtube.com/user/eduiy16
+youtube: https://www.youtube.com/channel/UC-BIEXRTfgLty4jIWtuIPbw
 twitch: 
 twitter: https://twitter.com/eduiy16YT
 discord: 

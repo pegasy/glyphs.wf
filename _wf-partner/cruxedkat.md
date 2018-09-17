@@ -4,7 +4,7 @@ title: CruxedKat
 glyphname: CHRISISHD
 glyphurl: https://i.glyphs.wf/glyphs/ChrisIsHD.png
 glyphwave: 7
-youtube: https://www.youtube.com/CruxedKat
+youtube: https://www.youtube.com/channel/UCU2Ij3bQ0YgN1fYHWsx6Zdw
 twitch: https://twitch.tv/CruxedKat
 twitter: https://twitter.com/CruxedKat
 discord: https://discord.gg/kitty

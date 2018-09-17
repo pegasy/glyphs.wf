@@ -4,7 +4,7 @@ title: NRDabears
 glyphname: NRDABEARS
 glyphurl: https://i.glyphs.wf/glyphs/NRDabears.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/Dabears841
+youtube: https://www.youtube.com/channel/UCeXezVU6A4Q1Oo13AdAoqYw
 twitch: https://twitch.tv/nrdabears
 twitter: https://twitter.com/NRDabears
 discord: 

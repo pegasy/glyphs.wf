@@ -4,7 +4,7 @@ title: KingKongDonk
 glyphname: KINGKONGDONK
 glyphurl: https://i.glyphs.wf/glyphs/KingKongDonk.png
 glyphwave: 3
-youtube: https://www.youtube.com/kingkongdonk
+youtube: https://www.youtube.com/channel/UCFMqpsdYhugGhD_1SCSrOxA
 twitch: https://twitch.tv/kingkongdonk
 twitter: https://twitter.com/kingkongdonk
 discord: 

@@ -4,7 +4,7 @@ title: AeonKnight86
 glyphname: AEONKNIGHT86
 glyphurl: https://i.glyphs.wf/glyphs/AeonKnight.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/aeonknight86
+youtube: https://www.youtube.com/channel/UC4km95HbSAkV04aax4Db2DQ
 twitch: https://twitch.tv/aeonknight86
 twitter: https://twitter.com/AeonKnight86
 discord: https://discord.gg/qrfcvCp

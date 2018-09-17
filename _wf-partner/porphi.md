@@ -4,7 +4,7 @@ title: Porphi
 glyphname: PORPHI
 glyphurl: https://i.glyphs.wf/glyphs/Porphi.png
 glyphwave: 7
-youtube: https://www.youtube.com/porphi
+youtube: https://www.youtube.com/channel/UCp3o3tiQdDAWELiQnOwX37g
 twitch: 
 twitter: https://twitter.com/Porphii
 discord: https://discord.gg/cYNgZUK

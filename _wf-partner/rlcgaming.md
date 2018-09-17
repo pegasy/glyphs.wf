@@ -4,7 +4,7 @@ title: RLCGaming
 glyphname: RLCGAMING
 glyphurl: https://i.glyphs.wf/glyphs/RLCGaming.png
 glyphwave: 3
-youtube: https://www.youtube.com/user/xnuk3rapidz97797
+youtube: https://www.youtube.com/channel/UClyqnN5fswKIPqNwIYk2VkQ
 twitch: https://twitch.tv/rlcgaming
 twitter: https://twitter.com/RLC_Here
 discord: https://discord.gg/vnutB2R

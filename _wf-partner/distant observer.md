@@ -4,7 +4,7 @@ title: Distant Observer
 glyphname: DISTANT OBSERVER
 glyphurl: https://i.glyphs.wf/glyphs/DistantObserver.png
 glyphwave: 3
-youtube: https://www.youtube.com/distantobserver
+youtube: https://www.youtube.com/channel/UC13043Ga8_N3kItV22oHazQ
 twitch: 
 twitter: https://twitter.com/operatordisObs
 discord: https://discord.gg/HPHgyZc

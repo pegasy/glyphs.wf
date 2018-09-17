@@ -4,7 +4,7 @@ title: KrashOmnis
 glyphname: KRASHOMNIS
 glyphurl: https://i.glyphs.wf/glyphs/KrashOmnis.png
 glyphwave: 7
-youtube: https://www.youtube.com/krashomnis
+youtube: https://www.youtube.com/channel/UC20ymRBBnBJ-U2peNIeIV3g
 twitch: https://twitch.tv/krashomnis
 twitter: https://twitter.com/krashomnis
 discord: 

@@ -4,7 +4,7 @@ title: Norbert Veres
 glyphname: VNORBERTO
 glyphurl: https://i.glyphs.wf/glyphs/Vnorberto.png
 glyphwave: 7
-youtube: https://www.youtube.com/user/vNORBERTO065
+youtube: https://www.youtube.com/channel/UCodzCmPTmrsfBO7BXiQUjYA
 twitch: https://twitch.tv/vnorberto
 twitter: https://twitter.com/vNorberto065
 discord: 

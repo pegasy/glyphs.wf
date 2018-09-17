@@ -4,7 +4,7 @@ title: NoSympathyy
 glyphname: NOSYMPATHYY
 glyphurl: https://i.glyphs.wf/glyphs/NoSympathyy.png
 glyphwave: 7
-youtube: https://www.youtube.com/NoSympathyyCA1
+youtube: https://www.youtube.com/channel/UCM7zlfo3IOQ3agy4IR_Ezag
 twitch: https://twitch.tv/NoSympathyy
 twitter: https://twitter.com/NoSympathyyCA
 discord: https://discord.gg/TGr9h2q

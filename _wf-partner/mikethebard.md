@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: MikeTheBard
 glyphurl: https://i.glyphs.wf/glyphs/TVSBOH.png
 glyphwave: 8
-youtube: https://www.youtube.com/user/tvsboh
+youtube: https://www.youtube.com/channel/UCrg4KU2n_urrNQPBpJiRjRQ
 twitch: https://twitch.tv/mikethebard
 twitter: https://twitter.com/tvsboh
 discord: https://discordapp.com/invite/tvsboh

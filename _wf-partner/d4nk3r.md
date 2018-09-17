@@ -4,7 +4,7 @@ title: D4NK3R
 glyphname: D4NK3R
 glyphurl: https://i.glyphs.wf/glyphs/D4NK3R.png
 glyphwave: 3
-youtube: https://www.youtube.com/D4NK3R
+youtube: https://www.youtube.com/channel/UCANi2rQYSLwaH6TTaLs3gCw
 twitch: 
 twitter: https://twitter.com/DankerGrimaldo
 discord: 

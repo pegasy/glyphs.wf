@@ -4,7 +4,7 @@ title: DKDiamantes
 glyphname: DKDIAMANTES
 glyphurl: https://i.glyphs.wf/glyphs/DKDiamantes.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/DKDiamantes
+youtube: https://www.youtube.com/channel/UCplH8OQuZ2KcmdZbhWEAdwQ
 twitch: https://twitch.tv/dkdiamantes
 twitter: https://twitter.com/DKDiamantes
 discord: https://discord.gg/DKDiamantes

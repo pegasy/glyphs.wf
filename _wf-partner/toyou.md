@@ -4,7 +4,7 @@ title: ToYou
 glyphname: TOYOU
 glyphurl: https://i.glyphs.wf/glyphs/ToYou.png
 glyphwave: 5
-youtube: https://www.youtube.com/user/hiltoyou
+youtube: https://www.youtube.com/channel/UCRHqnU9aNiH_99csZTS80iQ
 twitch: 
 twitter: 
 discord: https://discord.gg/67UGUMx

@@ -4,7 +4,7 @@ title: DogManDan
 glyphname: DOGMANDAN
 glyphurl: https://i.glyphs.wf/glyphs/DogManDan.png
 glyphwave: 1
-youtube: https://www.youtube.com/user/dogmandan75
+youtube: https://www.youtube.com/channel/UC0tdq2qhDDTtbxIOFJtmRhg
 twitch: https://twitch.tv/officialdogmandan
 twitter: https://twitter.com/nightowlsgaming
 discord: https://discord.gg/hDcH5DH

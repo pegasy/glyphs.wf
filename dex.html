@@ -22,6 +22,9 @@ permalink: /dex/
                 {% if cc.layout != 'cc' %}
                     {% continue %}
                 {% endif %}
+                {% unless cc.glyphname  %}
+                    {% continue %}
+                {% endunless %}
                 <div>
                     <div class="card text-white">
                         <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">

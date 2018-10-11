@@ -9,7 +9,7 @@
             <div class="modal-body">
                 <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
                 <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
-                <p>{{ cc.glyphname }}</p>
+                <p>{{ cc.glyphname | default: '???' }}</p>
                 {% include cc-social-links.html %}
                 {% if cc.global-glyph-code %}
                     <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>

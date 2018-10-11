@@ -15,6 +15,9 @@ title: Mmmm glyphs
                 {% if cc.layout != 'cc' %}
                     {% continue %}
                 {% endif %}
+                {% unless cc.glyphname  %}
+                    {% continue %}
+                {% endunless %}
                 {% include cc-card.html %}
             {% endfor %}
     </div>

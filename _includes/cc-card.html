@@ -4,7 +4,7 @@
             <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">
             <div class="card-img-overlay">
                 <div class="card-footer">
-                    <span>{{ cc.glyphname | default: '???' }}</span>
+                    <span>{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</span>
                 </div>
             </div>
         </div>

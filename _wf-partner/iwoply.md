@@ -1,6 +1,6 @@
 ---
 layout: cc
-glyphname: 
+glyphname: IWOPLY
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

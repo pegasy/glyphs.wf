@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 315
-glyphname: 
+glyphname: SERGANIKARI
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

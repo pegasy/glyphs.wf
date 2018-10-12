@@ -17,4 +17,5 @@ facebook:
 mixer: 
 ccid: 303
 ---
-
+* Random posts on twitter
+* Youtube videos on the series [This Week in Warframe](https://www.youtube.com/playlist?list=PL77Z7WRW-YK-xvMlDBPqgGsDvGLd4-IbN)

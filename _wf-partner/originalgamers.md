@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 317
-glyphname: 
+glyphname: ORIGINALGAMERS
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

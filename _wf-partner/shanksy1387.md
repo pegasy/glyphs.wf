@@ -17,4 +17,6 @@ primary-language:
 facebook: 
 mixer: 
 ---
-
+* Sub on twitch (then pm shanksy1387 with shanks5Baro sub emote)
+* 5 days watchtime
+* Random giveaways

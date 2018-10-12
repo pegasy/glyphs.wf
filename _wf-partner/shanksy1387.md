@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 316
-glyphname: SHANKSY1387
+glyphname: SHANKSY
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

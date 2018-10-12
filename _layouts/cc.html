@@ -2,52 +2,24 @@
 layout: text-page
 ---
 {% assign cc = page %}
-<div class="card" style="width: 20rem; margin: 1em;">
-    <h5 class="card-title">{{ cc.title }}</h5>
-    <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
-    <div class="card-body">
-        <div class="social-links">
-                {% if cc.youtube %}
-                <a target="_blank" href="{{ cc.youtube }}">
-                    <i class="fab fa-youtube fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.twitch %}
-                <a target="_blank" href="{{ cc.twitch }}">
-                    <i class="fab fa-twitch fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.discord %}
-                <a target="_blank" href="{{ cc.discord }}">
-                    <i class="fab fa-discord fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.twitter %}
-                <a target="_blank" href="{{ cc.twitter }}">
-                    <i class="fab fa-twitter fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.facebook %}
-                <a target="_blank" href="{{ cc.facebook }}">
-                    <i class="fab fa-facebook fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.other-site %}
-                <a target="_blank" href="{{ cc.other-site }}">
-                    <i class="fas fa-globe fa-2x"></i>
-                </a>
-                {% endif %}
-                {% if cc.mixer %}
-                <a target="_blank" href="{{ cc.mixer }}">
-                    <i class="fa fa-bullhorn fa-2x"></i>
-                </a>
-                {% endif %}
-        </div>
+<div class=".cc-list" style="width:20em">
+    <div class="modal-header">
+        <h4 class="modal-title">{{ cc.title }}</h4>
+    </div>
+    <div class="modal-body">
+        <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
         <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
-        <p class="card-text">{{ cc.glyphname }}</p>
+        <p class="float-left">{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</p>
+        <span class="float-left" style="text-align: left">
+        {% include cc-social-links.html %}
         {% if cc.global-glyph-code %}
             <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
+            <div style="text-decoration: line-through;">
+                {{ cc.content }}
+            </div>
+        {% else %}
+            {{ cc.content }}
         {% endif %}
-        {{ content }}
+        </span>
     </div>
 </div>

@@ -10,6 +10,7 @@ layout: text-page
         <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
         <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
         <p class="float-left">{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</p>
+        <hr style="padding-top: 0.5em; margin-top: 2em">
         <span class="float-left" style="text-align: left">
         {% include cc-social-links.html %}
         {% if cc.global-glyph-code %}

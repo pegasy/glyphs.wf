@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 319
-glyphname: 
+glyphname: SAPMATIC
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

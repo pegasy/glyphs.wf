@@ -5,7 +5,7 @@ glyphname: SERGANLKARI
 global-glyph-code: 
 currently-partnered: 8000
 stream-currency-needed-for-glyph: 
-title: Serganlkari
+title: Serganikari
 glyphurl: https://i.glyphs.wf/glyphs/SerganIkari.png
 glyphwave: 16
 youtube: 

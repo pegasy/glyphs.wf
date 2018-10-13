@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 323
-glyphname: 
+glyphname: AJINGOM
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

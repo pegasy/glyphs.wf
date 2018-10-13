@@ -1,11 +1,11 @@
 ---
 layout: cc
 ccid: 315
-glyphname: SERGANIKARI
+glyphname: SERGANLKARI
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: SerganIkari
+title: Serganlkari
 glyphurl: https://i.glyphs.wf/glyphs/SerganIkari.png
 glyphwave: 16
 youtube: 

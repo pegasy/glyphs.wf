@@ -12,6 +12,9 @@ collections:
   wf-partner:
     output: true
     permalink: /:title
+  wf-partner-redirects:
+    output: true
+    permalink: /:title
 
 # Build settings
 permalink: :title/

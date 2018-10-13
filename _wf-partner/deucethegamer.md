@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 326
-glyphname: 
+glyphname: DEUCETHEGAMER
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

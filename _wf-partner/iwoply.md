@@ -7,7 +7,7 @@ stream-currency-needed-for-glyph:
 title: Iwoply
 glyphurl: https://i.glyphs.wf/glyphs/Iwoply.png
 glyphwave: 16
-youtube: 
+youtube: https://www.youtube.com/channel/UCa0YFfBIDXLW_SuaR1zGHdA
 twitch: https://twitch.tv/iwoply
 twitter: https://twitter.com/Iwoply
 discord: 

@@ -10,7 +10,7 @@ twitter: https://twitter.com/Dimitri_V2
 discord: https://discord.gg/dimitriv2
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: DIMITRIV2
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

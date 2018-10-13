@@ -3,7 +3,7 @@ layout: cc
 ccid: 315
 glyphname: SERGANLKARI
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: 8000
 stream-currency-needed-for-glyph: 
 title: Serganlkari
 glyphurl: https://i.glyphs.wf/glyphs/SerganIkari.png
@@ -17,4 +17,9 @@ primary-language:
 facebook: 
 mixer: 
 ---
-
+* Sub to channel on twitch
+* 8000 pellets (stream currency). Redeem on [streamelements](https://streamelements.com/Serganikari/store){:target="_blank"}, then pm in discord or on twitch
+* Giveaways on twitter
+* Console
+  * Random codes on twitter
+  * If you get the pc code you can get a console code for free

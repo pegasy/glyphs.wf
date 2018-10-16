@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: LEYZARGAMINGVIEWS
-global-glyph-code: 
+global-glyph-code: LEYZARGAMINGVIEWS
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: LeyzarGaming

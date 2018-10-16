@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 288
-glyphname: 
+glyphname: BADNEWSBARON
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
@@ -11,7 +11,7 @@ glyphwave: 16
 youtube: 
 twitch: https://twitch.tv/badnewsbaron
 twitter: http://twitter.com/badnewsbaron
-discord: https://discord.gg/0SSzJaTXK5x5BfEk
+discord: https://discord.gg/8GGnzVx
 other-site: 
 primary-language: 
 facebook: 

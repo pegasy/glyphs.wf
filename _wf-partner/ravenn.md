@@ -5,9 +5,9 @@ glyphname: RAVENN
 glyphurl: https://i.glyphs.wf/glyphs/RaVeNZ.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCs0u-yJpbJc3zwYbVENUzHQ
-twitch: https://twitch.tv/ravennlefrenchy
-twitter: https://twitter.com/RavennSector
-discord: 
+twitch: https://twitch.tv/onlyravenntv
+twitter: https://twitter.com/RavennTV
+discord: https://discord.gg/RpNUfvU
 other-site: 
 primary-language: 
 global-glyph-code: 

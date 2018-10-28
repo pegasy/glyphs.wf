@@ -8,8 +8,8 @@ title: Michel Postma
 glyphurl: https://i.glyphs.wf/glyphs/TheNextLevel.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCTm88xDDE2ctpJfqHiiL4dw
-twitch: https://twitch.tv/TNL_Official
-twitter: https://twitter.com/TNLMichel
+twitch: https://twitch.tv/michelpostma
+twitter: https://twitter.com/MichelPostma_
 discord: https://discord.gg/XNYEJhV
 other-site: 
 primary-language: 

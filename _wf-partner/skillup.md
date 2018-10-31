@@ -5,7 +5,7 @@ glyphname: SKILLUP
 glyphurl: https://i.glyphs.wf/glyphs/SkillUp.png
 glyphwave: 7
 youtube: 
-twitch: https://twitch.tv/skill_up_gg
+twitch: https://twitch.tv/skillupyt
 twitter: https://twitter.com/SkillUpYT
 discord: 
 other-site: 

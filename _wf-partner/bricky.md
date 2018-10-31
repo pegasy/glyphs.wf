@@ -8,7 +8,7 @@ title: BrickyOrchid8
 glyphurl: https://i.glyphs.wf/glyphs/Bricky.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCqdcfoz9hDXCXbJDaklkwjQ
-twitch: https://twitch.tv/brickyorchid8
+twitch: https://twitch.tv/bricky
 twitter: https://twitter.com/BrickyOrchid8
 discord: 
 other-site: 

@@ -8,7 +8,7 @@ title: Hypercaptai
 glyphurl: https://i.glyphs.wf/glyphs/Hypercaptai.png
 glyphwave: 7
 youtube: 
-twitch: https://twitch.tv/hypercaptai
+twitch: https://twitch.tv/dobratv
 twitter: 
 discord: https://discord.gg/C3Y7KAg
 other-site: 

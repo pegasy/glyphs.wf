@@ -5,7 +5,7 @@ glyphname: SILENTMASHIKO
 glyphurl: https://i.glyphs.wf/glyphs/SilentMashiko.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCKxdEtafWJs23Rtf0yw_L7A
-twitch: https://twitch.tv/icy_scanner
+twitch: 
 twitter: 
 discord: https://discord.gg/6KR4fYc
 other-site: https://vk.com/silentmashiko

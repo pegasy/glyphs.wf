@@ -2,7 +2,7 @@
 layout: cc
 glyphname: QUEENSEENA
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 title: QueenSeena
 glyphurl: https://i.glyphs.wf/glyphs/Senastra23.png

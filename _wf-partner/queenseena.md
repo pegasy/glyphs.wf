@@ -17,4 +17,4 @@ facebook:
 mixer: 
 ccid: 151
 ---
-
+* Glyph no longer in game (default lotus glyph)

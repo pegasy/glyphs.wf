@@ -10,7 +10,7 @@ twitter: https://twitter.com/DKDiamantes
 discord: https://discord.gg/DKDiamantes
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: DKDiamantes
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

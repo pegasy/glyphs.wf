@@ -17,4 +17,8 @@ primary-language:
 facebook: 
 mixer: 
 ---
+* Subscribe
+* Win giveaways
+* Ascend at least 1 time in StarrFantasy
 
+If you are a subscriber type !pcglyph !xboxglyph !psglyph or !switchglyph in chat to redeem or reserve your code. If you have ascended 1 time in StarrFantasy /w a mod and we will get a code sent to you asap!

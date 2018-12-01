@@ -6,8 +6,8 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Anjetcat
-glyphurl: 
-glyphwave: 
+glyphurl: https://i.glyphs.wf/glyphs/AnJetCat.png
+glyphwave: 17
 youtube: https://www.youtube.com/channel/UCAvXfVow-102mL8aig56eWQ
 twitch: 
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 322
-glyphname: 
+glyphname: STORMCROWN
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

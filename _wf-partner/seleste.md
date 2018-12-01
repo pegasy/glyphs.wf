@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 318
-glyphname: 
+glyphname: SELESTE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

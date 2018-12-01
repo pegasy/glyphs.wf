@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 324
-glyphname: 
+glyphname: ANJETCAT
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

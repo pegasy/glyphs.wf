@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 153
+alt-names: 
 ---
 * PM him on discord

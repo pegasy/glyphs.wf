@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 142
+alt-names: 
 ---
 * Posts keywords in his youtube videos which you can use to redeem a glyph [here](http://xenogelion.com/Hidden/Glyph_Codes.php) (Keywords have a limited amount of uses)

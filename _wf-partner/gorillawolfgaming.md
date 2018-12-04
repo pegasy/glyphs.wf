@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 79
+alt-names: 
 ---
 * Follow and ask for a glyph when they are streaming warframe on Twitch

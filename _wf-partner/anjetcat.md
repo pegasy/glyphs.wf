@@ -16,5 +16,6 @@ other-site:
 primary-language: Chinese
 facebook: https://www.facebook.com/AnJetCat/
 mixer: 
+alt-names: 
 ---
 

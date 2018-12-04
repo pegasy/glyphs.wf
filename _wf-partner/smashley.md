@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 181
+alt-names: 
 ---
 * Purchase glyph with smashbucks (around 100k smashbucks) when it pops up in !store in twitch stream
 * Twitch Subscription

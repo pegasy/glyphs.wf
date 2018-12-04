@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 138
+alt-names: 
 ---
 * Watch stream for 50 hours on Twitch then ask for code in chat
 * Twitch Clips contest

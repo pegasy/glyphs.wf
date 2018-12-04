@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/NoSympathyyCA
 mixer: 
 ccid: 139
+alt-names: 
 ---
 * Drops codes on Twitch
 * 2000 Clarmy on StreamLabs

@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/groups/HouseOfN3RDs
 mixer: 
 ccid: 9
+alt-names: 
 ---
 * Glyph follower giveaways
 * Subscribe on twitch

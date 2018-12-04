@@ -16,5 +16,6 @@ primary-language:
 facebook: https://www.facebook.com/fujiwarframe/
 mixer: 
 ccid: 84
+alt-names: 
 ---
 * Will drop glyph codes in youtube chat during warframe streams on Twitch and YouTube

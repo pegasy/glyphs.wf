@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/ZuculentoDanker/
 mixer: 
 ccid: 41
+alt-names: 
 ---
 * Twitter Posts
 * YouTube Videos

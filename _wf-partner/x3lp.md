@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 222
+alt-names: 
 ---
 * Twitch Raffles
 * Reach the rank of Operator on his Discord

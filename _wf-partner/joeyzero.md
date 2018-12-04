@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 99
+alt-names: 
 ---
 * Posts a link [here](https://www.youtube.com/user/liquidshadows99/community) that will allow you to redeem a glyph (Link has a set number of uses)
 * 3000 Xa on Twitch

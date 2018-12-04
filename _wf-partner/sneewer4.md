@@ -16,6 +16,7 @@ primary-language: French
 facebook: 
 mixer: 
 ccid: 182
+alt-names: 
 ---
 * Posts glyph codes on Twitter
 * Gift him forma bundle (IGN: sNeewer4)

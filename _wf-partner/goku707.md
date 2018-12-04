@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 77
+alt-names: 
 ---
 * Watch for 10 hours and ask in #glyph channel for glyph
 * Subscribe on Twitch

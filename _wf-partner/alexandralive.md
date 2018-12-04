@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 10
+alt-names: 
 ---
 * Redeem with 100 Biscuits (check amount with !biscuits)
 * Twitch Subscription

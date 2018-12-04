@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 68
+alt-names: 
 ---
 * Message him on Twitter/Discord and ask for a glyph

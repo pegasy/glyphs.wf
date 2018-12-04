@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 66
+alt-names: 
 ---
 * Drops codes in chat (Sometimes with math questions to solve for missing number(s) in code)
 * Discord Raffles/Drops

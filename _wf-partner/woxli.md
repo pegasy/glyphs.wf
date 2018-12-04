@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 221
+alt-names: 
 ---
 * Redeem for 100 Crumbs on StreamElements

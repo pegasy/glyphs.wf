@@ -16,6 +16,7 @@ primary-language:
 facebook: 
 mixer: 
 ccid: 58
+alt-names: 
 ---
 * [Reddit post by Juno on how to get it](https://www.reddit.com/r/Warframe/comments/7uzraa/how_to_get_junos_glyph/)
 * Glyph giveaways on Twitch

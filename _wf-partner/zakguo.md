@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 227
+alt-names: 
 ---
 * Twitch Raffles
 * 3000 points on StreamElements

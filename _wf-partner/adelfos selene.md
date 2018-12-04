@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 4
+alt-names: 
 ---
 * Watch stream for 50 hours (!cookies to check) and ask for glyph.
 * Twitch Subscription

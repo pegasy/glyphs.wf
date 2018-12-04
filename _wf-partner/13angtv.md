@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 2
+alt-names: 
 ---
 * Drops glyph codes in Twitch chat
 * Twitch Subscription

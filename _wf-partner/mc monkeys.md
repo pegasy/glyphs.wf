@@ -16,5 +16,6 @@ primary-language: Japanese
 facebook: 
 mixer: 
 ccid: 122
+alt-names: 
 ---
 

@@ -16,5 +16,6 @@ primary-language:
 facebook: 
 mixer: 
 ccid: 151
+alt-names: Senastra23
 ---
 * Glyph no longer in game (default lotus glyph)

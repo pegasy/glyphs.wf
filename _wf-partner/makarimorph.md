@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 124
+alt-names: 
 ---
 * Twitch Raffles
 * Win one of the plat giveaways on Twitch App / Discord and exchange it for a glyph

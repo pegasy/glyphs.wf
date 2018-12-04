@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 96
+alt-names: 
 ---
 * Random Twitch giveaways
 * Drops codes on Twitch (His and other partner’s chats)

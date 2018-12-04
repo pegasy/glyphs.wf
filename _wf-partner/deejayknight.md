@@ -10,12 +10,13 @@ twitter: https://twitter.com/DeejayKnight
 discord: https://discord.gg/knightcorps
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: DEEJAYKNIGHT
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 55
+alt-names: 
 ---
 * Raffles on Twitch
 * Twitch Subscription

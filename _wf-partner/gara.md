@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 72
+alt-names: 
 ---
 * Posts glyph codes on youtube videos

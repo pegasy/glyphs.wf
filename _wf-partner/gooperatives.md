@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 1500
 facebook: 
 mixer: 
 ccid: 78
+alt-names: 
 ---
 * Donate $2 minimum to [Extra Life Charity Group](https://goo.gl/dH964b)
 * Spend 1500 in-chat currency for a glyph

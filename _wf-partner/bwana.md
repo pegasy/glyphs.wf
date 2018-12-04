@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 31
+alt-names: 
 ---
 * Twitch glyph raffle and posts codes in Twitch chat
 * Twitch Subscription

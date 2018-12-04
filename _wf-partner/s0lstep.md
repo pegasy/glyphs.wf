@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 166
+alt-names: 
 ---
 * Glyph raffles on stream
 * Posts glyph codes in #glyph_hype in discord

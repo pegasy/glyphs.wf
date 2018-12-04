@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 50
+alt-names: 
 ---
 * Join Discord and type @Taxon glyphs request pc in #glyph-requests
 * Twitch Subscription

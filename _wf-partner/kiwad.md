@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 108
+alt-names: 
 ---
 * Posts glyph codes on Twitter
 * Accumulate 750 points on Twitch then type !glyph to redeem glyph

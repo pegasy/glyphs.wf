@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 224
+alt-names: 
 ---
 * Glyph giveaways on Twitch streams
 * Reach level 20 on discord (by chatting).

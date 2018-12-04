@@ -16,6 +16,7 @@ other-site: https://www.facebook.com/SerganIkari/
 primary-language: 
 facebook: 
 mixer: 
+alt-names: 
 ---
 * Sub to channel on twitch
 * 8000 pellets (stream currency). Redeem on [streamelements](https://streamelements.com/Serganikari/store){:target="_blank"}, then pm in discord or on twitch

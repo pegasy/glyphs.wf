@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 98
+alt-names: 
 ---
 * Get 600 points in stream and ask for glyph
 * Twitch Subscription

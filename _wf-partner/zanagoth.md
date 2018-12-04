@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 228
+alt-names: 
 ---
 * PM him on Discord
 * Drops codes on Youtube/Twitch

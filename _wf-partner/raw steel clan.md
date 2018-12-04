@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 159
+alt-names: 
 ---
 * Raffles on Discord
 * Codes in Youtube Videos

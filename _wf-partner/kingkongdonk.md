@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 105
+alt-names: 
 ---
 * PM [DE]Taylor ingame and ask for a glyph

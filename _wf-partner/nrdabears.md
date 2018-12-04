@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 140
+alt-names: 
 ---
 * Drops codes on Twitter

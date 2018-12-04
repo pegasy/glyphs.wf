@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 208
+alt-names: 
 ---
 * Posts glyph codes during Twitch stream

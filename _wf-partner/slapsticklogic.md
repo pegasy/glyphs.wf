@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 179
+alt-names: 
 ---
 * Glyph giveaways at random on Twitch
 * Ask a moderator when advertised during Warframe streams on Twitch

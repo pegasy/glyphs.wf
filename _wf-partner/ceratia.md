@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 36
+alt-names: 
 ---
 * Twitch Raffle
 * Twitch Subscription

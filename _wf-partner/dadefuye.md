@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 42
+alt-names: 
 ---
 * Posts codes in Discord

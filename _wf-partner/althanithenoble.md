@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: https://mixer.com/TheNoobles
 ccid: 11
+alt-names: 
 ---
 * Follow on Twitch then ask for glyph

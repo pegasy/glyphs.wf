@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 8
+alt-names: 
 ---
 * Drops glyph codes in Twitch chat
 * YouTube Videos (Rare Occasion)

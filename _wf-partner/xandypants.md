@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 223
+alt-names: 
 ---
 * Win a giveaway on discord (ex. Fashionframe Saturdays)
 * Beat him in Drift Frame on Wednesdays on Twitch

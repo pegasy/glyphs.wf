@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 53
+alt-names: 
 ---
 * Twitch Raffles
 * 2500 Stacks on StreamElements

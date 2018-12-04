@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 1500
 facebook: 
 mixer: 
 ccid: 175
+alt-names: 
 ---
 * YouTube paid subscription (channel membership)
 * Level 20 on Discord server via MEE6 bot

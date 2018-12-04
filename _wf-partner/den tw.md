@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/0Den.tw/
 mixer: 
 ccid: 47
+alt-names: 
 ---
 * Glyph giveaway events on Facebook
 * Posts glyph codes on Facebook (Rarely)

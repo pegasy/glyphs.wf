@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 2500
 facebook: 
 mixer: 
 ccid: 173
+alt-names: 
 ---
 * Glyph giveaway on Twitch channel
 * Buy a glyph code with 2500 forma (stream currency) from StreamElements store

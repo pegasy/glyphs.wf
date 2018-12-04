@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 17
+alt-names: 
 ---
 * Drops codes in Twitch chat

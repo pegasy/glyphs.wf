@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/xBabychanx/
 mixer: 
 ccid: 19
+alt-names: 
 ---
 * Drops codes on Twitch/Twitter
 * Posts codes in YouTube video descriptions/comments

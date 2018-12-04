@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 3000
 facebook: 
 mixer: 
 ccid: 206
+alt-names: 
 ---
 * Drops codes in Youtube videos
 * Redeem for 3000 of his Streamlabs currency

@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 106
+alt-names: 
 ---
 * Drops codes on Twitter
 * Base Tier [Patreon](https://www.patreon.com/krashomnis)

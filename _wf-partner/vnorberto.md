@@ -16,5 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/NorbertosPcGamesAndVlogs
 mixer: 
 ccid: 136
+alt-names: 
 ---
 * Ask for it in stream

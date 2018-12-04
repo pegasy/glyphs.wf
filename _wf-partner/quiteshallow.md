@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 152
+alt-names: 
 ---
 * Glyph giveaways during art stream on twitch
 * Glyph giveaways for [Patreon](https://www.patreon.com/QuiteShallow) and clan member on discord

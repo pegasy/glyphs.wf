@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 70
+alt-names: 
 ---
 * Subscribe on Twitch using this Link
 * Go to #glyph-chat on discord and type:

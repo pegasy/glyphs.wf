@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 62
+alt-names: 
 ---
 * Glyph giveaways on Twitch
 * Twitch Subscription

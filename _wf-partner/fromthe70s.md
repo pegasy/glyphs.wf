@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 69
+alt-names: 
 ---
 * Raffles on Twitch
 * Complete a Mercury speedrun under 1 hour on [speedrun.com/wf#Planets](https://www.speedrun.com/wf#Planets)

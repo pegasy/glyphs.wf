@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 119
+alt-names: 
 ---
 * Twitter Posts
 * Giveaways during Warframe Twitch stream breaks

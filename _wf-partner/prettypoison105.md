@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 4200
 facebook: 
 mixer: 
 ccid: 149
+alt-names: 
 ---
 * Watch stream on Twitch for 69 hours and earn 4200 noots (Stream currency)
 * Glyph giveaways on Twitch

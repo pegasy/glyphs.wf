@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph: 20000
 facebook: 
 mixer: 
 ccid: 205
+alt-names: 
 ---
 * Accumulate 20,000 stripes and then type !redeemGlyph PC in chat. Type !stripes to know how many points you have (Must PM bot first in order to receive PMs from bot)
 * Twitch Subscription

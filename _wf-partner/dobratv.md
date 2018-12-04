@@ -16,5 +16,6 @@ primary-language: Turkish
 facebook: 
 mixer: 
 ccid: 89
+alt-names: 
 ---
 * Raffle on Twitch/Discord

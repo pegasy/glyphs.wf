@@ -16,5 +16,6 @@ primary-language: Hungarian
 facebook: http://facebook.com/nekrokrim
 mixer: 
 ccid: 137
+alt-names: 
 ---
 

@@ -16,6 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 57
+alt-names: 
 ---
 * Post codes [here](https://eduiy16.jimdo.com/gracias-por-tu-click)
 * Post codes in Youtube videos (usually near the end)

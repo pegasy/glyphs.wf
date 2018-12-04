@@ -17,6 +17,7 @@ collectionName: wf-partner
 {% endif %}{% if tag.currently-partnered %}"currently_partnered": "{{ tag.currently-partnered }}",
 {% endif %}{% if tag.content %}"text": "{{ tag.content | strip_newlines | xml_escape }}",
 {% endif %}{% if tag.stream-currency-needed-for-glyph %}"stream_currency_needed_for_glyph": "{{ tag.stream-currency-needed-for-glyph }}",
+{% endif %}{% if tag.alt-names %}"alt_names": "{{ tag.alt-names }}",
 {% endif %}"title": "{{ tag.title }}",
 "url": "{{ site.url }}{{ tag.url }}",
 "id": "{{ tag.ccid }}"

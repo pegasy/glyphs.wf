@@ -16,7 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 96
-alt-names: 
+alt-names: crazybikerdude
 ---
 * Random Twitch giveaways
 * Drops codes on Twitch (His and other partner’s chats)

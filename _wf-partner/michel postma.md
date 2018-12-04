@@ -16,7 +16,7 @@ primary-language:
 facebook: 
 mixer: 
 ccid: 126
-alt-names: 
+alt-names: thenextlevel
 ---
 * Youtube video description
 * Glyph giveaways during Twitch Streams

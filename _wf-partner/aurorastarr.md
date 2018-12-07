@@ -20,9 +20,9 @@ alt-names:
 ---
 * Subscribe
 * Win giveaways
-* Ascend at least 1 time in StarrFantasy
+* Ascend at least 1 time in [StarrFantasy](https://www.starrfantasy.com/)
 
-If you are subscribed, go to [http://starrfantasy.com/glyphcode.php](http://starrfantasy.com/glyphcode.php) and follow the instructions.
+If you are subscribed, go to [http://chat.wtf/authenticate](http://chat.wtf/authenticate) and follow the instructions.
 
 If you have claimed a code via giveaway a mod will be whispering it to you via Twitch Whispers.
 

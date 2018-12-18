@@ -1,7 +1,7 @@
 ---
 collectionName: wf-partner
 ---
-[{% assign collection = site.collections | where: 'label', page.collectionName | first %}{% for tag in collection.docs %}{% if forloop.index0 != 0%},{% endif %}{
+{"partners": [{% assign collection = site.collections | where: 'label', page.collectionName | first %}{% for tag in collection.docs %}{% if tag.layout != 'cc' %}{% continue %}{% endif %}{% if tag.title == 'Template' %}{% continue %}{% endif %}{% if forloop.index0 != 0%},{% endif %}{
 {% if tag.glyphname %}"glyphname": "{{ tag.glyphname }}",
 {% endif %}{% if tag.glyphurl %}"glyphurl": "{{ tag.glyphurl }}",
 {% endif %}{% if tag.glyphwave %}"wave": "{{ tag.glyphwave }}",
@@ -9,11 +9,16 @@ collectionName: wf-partner
 {% endif %}{% if tag.twitch %}"twitch": "{{ tag.twitch }}",
 {% endif %}{% if tag.twitter %}"twitter": "{{ tag.twitter }}",
 {% endif %}{% if tag.discord %}"discord": "{{ tag.discord }}",
-{% endif %}{% if tag.other-site %}"other-site": "{{ tag.other-site }}",
-{% endif %}{% if tag.primary-language %}"primary-language": "{{ tag.primary-language }}",
-{% endif %}{% if tag.global-glyph-code %}"global-glyph-code": "{{ tag.global-glyph-code }}",
-{% endif %}{% if tag.currently-partnered %}"currently-partnered": "{{ tag.currently-partnered }}",
+{% endif %}{% if tag.facebook %}"facebook": "{{ tag.facebook }}",
+{% endif %}{% if tag.mixer %}"mixer": "{{ tag.mixer }}",
+{% endif %}{% if tag.other-site %}"other_site": "{{ tag.other-site }}",
+{% endif %}{% if tag.primary-language %}"primary_language": "{{ tag.primary-language }}",
+{% endif %}{% if tag.global-glyph-code %}"global_glyph_code": "{{ tag.global-glyph-code }}",
+{% endif %}{% if tag.currently-partnered %}"currently_partnered": "{{ tag.currently-partnered }}",
 {% endif %}{% if tag.content %}"text": "{{ tag.content | strip_newlines | xml_escape }}",
-{% endif %}{% if tag.stream-currency-needed-for-glyph %}"stream-currency-needed-for-glyph": "{{ tag.stream-currency-needed-for-glyph }}",
-{% endif %}"title": "{{ tag.title }}"
-}{% endfor %}]
+{% endif %}{% if tag.stream-currency-needed-for-glyph %}"stream_currency_needed_for_glyph": "{{ tag.stream-currency-needed-for-glyph }}",
+{% endif %}{% if tag.alt-names %}"alt_names": "{{ tag.alt-names }}",
+{% endif %}"title": "{{ tag.title }}",
+"url": "{{ site.url }}{{ tag.url }}",
+"id": "{{ tag.ccid }}"
+}{% endfor %}]}

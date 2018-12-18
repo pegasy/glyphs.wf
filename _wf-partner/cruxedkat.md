@@ -1,10 +1,10 @@
 ---
 layout: cc
 title: CruxedKat
-glyphname: CHRISISHD
-glyphurl: https://i.imgur.com/oElWj7a.png
+glyphname: CRUXEDKAT
+glyphurl: https://i.glyphs.wf/glyphs/ChrisIsHD.png
 glyphwave: 7
-youtube: https://youtube.com/channel/CruxedKat
+youtube: https://www.youtube.com/channel/UCU2Ij3bQ0YgN1fYHWsx6Zdw
 twitch: https://twitch.tv/CruxedKat
 twitter: https://twitter.com/CruxedKat
 discord: https://discord.gg/kitty
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: no
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 38
+alt-names: chrisishd
 ---
-* Redeem on Stream Elements extension for 480 points
+* Redeem on Stream Elements extension for 240 points
 * Twitch Subscription

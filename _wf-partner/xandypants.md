@@ -2,9 +2,9 @@
 layout: cc
 title: XandyPants
 glyphname: XANDYPANTS
-glyphurl: https://i.imgur.com/DqfN3Bs.png
+glyphurl: https://i.glyphs.wf/glyphs/XandyPants.png
 glyphwave: 6
-youtube: https://youtube.com/channel/UCSYUiqtdg--jpSGJty-ti0A
+youtube: https://www.youtube.com/channel/UCSYUiqtdg--jpSGJty-ti0A
 twitch: https://twitch.tv/xandypants
 twitter: https://twitter.com/XandyPantsOff
 discord: https://discord.gg/6cp7aJN
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 223
+alt-names: 
 ---
 * Win a giveaway on discord (ex. Fashionframe Saturdays)
 * Beat him in Drift Frame on Wednesdays on Twitch

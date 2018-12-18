@@ -2,9 +2,9 @@
 layout: cc
 title: Rageypoo
 glyphname: RAGEYPOO
-glyphurl: https://i.imgur.com/zq7vUsa.png
+glyphurl: https://i.glyphs.wf/glyphs/Ragey.png
 glyphwave: 4
-youtube: https://youtube.com/user/Ragesauce
+youtube: https://www.youtube.com/channel/UCHo2bwdmDyGnc9rEH1w3wxw
 twitch: https://twitch.tv/rageypoo
 twitter: https://twitter.com/iamrageypoo
 discord: https://discord.gg/sMttRRT
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 154
+alt-names: 
 ---
 * Glyph codes giveaway on Twitch streams
 * Posts glyph codes in random Warframe Partner Twitch streams

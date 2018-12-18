@@ -1,17 +1,24 @@
 ---
 layout: cc
-glyphname: JAEMZ
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
 title: Jaemz
-glyphurl: https://i.imgur.com/Laj12k2.png
+glyphname: JAEMZ
+glyphurl: https://i.glyphs.wf/glyphs/CrazyBikerDude.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCUmLeHG9qn77mn4rSe-riuQ
+youtube: https://www.youtube.com/channel/UCUmLeHG9qn77mn4rSe-riuQ
 twitch: https://twitch.tv/jaemz
 twitter: https://twitter.com/CrazyBikerDude
 discord: https://discord.gg/cbd
 other-site: 
 primary-language: 
+global-glyph-code: 
+currently-partnered: 
+stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 96
+alt-names: crazybikerdude
 ---
-
+* Random Twitch giveaways
+* Drops codes on Twitch (His and other partner’s chats)
+* Be in his discord for 1 month and ask for glyph
+* Twitch Subscription

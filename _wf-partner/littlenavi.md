@@ -2,7 +2,7 @@
 layout: cc
 title: LittleNavi
 glyphname: LITTLENAVI
-glyphurl: https://i.imgur.com/8TYRwE9.png
+glyphurl: https://i.glyphs.wf/glyphs/LittleNavi.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/littlenavi_
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 111
+alt-names: 
 ---
 

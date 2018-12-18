@@ -2,9 +2,9 @@
 layout: cc
 title: Spacebeastx
 glyphname: SPACEBEASTX
-glyphurl: https://i.imgur.com/jRoNU4s.png
+glyphurl: https://i.glyphs.wf/glyphs/Spacebeastx.png
 glyphwave: 8
-youtube: https://youtube.com/channel/UCkrsGHNBC1LWqPAjGllM5Fg
+youtube: https://www.youtube.com/channel/UCkrsGHNBC1LWqPAjGllM5Fg
 twitch: https://twitch.tv/spacebeastx
 twitter: https://twitter.com/spacebeastx
 discord: https://discordapp.com/invite/0xFqStQ9cqcXb5JA
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 184
+alt-names: 
 ---
 

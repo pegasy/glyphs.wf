@@ -5,13 +5,17 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: DADxGOTxGAME
-glyphurl: https://i.imgur.com/Tv9zCWC.png
+glyphurl: https://i.glyphs.wf/glyphs/DadXGotXGame.png
 glyphwave: 14
-youtube: https://youtube.com/channel/dadxgotxgame
+youtube: https://www.youtube.com/channel/UCF3B-5KKZf9SfpviozS2rbg
 twitch: 
 twitter: https://twitter.com/dadxgotxgame
 discord: https://discord.gg/Y5bxhCQ
-other-site: https://mixer.com/dadxgotxgame
+other-site: 
 primary-language: 
+facebook: 
+mixer: https://mixer.com/dadxgotxgame
+ccid: 43
+alt-names: 
 ---
 

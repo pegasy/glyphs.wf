@@ -2,7 +2,7 @@
 layout: cc
 title: JayNeverwhere
 glyphname: JAYNEVERWHERE
-glyphurl: https://i.imgur.com/nvWRvMD.png
+glyphurl: https://i.glyphs.wf/glyphs/JayNeverwhere.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/jayneverwhere
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 98
+alt-names: 
 ---
 * Get 600 points in stream and ask for glyph
 * Twitch Subscription

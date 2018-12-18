@@ -1,0 +1,23 @@
+---
+layout: default
+title: Not found
+permalink: /404.html
+---
+<div class="container">
+  <div class="row">
+    <div class="col pt-5">
+      <h1 class="display-3 text-primary text-center">Sorry, nothing was found here!</h1>
+    </div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>
+  $(function() {
+    if (window.location.href.includes('/wf-partner/')){
+      var p = window.location.href.split('/');
+      p = p[p.length - 1];
+      window.location.href = '/' + p;
+    }
+  });
+</script>

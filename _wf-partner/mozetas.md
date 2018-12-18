@@ -1,17 +1,21 @@
 ---
 layout: cc
-title: Mozetas 
+title: Mozetas
 glyphname: MOZETAS
-glyphurl: https://i.imgur.com/utJipTZ.png
+glyphurl: https://i.glyphs.wf/glyphs/Mozetas.png
 glyphwave: 7
-youtube: https://youtube.com/user/mozetas
+youtube: https://www.youtube.com/channel/UCcGsVKthjBhJTNsEagn8d4A
 twitch: https://twitch.tv/mozetas
 twitter: 
 discord: 
-other-site: https://www.facebook.com/cafofodomozetas
+other-site: 
 primary-language: Portuguese
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: https://www.facebook.com/cafofodomozetas
+mixer: 
+ccid: 130
+alt-names: 
 ---
 

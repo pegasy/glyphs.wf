@@ -1,8 +1,8 @@
 ---
 layout: cc
-title: TioMario 
+title: TioMario
 glyphname: TIOMARIO
-glyphurl: https://i.imgur.com/Hw37PC6.png
+glyphurl: https://i.glyphs.wf/glyphs/TioMario.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/tiomario
@@ -13,5 +13,9 @@ primary-language: Spanish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 199
+alt-names: 
 ---
 * Ask for it in Discord

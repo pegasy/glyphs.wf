@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Vernoc 
+title: Vernoc
 glyphname: VERNOC
-glyphurl: https://i.imgur.com/8VrsRIx.png
+glyphurl: https://i.glyphs.wf/glyphs/Vernoc.png
 glyphwave: 3
-youtube: https://youtube.com/user/deBurkholz
+youtube: https://www.youtube.com/channel/UCp30RX-VJFBBgtBFrU5UXYA
 twitch: https://twitch.tv/vernoc
 twitter: 
 discord: 
@@ -13,5 +13,9 @@ primary-language: German
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 208
+alt-names: 
 ---
 * Posts glyph codes during Twitch stream

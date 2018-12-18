@@ -2,7 +2,7 @@
 layout: cc
 title: Infraredmike
 glyphname: INFRAREDMIKE
-glyphurl: https://i.imgur.com/ZoWyMFH.png
+glyphurl: https://i.glyphs.wf/glyphs/InfraredMike.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/infraredmike
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 93
+alt-names: 
 ---
 * Raffles on Twitch

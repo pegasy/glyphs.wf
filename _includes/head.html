@@ -1,0 +1,15 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>{{ page.title | site.title }}</title>
+  <link rel="icon" type="image/png" href="{{'/assets/images/icon.png'}}">
+  <link rel="stylesheet" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+  <meta name="description" content="{{ site.description }}" />
+  <meta property="og:title" content="{{ page.title | site.title }}" />
+  <meta property="og:description" content="{% if page.glyphname %}{{ page.content | strip_html }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:image" content="{{ page.glyphurl | default: '/assets/images/icon.png' }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <link rel="shortcut icon" href="{{ page.glyphurl | default: '/assets/images/icon.png' }}" type="image/x-icon" />
+</head>

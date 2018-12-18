@@ -2,9 +2,9 @@
 layout: cc
 title: Ceratia
 glyphname: CERATIA
-glyphurl: https://i.imgur.com/hdZuuOo.png
+glyphurl: https://i.glyphs.wf/glyphs/Ceratia.png
 glyphwave: 4
-youtube: https://youtube.com/channel/CeratiaTV
+youtube: https://www.youtube.com/channel/UCygEjZ-BZxFhZNj1ybLhPCA
 twitch: https://twitch.tv/ceratia
 twitter: https://twitter.com/CeratiaTV
 discord: 
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 36
+alt-names: 
 ---
 * Twitch Raffle
 * Twitch Subscription

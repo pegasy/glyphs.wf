@@ -2,9 +2,9 @@
 layout: cc
 title: DanieltheDemon
 glyphname: DANIELTHEDEMON
-glyphurl: https://i.imgur.com/Xwj8OFp.png
+glyphurl: https://i.glyphs.wf/glyphs/DanieltheDemon.png
 glyphwave: 2
-youtube: https://youtube.com/danielthedemon
+youtube: https://www.youtube.com/channel/UCSWa65r3H_4Ca9LWXMMTdSg
 twitch: https://twitch.tv/danielthedemon
 twitter: https://twitter.com/DanieltheDemon
 discord: https://discord.gg/0RoLAVFXFlP6E7R4
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 44
+alt-names: 
 ---
 * Twitch Raffle
 * Twitch Subscription

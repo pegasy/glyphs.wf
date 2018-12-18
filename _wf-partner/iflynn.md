@@ -2,9 +2,9 @@
 layout: cc
 title: iFlynn
 glyphname: IFLYNN
-glyphurl: https://i.imgur.com/vLqJrrf.png
+glyphurl: https://i.glyphs.wf/glyphs/Iflynn.png
 glyphwave: 1
-youtube: https://youtube.com/user/xiFlynn
+youtube: https://www.youtube.com/channel/UCjHhQ3k4zQ2Y8-CPM7KpGww
 twitch: https://twitch.tv/iflynn
 twitter: https://twitter.com/xiFlynn
 discord: https://discord.gg/iflynn
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: IFLYNN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 90
+alt-names: 
 ---
 

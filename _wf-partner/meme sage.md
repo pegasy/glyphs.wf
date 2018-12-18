@@ -2,9 +2,9 @@
 layout: cc
 title: Meme Sage
 glyphname: MEME SAGE
-glyphurl: https://i.imgur.com/BdOeirD.png
+glyphurl: https://i.glyphs.wf/glyphs/MemeSage.png
 glyphwave: 4
-youtube: https://youtube.com/channel/MemeSage
+youtube: https://www.youtube.com/channel/UCU6hxdNosVNBgBVFF-GFJqQ
 twitch: https://twitch.tv/memesage
 twitter: https://twitter.com/MemeSageZ
 discord: https://discord.gg/msFkrKK
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 125
+alt-names: 
 ---
 * Glyph giveaways on Twitch
 * Reach level 20 on his discord (by chatting)

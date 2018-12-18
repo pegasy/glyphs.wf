@@ -2,9 +2,9 @@
 layout: cc
 title: H3dsh0t
 glyphname: H3DSH0T
-glyphurl: https://i.imgur.com/HPG7721.png
+glyphurl: https://i.glyphs.wf/glyphs/H3dsh0t.png
 glyphwave: 1
-youtube: https://youtube.com/user/youngrozzz
+youtube: https://www.youtube.com/channel/UCo4fHIsEEW4TubX6rO8STYQ
 twitch: https://twitch.tv/h3dsh0t
 twitter: https://twitter.com/_H3dsh0t
 discord: https://discord.gg/0jIdQo1dCdK2MvrL
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 83
+alt-names: 
 ---
 * Go to #glyph_request in Discord and type @Taxon glyphs request pc

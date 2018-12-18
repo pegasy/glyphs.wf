@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Kiwad 
+title: Kiwad
 glyphname: KIWAD
-glyphurl: https://i.imgur.com/ntydWAy.png
+glyphurl: https://i.glyphs.wf/glyphs/Kiwad.png
 glyphwave: 4
-youtube: https://youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
+youtube: https://www.youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
 twitch: https://twitch.tv/kiwad
 twitter: https://twitter.com/KiWadim
 discord: 
@@ -13,6 +13,10 @@ primary-language: Russian
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 108
+alt-names: 
 ---
 * Posts glyph codes on Twitter
 * Accumulate 750 points on Twitch then type !glyph to redeem glyph

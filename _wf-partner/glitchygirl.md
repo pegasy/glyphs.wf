@@ -2,7 +2,7 @@
 layout: cc
 title: GlitchyGirl
 glyphname: GLITCHYGIRL
-glyphurl: https://i.imgur.com/z7QKLar.png
+glyphurl: https://i.glyphs.wf/glyphs/GlitchyGirl.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/glitchygirl
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 75
+alt-names: 
 ---
 

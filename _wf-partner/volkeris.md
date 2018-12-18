@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Volkeris5k
-glyphurl: https://i.imgur.com/cHWXRPr.png
+glyphurl: https://i.glyphs.wf/glyphs/Volkeris.png
 glyphwave: 11
 youtube: 
 twitch: https://twitch.tv/volkeris5k
@@ -13,5 +13,9 @@ twitter:
 discord: 
 other-site: 
 primary-language: 
+facebook: 
+mixer: 
+ccid: 211
+alt-names: 
 ---
 

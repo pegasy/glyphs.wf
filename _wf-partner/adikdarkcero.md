@@ -1,17 +1,21 @@
 ---
 layout: cc
-title: AdikDarkCero 
+title: AdikDarkCero
 glyphname: ADIKDARKCERO
-glyphurl: https://i.imgur.com/MggMeNt.png
+glyphurl: https://i.glyphs.wf/glyphs/AdikDarkCero.png
 glyphwave: 8
-youtube: https://youtube.com/user/AdikDarkCero
+youtube: https://www.youtube.com/channel/UCIO38VXJJAqk3ypp-eJRFBA
 twitch: https://twitch.tv/adikdarkcero
 twitter: https://twitter.com/AdikDarkCero
 discord: https://discord.gg/vMCdwM
-other-site: https://www.facebook.com/AdikDarkCeroo/
+other-site: 
 primary-language: Polish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: https://www.facebook.com/AdikDarkCeroo/
+mixer: 
+ccid: 5
+alt-names: 
 ---
 

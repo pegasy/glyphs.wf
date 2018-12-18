@@ -2,17 +2,21 @@
 layout: cc
 title: M.C.I.K
 glyphname: M C I K
-glyphurl: https://i.imgur.com/CRWMNIg.png
+glyphurl: https://i.glyphs.wf/glyphs/MCIK.png
 glyphwave: 3
-youtube: https://youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
+youtube: https://www.youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
 twitch: https://twitch.tv/colejamesofficial
 twitter: https://twitter.com/colejofficial
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MCIK
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 121
+alt-names: 
 ---
 * Posts glyph codes in Twitch chat
 * Glyph giveaways on Twitch

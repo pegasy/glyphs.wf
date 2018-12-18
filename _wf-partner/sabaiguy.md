@@ -2,7 +2,7 @@
 layout: cc
 title: SabaiGuy
 glyphname: SABAIGUY
-glyphurl: https://i.imgur.com/Q23SGL5.png
+glyphurl: https://i.glyphs.wf/glyphs/SabaiGuy.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/sabaiguy
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 167
+alt-names: 
 ---
 * Raffles on Twitch

@@ -1,17 +1,21 @@
 ---
 layout: cc
 glyphname: STRIPPIN
-global-glyph-code: 
+global-glyph-code: STRIPPIN
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Strippin
-glyphurl: https://i.imgur.com/NlhsRQH.png
+glyphurl: https://i.glyphs.wf/glyphs/Strippin.png
 glyphwave: 13
-youtube: https://youtube.com/strippin
+youtube: https://www.youtube.com/channel/UC90ThxjTNaHaqyPVtfyZ4hw
 twitch: https://twitch.tv/Strippin
 twitter: https://twitter.com/strippin
 discord: https://discord.gg/aFtM7Gs
-other-site: http://www.facebook.com/thestrippin
+other-site: 
 primary-language: 
+facebook: http://www.facebook.com/thestrippin
+mixer: 
+ccid: 188
+alt-names: 
 ---
 

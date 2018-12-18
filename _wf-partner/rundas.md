@@ -2,9 +2,9 @@
 layout: cc
 title: Rundas342
 glyphname: RUNDAS
-glyphurl: https://i.imgur.com/NeGC9jb.png
+glyphurl: https://i.glyphs.wf/glyphs/Rundas.png
 glyphwave: 4
-youtube: https://youtube.com/user/Rundas342
+youtube: https://www.youtube.com/channel/UCWAc83azv0xACa4vpnfU1Fw
 twitch: https://twitch.tv/rundas
 twitter: https://twitter.com/Subzeroex
 discord: 
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 165
+alt-names: 
 ---
 * Contact him on any social media and ask for a glyph code once

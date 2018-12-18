@@ -2,7 +2,7 @@
 layout: cc
 title: Schabybaby
 glyphname: LORDSCHABY21
-glyphurl: https://i.imgur.com/22vcrZm.png
+glyphurl: https://i.glyphs.wf/glyphs/Lordschaby.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/schabybaby
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 169
+alt-names: 
 ---
 * Ask one of his mods on Twitch for a code

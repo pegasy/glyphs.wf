@@ -1,10 +1,10 @@
 ---
 layout: cc
-title: Infodiversao 
+title: Infodiversao
 glyphname: INFODIVERSAO
-glyphurl: https://i.imgur.com/gujXpyn.png
+glyphurl: https://i.glyphs.wf/glyphs/Infodiversao.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCQVZw42Hlhg7_Q1Ip36KkrQ
+youtube: https://www.youtube.com/channel/UCQVZw42Hlhg7_Q1Ip36KkrQ
 twitch: https://twitch.tv/infodiversao
 twitter: 
 discord: 
@@ -13,5 +13,9 @@ primary-language: Portuguese
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 92
+alt-names: 
 ---
 * Drops codes in streams

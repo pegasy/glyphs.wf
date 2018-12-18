@@ -2,7 +2,7 @@
 layout: cc
 title: Bast_50
 glyphname: BAST 50
-glyphurl: https://i.imgur.com/SMb6fg8.png
+glyphurl: https://i.glyphs.wf/glyphs/Bast50.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/bast_50
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 21
+alt-names: 
 ---
 

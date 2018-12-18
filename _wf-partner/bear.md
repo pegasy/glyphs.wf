@@ -2,7 +2,7 @@
 layout: cc
 title: MrBearGaming
 glyphname: BEAR
-glyphurl: https://i.imgur.com/3yRKNnp.png
+glyphurl: https://i.glyphs.wf/glyphs/MrBearGaming.png
 glyphwave: 3
 youtube: 
 twitch: https://twitch.tv/bear
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 131
+alt-names: 
 ---
 * Message [DE]Taylor in-game to obtain

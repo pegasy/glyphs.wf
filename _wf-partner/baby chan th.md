@@ -1,18 +1,22 @@
 ---
 layout: cc
-title: BabyChan 
+title: Babychan TH
 glyphname: BABY CHAN TH
-glyphurl: https://i.imgur.com/9lzN0yQ.png
+glyphurl: https://i.glyphs.wf/glyphs/BabychanTH.png
 glyphwave: 7
-youtube: https://youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
+youtube: https://www.youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
 twitch: https://twitch.tv/babychanth
 twitter: https://twitter.com/xBabychanTHx
 discord: https://discord.gg/USzaZgM
-other-site: https://www.facebook.com/xBabychanx/
+other-site: 
 primary-language: Thai
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: https://www.facebook.com/xBabychanx/
+mixer: 
+ccid: 19
+alt-names: 
 ---
 * Drops codes on Twitch/Twitter
 * Posts codes in YouTube video descriptions/comments

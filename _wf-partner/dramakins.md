@@ -2,7 +2,7 @@
 layout: cc
 title: Dramakins
 glyphname: DRAMAKINS
-glyphurl: https://i.imgur.com/S8jiEHq.png
+glyphurl: https://i.glyphs.wf/glyphs/Dramakins.png
 glyphwave: 8
 youtube: 
 twitch: https://twitch.tv/dramakins
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 56
+alt-names: 
 ---
 

@@ -2,7 +2,7 @@
 layout: cc
 title: xOGx Skeezy
 glyphname: XOGXSKEEZY
-glyphurl: https://i.imgur.com/ITnwPVI.png
+glyphurl: https://i.glyphs.wf/glyphs/XOGxSkeezy.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/skeez
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 225
+alt-names: 
 ---
 

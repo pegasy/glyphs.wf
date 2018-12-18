@@ -2,9 +2,9 @@
 layout: cc
 title: DADEYFUE
 glyphname: DADEFUYE
-glyphurl: https://i.imgur.com/XBPu2CJ.png
+glyphurl: https://i.glyphs.wf/glyphs/Dadefuye.png
 glyphwave: 7
-youtube: https://youtube.com/user/dejesusadefuye1
+youtube: https://www.youtube.com/channel/UCNFo0htAHe8oOdreCWQ_YRQ
 twitch: 
 twitter: https://twitter.com/daadefuyemedia
 discord: https://discord.gg/JADs4kd
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 42
+alt-names: 
 ---
 * Posts codes in Discord

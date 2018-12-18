@@ -2,9 +2,9 @@
 layout: cc
 title: Distant Observer
 glyphname: DISTANT OBSERVER
-glyphurl: https://i.imgur.com/FuNNkVv.png
+glyphurl: https://i.glyphs.wf/glyphs/DistantObserver.png
 glyphwave: 3
-youtube: https://youtube.com/distantobserver
+youtube: https://www.youtube.com/channel/UC13043Ga8_N3kItV22oHazQ
 twitch: 
 twitter: https://twitter.com/operatordisObs
 discord: https://discord.gg/HPHgyZc
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 51
+alt-names: 
 ---
 

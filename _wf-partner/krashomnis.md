@@ -2,9 +2,9 @@
 layout: cc
 title: KrashOmnis
 glyphname: KRASHOMNIS
-glyphurl: https://i.imgur.com/FTuPgI7.png
+glyphurl: https://i.glyphs.wf/glyphs/KrashOmnis.png
 glyphwave: 7
-youtube: https://youtube.com/krashomnis
+youtube: https://www.youtube.com/channel/UC20ymRBBnBJ-U2peNIeIV3g
 twitch: https://twitch.tv/krashomnis
 twitter: https://twitter.com/krashomnis
 discord: 
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 106
+alt-names: 
 ---
 * Drops codes on Twitter
 * Base Tier [Patreon](https://www.patreon.com/krashomnis)

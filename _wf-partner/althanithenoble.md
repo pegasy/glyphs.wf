@@ -2,16 +2,20 @@
 layout: cc
 title: Althanithenoble
 glyphname: ALTHANITHENOBLE
-glyphurl: https://i.imgur.com/MNhWqzp.png
+glyphurl: https://i.glyphs.wf/glyphs/Althani.png
 glyphwave: 4
 youtube: 
 twitch: https://twitch.tv/althanithenoble
 twitter: https://twitter.com/AlThaniTheNoble
 discord: https://discord.gg/mzXwSRd
-other-site: https://mixer.com/TheNoobles
+other-site: 
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: https://mixer.com/TheNoobles
+ccid: 11
+alt-names: 
 ---
 * Follow on Twitch then ask for glyph

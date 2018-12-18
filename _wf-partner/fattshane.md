@@ -2,7 +2,7 @@
 layout: cc
 title: Fattshane
 glyphname: FATTSHANE
-glyphurl: https://i.imgur.com/08rJNZ9.png
+glyphurl: https://i.glyphs.wf/glyphs/FattShane.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/fattshane
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 64
+alt-names: 
 ---
 * Drops codes on Twitch/Twitter/Discord

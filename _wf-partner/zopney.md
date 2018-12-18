@@ -2,7 +2,7 @@
 layout: cc
 title: zopney
 glyphname: ZOPNEY
-glyphurl: https://i.imgur.com/QQab7Wd.png
+glyphurl: https://i.glyphs.wf/glyphs/Zopney.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/zopney
@@ -11,7 +11,11 @@ discord:
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 229
+alt-names: 
 ---
 * Info can be found [here](https://pastebin.com/h9q3aJ3W)

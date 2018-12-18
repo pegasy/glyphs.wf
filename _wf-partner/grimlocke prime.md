@@ -5,13 +5,17 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: GrimlockePrime
-glyphurl: https://i.imgur.com/ZsCeZmY.png
+glyphurl: https://i.glyphs.wf/glyphs/GrimlockePrime.png
 glyphwave: 12
-youtube: https://youtube.com/user/solitarybleek
+youtube: https://www.youtube.com/channel/UC3tVs_MxKiLZkc1rkJPegsA
 twitch: 
 twitter: https://twitter.com/GrimlockePrime
 discord: https://discord.gg/e2E5v
-other-site: https://mixer.com/GrimlockePrime
+other-site: 
 primary-language: 
+facebook: 
+mixer: https://mixer.com/GrimlockePrime
+ccid: 81
+alt-names: 
 ---
 

@@ -1,18 +1,22 @@
 ---
 layout: cc
-title: D4NK3R 
+title: D4NK3R
 glyphname: D4NK3R
-glyphurl: https://i.imgur.com/FdKq6bc.png
+glyphurl: https://i.glyphs.wf/glyphs/D4NK3R.png
 glyphwave: 3
-youtube: https://youtube.com/D4NK3R
+youtube: https://www.youtube.com/channel/UCANi2rQYSLwaH6TTaLs3gCw
 twitch: 
 twitter: https://twitter.com/DankerGrimaldo
 discord: 
-other-site: https://www.facebook.com/ZuculentoDanker/
+other-site: 
 primary-language: Spanish
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: https://www.facebook.com/ZuculentoDanker/
+mixer: 
+ccid: 41
+alt-names: 
 ---
 * Twitter Posts
 * YouTube Videos

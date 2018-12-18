@@ -2,9 +2,9 @@
 layout: cc
 title: NRDabears
 glyphname: NRDABEARS
-glyphurl: https://i.imgur.com/UoAUvjh.png
+glyphurl: https://i.glyphs.wf/glyphs/NRDabears.png
 glyphwave: 7
-youtube: https://youtube.com/user/Dabears841
+youtube: https://www.youtube.com/channel/UCeXezVU6A4Q1Oo13AdAoqYw
 twitch: https://twitch.tv/nrdabears
 twitter: https://twitter.com/NRDabears
 discord: 
@@ -13,5 +13,9 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 140
+alt-names: 
 ---
 * Drops codes on Twitter

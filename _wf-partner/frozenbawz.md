@@ -2,9 +2,9 @@
 layout: cc
 title: Frozenbawz
 glyphname: FROZENBAWZ
-glyphurl: https://i.imgur.com/l1Ju2lq.png
+glyphurl: https://i.glyphs.wf/glyphs/Frozenbawz.png
 glyphwave: 3
-youtube: https://youtube.com/channel/frozenballzgaming
+youtube: https://www.youtube.com/channel/UCS3wXLKaX6Xc4HYGdYbzupg
 twitch: https://twitch.tv/frozenballz
 twitter: https://twitter.com/Frozenbawz
 discord: https://discord.gg/frozenballz
@@ -13,6 +13,10 @@ primary-language:
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
+facebook: 
+mixer: 
+ccid: 70
+alt-names: 
 ---
 * Subscribe on Twitch using this Link
 * Go to #glyph-chat on discord and type:

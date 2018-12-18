@@ -4,14 +4,18 @@ glyphname: SILVERSHADOWFR
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Silver Shadow 
-glyphurl: https://i.imgur.com/hjq6YYp.png
+title: Silver Shadow
+glyphurl: https://i.glyphs.wf/glyphs/WarframeFR.png
 glyphwave: 5
-youtube: https://youtube.com/user/FranceWarframe
+youtube: https://www.youtube.com/channel/UCAX7WqD5zY7mcB9sWhuv3vQ
 twitch: https://twitch.tv/silvershadowfr
 twitter: https://twitter.com/SilverShadowFR
 discord: http://discord.gg/eEYFGra
 other-site: 
 primary-language: French
+facebook: 
+mixer: 
+ccid: 177
+alt-names: warframe fr
 ---
 

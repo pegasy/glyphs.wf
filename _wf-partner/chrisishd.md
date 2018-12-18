@@ -1,5 +1,0 @@
----
-layout: redirect
-link: cruxedkat
----
-

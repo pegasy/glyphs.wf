@@ -4,14 +4,18 @@ glyphname: JUSTPLAYBP
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: JustPlayBP 
-glyphurl: https://i.imgur.com/dHzF1lj.png
+title: JustPlayBP
+glyphurl: https://i.glyphs.wf/glyphs/JustPlayBP.png
 glyphwave: 11
-youtube: https://youtube.com/user/JustPlayBP
+youtube: https://www.youtube.com/channel/UC8ZCMsLm9LURmfMxLeRmI2Q
 twitch: https://twitch.tv/justplaybp
 twitter: https://twitter.com/JustPlayBP
 discord: 
-other-site: https://www.facebook.com/Jplay.de
+other-site: 
 primary-language: German
+facebook: https://www.facebook.com/Jplay.de
+mixer: 
+ccid: 100
+alt-names: 
 ---
 

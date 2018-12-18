@@ -7,7 +7,7 @@ glyphwave: 3
 youtube: https://www.youtube.com/channel/UClyqnN5fswKIPqNwIYk2VkQ
 twitch: https://twitch.tv/rlcgaming
 twitter: https://twitter.com/RLC_Here
-discord: https://discord.gg/vnutB2R
+discord: https://https//discord.gg/XkVbBwG
 other-site: 
 primary-language: 
 global-glyph-code: 
@@ -18,4 +18,4 @@ mixer:
 ccid: 163
 alt-names: 
 ---
-* Buy the glyph with stream currency in StreamElements store (costs 3000 melons / 25 hours)
+* We now have Glyphs for PC / PS4 / Xbox One / Switch. In order to obtain my glyph, you can now go to my [Discord](https://https//discord.gg/XkVbBwG) and get it free

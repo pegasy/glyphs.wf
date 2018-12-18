@@ -5,9 +5,9 @@ glyphname: ZOPNEY
 glyphurl: https://i.glyphs.wf/glyphs/Zopney.png
 glyphwave: 7
 youtube: https://www.youtube.com/zopney
-twitch: https://twitch.tv/zopney
+twitch: 
 twitter: https://twitter.com/zopney
-discord: 
+discord: https://discord.gg/7wtcKvv
 other-site: https://www.speedrun.com/wf
 primary-language: 
 global-glyph-code: 

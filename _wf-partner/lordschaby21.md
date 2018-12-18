@@ -1,6 +1,6 @@
 ---
 layout: cc
-title: Schabybaby
+title: schabybaby
 glyphname: LORDSCHABY21
 glyphurl: https://i.glyphs.wf/glyphs/Lordschaby.png
 glyphwave: 7
@@ -18,4 +18,5 @@ mixer:
 ccid: 169
 alt-names: 
 ---
-* Ask one of his mods on Twitch for a code
+* Win a glyph raffle on Twitch channel.
+* Purchase from StreamElements [store](https://streamelements.com/schabybaby/store) for 5000 rattles.

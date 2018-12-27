@@ -12,11 +12,12 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 600
 facebook: 
 mixer: 
 ccid: 98
 alt-names: 
 ---
-* Get 600 points in stream and ask for glyph
-* Twitch Subscription
+* **This partner has not been available to distribute glyphs for over 100 days.** Contact [DE]Taylor for possible acquisition.
+* ~~Get 600 points in stream and ask for glyph~~
+* ~~Twitch Subscription~~

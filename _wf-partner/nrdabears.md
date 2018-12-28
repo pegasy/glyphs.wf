@@ -9,13 +9,13 @@ twitch: https://twitch.tv/nrdabears
 twitter: https://twitter.com/NRDabears
 discord: 
 other-site: 
-primary-language: 
+primary-language: German
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 140
 alt-names: 
 ---
-* Drops codes on Twitter
+* Ask [DE]Taylor in-game.

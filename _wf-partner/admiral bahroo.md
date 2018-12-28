@@ -5,11 +5,11 @@ glyphname: ADMIRAL BAHROO
 glyphurl: https://i.glyphs.wf/glyphs/AdmiralBahroo.png
 glyphwave: 7
 youtube: 
-twitch: 
+twitch: https://www.twitch.tv/admiralbahroo
 twitter: 
 discord: 
 other-site: 
-primary-language: 
+primary-language: English
 global-glyph-code: ADMIRALBAHROO
 currently-partnered: 
 stream-currency-needed-for-glyph: 

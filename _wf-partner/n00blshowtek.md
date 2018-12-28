@@ -18,4 +18,3 @@ mixer:
 ccid: 1
 alt-names: 
 ---
-* Youtube video description / Comments Section

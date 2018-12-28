@@ -18,4 +18,4 @@ mixer:
 ccid: 203
 alt-names: 
 ---
-* PM [DE]Taylor in game
+* Message [DE]Taylor in-game.

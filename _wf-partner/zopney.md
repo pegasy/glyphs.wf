@@ -18,4 +18,4 @@ mixer:
 ccid: 229
 alt-names: 
 ---
-* Info can be found [here](https://www.speedrun.com/wf/thread/865b7).
+* Submit a qualifying speedrun to speedrun.com/wf. More info can be found [here](https://www.speedrun.com/wf/thread/865b7).

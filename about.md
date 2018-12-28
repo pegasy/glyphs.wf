@@ -10,7 +10,7 @@ This website helps you to find information on glyphs, how to acquire them, and s
 
 #### Updating information on this site
 
-**General Updates:** Information can become outdated and requiring updating. To provide updates to a glyph, join the [Discord]({{ site.social-links.discord }}) and ask someone with the `glyphs.wf info maintainer` role to update it with the new information. Alternatively, you can make a new `Outdated` Issue on the [GitHub repo]({{ site.github.repository_url }}) for this website. Please provide as much information as possible.  
+**General Updates:** Information can become outdated and requiring updating. Updates to the information is gathered and suggested by the community. If you see errorneous information for a glyph page, join the [Discord]({{ site.social-links.discord }}) and ask someone with the `glyphs.wf info maintainer` role to update it with the new information. Alternatively, you can make a new `Outdated` Issue on the [GitHub repo]({{ site.github.repository_url }}) for this website. Please provide as much information as possible.  
 **Removal:** Removal of the information for a glyph can be requested by the original owner of the intellectual property. Please submit a `Removal Request` on the GitHub repo. You will be contacted shortly afterward to verify the removal.
 
 Feature requests go either in the discord or on GitHub as well.

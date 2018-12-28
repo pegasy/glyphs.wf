@@ -11,13 +11,11 @@ discord:
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 36
 alt-names: 
 ---
-* Twitch Raffle
-* Twitch Subscription
-* Watch Twitch stream for 50 hours then type !claimglyph (Glyphs given out off-stream)
+* Message [DE]Taylor in-game.

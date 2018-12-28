@@ -4,11 +4,11 @@ title: zopney
 glyphname: ZOPNEY
 glyphurl: https://i.glyphs.wf/glyphs/Zopney.png
 glyphwave: 7
-youtube: 
-twitch: https://twitch.tv/zopney
+youtube: https://www.youtube.com/zopney
+twitch: 
 twitter: https://twitter.com/zopney
-discord: 
-other-site: 
+discord: https://discord.gg/7wtcKvv
+other-site: https://www.speedrun.com/wf
 primary-language: 
 global-glyph-code: 
 currently-partnered: no
@@ -18,4 +18,4 @@ mixer:
 ccid: 229
 alt-names: 
 ---
-* Info can be found [here](https://pastebin.com/h9q3aJ3W)
+* Info can be found [here](https://www.speedrun.com/wf/thread/865b7).

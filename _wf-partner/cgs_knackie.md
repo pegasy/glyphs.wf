@@ -7,7 +7,7 @@ glyphwave: 4
 youtube: https://www.youtube.com/channel/UCGtyY8k3TsBB6XLk2bVxVdg
 twitch: https://twitch.tv/cgs_knackie
 twitter: https://twitter.com/juli3n45
-discord: https://discordapp.com/invite/e3cNCSc
+discord: https://discord.gg/HpVxNwh
 other-site: 
 primary-language: 
 global-glyph-code: 
@@ -18,6 +18,4 @@ mixer:
 ccid: 37
 alt-names: 
 ---
-* Twitter Posts
-* Gift him wishlisted items ingame (IGN: CGs_Knackie) - [More Info](https://twitter.com/juli3n45/status/876108902357774339)
-* YouTube Videos
+* Go to #glyph_request in Discord and type `@Taxon glyph pc`.

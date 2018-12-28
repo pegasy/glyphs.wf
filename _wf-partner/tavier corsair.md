@@ -18,4 +18,4 @@ mixer:
 ccid: 193
 alt-names: 
 ---
-* Complete a challenges in three different categories as detailed [here](https://docs.google.com/document/d/1oSJ_CfmlFaplSuKviPBg9oDqN3lohcVoSHiP-RBGjgo/edit).
+* Complete a challenge in three different categories as detailed [here](https://docs.google.com/document/d/1oSJ_CfmlFaplSuKviPBg9oDqN3lohcVoSHiP-RBGjgo/edit).

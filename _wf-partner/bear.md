@@ -16,6 +16,6 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 131
-alt-names: 
+alt-names: MrBearGaming
 ---
 * Message [DE]Taylor in-game to obtain

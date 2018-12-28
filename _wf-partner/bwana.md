@@ -18,7 +18,3 @@ mixer:
 ccid: 31
 alt-names: 
 ---
-* Twitch glyph raffle and posts codes in Twitch chat
-* Twitch Subscription
-* Gamewisp Subscription
-* Posts glyph codes on twitter

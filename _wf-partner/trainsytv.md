@@ -7,15 +7,15 @@ glyphwave: 3
 youtube: https://www.youtube.com/channel/UCg0UTxlYXRsX9wGogQWeuPA
 twitch: https://twitch.tv/trainsy
 twitter: https://twitter.com/TrainsyTv
-discord: https://discord.gg/012HIIyozgsOiKw8b
+discord: 
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 203
 alt-names: 
 ---
-* PM [DE]Taylor in game
+* Message [DE]Taylor in-game.

@@ -16,7 +16,5 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 121
-alt-names: 
+alt-names: Cole James
 ---
-* Posts glyph codes in Twitch chat
-* Glyph giveaways on Twitch

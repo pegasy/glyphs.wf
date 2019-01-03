@@ -18,5 +18,3 @@ mixer:
 ccid: 91
 alt-names: 
 ---
-* Twitch Raffles during Warframe streams
-* Twitch Subscription

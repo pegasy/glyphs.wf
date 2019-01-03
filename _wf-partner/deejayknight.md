@@ -18,5 +18,3 @@ mixer:
 ccid: 55
 alt-names: 
 ---
-* Raffles on Twitch
-* Twitch Subscription

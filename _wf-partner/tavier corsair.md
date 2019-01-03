@@ -2,7 +2,7 @@
 layout: cc
 glyphname: TAVIER CORSAIR
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: yes
 stream-currency-needed-for-glyph: 
 title: Tavier Corsair
 glyphurl: https://i.glyphs.wf/glyphs/TavierCorsair.png
@@ -18,4 +18,4 @@ mixer:
 ccid: 193
 alt-names: 
 ---
-
+* Complete a challenge in three different categories as detailed [here](https://docs.google.com/document/d/1oSJ_CfmlFaplSuKviPBg9oDqN3lohcVoSHiP-RBGjgo/edit).

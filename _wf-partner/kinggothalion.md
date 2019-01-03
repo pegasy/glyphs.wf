@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: KINGGOTHALION
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 
@@ -18,4 +18,4 @@ mixer:
 ccid: 103
 alt-names: 
 ---
-
+* Global code no longer works.

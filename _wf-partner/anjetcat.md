@@ -18,4 +18,5 @@ facebook: https://www.facebook.com/AnJetCat/
 mixer: 
 alt-names: 
 ---
-
+* Wait 5 days in Discord to attain a role needed to request a code from Taxon.
+* Post codes on YouTube video descriptions.

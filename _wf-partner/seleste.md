@@ -4,7 +4,7 @@ ccid: 318
 glyphname: SELESTE
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 30000
 title: Seleste
 glyphurl: https://i.glyphs.wf/glyphs/Seleste.png
 glyphwave: 17
@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Redeem on Twitch with 30 000 petals with `!redeem glyph <platform>`.
+* Redeem on Twitch as a subscriber with `!redeem subglyph <platform>`. Glyph will be distributed after 24 hour wait period to prevent chargebacks.
+* Twitch raffles.
+* Chosen as the final scene for the monthly captura video.

@@ -18,4 +18,6 @@ mixer: https://mixer.com/DeepBlueBeard
 ccid: 48
 alt-names: 
 ---
-
+* Watch stream for 60 hours.
+* Twitch subscription.
+* Mixer subscription.

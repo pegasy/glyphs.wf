@@ -18,4 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Posts codes on YouTube video descriptions.
+* Posts codes on Twitter.

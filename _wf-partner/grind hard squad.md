@@ -18,4 +18,4 @@ mixer:
 ccid: 82
 alt-names: 
 ---
-
+* Go to glyph channel in Discord and type `@Taxon glyph pc`.

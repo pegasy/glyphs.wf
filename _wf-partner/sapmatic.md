@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Twitch subscription.
+* Posts codes on Discord, Twitch, and YouTube.
+* Become a Discord moderator or eidolon guide for the community.
+* Reach level 5 on Discord.

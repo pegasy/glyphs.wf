@@ -18,4 +18,6 @@ mixer:
 ccid: 170
 alt-names: 
 ---
-
+* Twitch subscription.
+* Twitch raffle.
+* This partner has potentially quit Warframe, so try asking [DE]Taylor in-game.

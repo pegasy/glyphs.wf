@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-* Develop some form of impressive architecture in the dojo or orbiter, post a screenshot or video of the architecture on the most recently uploaded YouTube video with your in-game name visible in the screenshot or video, and then notify ajingom#0532 on Discord. Full instructions is located [here](https://docs.google.com/document/d/1mRFEoXI2Z2Rom67Sg8Inqd4UFjmxgd4N0nhM-cZ_ktE/edit).
+1. Develop some form of impressive architecture in the dojo or orbiter
+2. Post a screenshot or video of the architecture on the most recently uploaded YouTube video with your in-game name visible in the screenshot or video.
+3. Notify ajingom#0532 on Discord of your submission.
+* Full instructions is located [here](https://docs.google.com/document/d/1mRFEoXI2Z2Rom67Sg8Inqd4UFjmxgd4N0nhM-cZ_ktE/edit).

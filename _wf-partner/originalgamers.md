@@ -18,4 +18,6 @@ facebook:
 mixer: https://mixer.com/OriginalGamers
 alt-names: 
 ---
-
+* Watch stream for 60 hours.
+* Twitch subscription.
+* Mixer subscription.

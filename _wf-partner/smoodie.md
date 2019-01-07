@@ -18,4 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Watch stream for 150 hours.
+* Twitch subscription.

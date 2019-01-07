@@ -18,4 +18,6 @@ mixer:
 ccid: 190
 alt-names: 
 ---
-
+* Twitch subscription.
+* Watch stream for 600 hours.
+* Win one from a wheel spin.

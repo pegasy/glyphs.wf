@@ -3,7 +3,7 @@ layout: cc
 glyphname: GLAM SHATTERSKULL
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 5000
 title: GlamShatterskull
 glyphurl: https://i.glyphs.wf/glyphs/GlamShatterskull.png
 glyphwave: 15
@@ -18,4 +18,4 @@ mixer:
 ccid: 74
 alt-names: 
 ---
-
+* Claim a code after acquiring 5000 skulls (stream currency).

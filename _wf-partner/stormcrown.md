@@ -19,4 +19,4 @@ mixer:
 alt-names: 
 ---
 * Raffles on Discord.
-* Post codes in YouTube video descriptions.
+* Post codes in YouTube video comments.

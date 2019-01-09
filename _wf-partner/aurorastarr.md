@@ -18,12 +18,6 @@ facebook:
 mixer: 
 alt-names: 
 ---
-* Subscribe
-* Win giveaways
-* Ascend at least 1 time in [StarrFantasy](https://www.starrfantasy.com/)
-
-If you are subscribed, go to [http://chat.wtf/authenticate](http://chat.wtf/authenticate) and follow the instructions.
-
-If you have claimed a code via giveaway a mod will be whispering it to you via Twitch Whispers.
-
-If you have ascended at least 1 time in StarrFantasy please let a mod know and be logged into the website so we can verify your ascend. Your code will be whispered to you once this is done.
+* Twitch subscription, then go to [http://chat.wtf/authenticate](http://chat.wtf/authenticate) and follow the instructions.
+* Twitch raffle.
+* Ascend at least 1 time in [StarrFantasy](https://www.starrfantasy.com/), then go to [http://chat.wtf/authenticate](http://chat.wtf/authenticate) and follow the instructions.

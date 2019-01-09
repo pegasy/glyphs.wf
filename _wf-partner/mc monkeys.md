@@ -18,4 +18,5 @@ mixer:
 ccid: 122
 alt-names: 
 ---
-
+* Ask for a code during YouTube stream.
+* Ask for a code in YouTube comments.

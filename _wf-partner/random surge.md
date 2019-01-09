@@ -3,7 +3,7 @@ layout: cc
 glyphname: RANDOM SURGE
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 700
 title: RandomSurge
 glyphurl: https://i.glyphs.wf/glyphs/RandomSurge.png
 glyphwave: 12
@@ -18,4 +18,4 @@ mixer:
 ccid: 157
 alt-names: 
 ---
-
+* Claim a code after acquiring 700 points (stream currency).

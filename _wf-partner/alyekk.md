@@ -12,10 +12,12 @@ other-site:
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 350
 facebook: 
 mixer: 
 ccid: 12
 alt-names: 
 ---
-
+* Twitch subscription.
+* Twitch raffle.
+* Claim a code after acquiring 350 gold (stream currency).

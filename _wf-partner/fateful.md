@@ -18,4 +18,8 @@ mixer:
 ccid: 63
 alt-names: fatefulyt
 ---
-* Posts codes on YouTube videos.
+* Twitch subscription.
+* Twitch raffles.
+* Watch stream for 100 hours, then type `!redeemglyph`.
+* Posts codes in YouTube video description.
+* Reach level 30 in Discord.

@@ -18,4 +18,4 @@ mixer:
 ccid: 135
 alt-names: 
 ---
-
+* Reach level 20 in Twitch stream.

@@ -18,4 +18,5 @@ mixer: https://mixer.com/angryiceberg
 ccid: 13
 alt-names: 
 ---
-
+* Twitch or Mixer subscription.
+* Twitch or Mixer raffles.

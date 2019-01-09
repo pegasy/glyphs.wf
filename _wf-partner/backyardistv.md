@@ -18,4 +18,6 @@ mixer:
 ccid: 20
 alt-names: 
 ---
-
+* 3 months of Twitch subscription.
+* Be part of the community for 59 hours.
+* Watch stream for 96 hours.

@@ -18,4 +18,5 @@ mixer:
 ccid: 16
 alt-names: 
 ---
-
+* Twitch subscription, then claim a code on Discord.
+* Claim a code after acquiring ? (stream currency) using the stream overlay.

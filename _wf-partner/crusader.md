@@ -18,4 +18,5 @@ mixer:
 ccid: 40
 alt-names: 
 ---
-
+* Reserved for community members.
+* Currently pushing for global code (40K Twitch followers) and is currently short by about 600 followers: httsp://www.twitch.tv/crusader

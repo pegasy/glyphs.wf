@@ -18,4 +18,6 @@ mixer:
 ccid: 15
 alt-names: 
 ---
-
+* Drops codes randomly on Twitter and Twitch.
+* Twitch subscription.
+* Twitch raffles.

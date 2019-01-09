@@ -18,4 +18,4 @@ mixer:
 ccid: 211
 alt-names: 
 ---
-
+* Ask him during Twitch stream.

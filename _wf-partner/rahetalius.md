@@ -18,4 +18,4 @@ mixer:
 ccid: 155
 alt-names: 
 ---
-
+* Direct message him on Discord.

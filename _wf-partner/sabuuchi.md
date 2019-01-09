@@ -18,4 +18,6 @@ mixer:
 ccid: 168
 alt-names: 
 ---
-
+* Twitch subscription.
+* Twitch raffle.
+* Posts codes randomly in Discord.

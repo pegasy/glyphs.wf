@@ -18,4 +18,5 @@ mixer:
 ccid: 32
 alt-names: 
 ---
-
+* Posts codes in YouTube comments.
+* Posts codes randomly during YouTube streams.

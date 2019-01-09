@@ -19,3 +19,4 @@ ccid: 204
 alt-names: 
 ---
 * Drops codes on Twitter
+* Posts codes in YouTube comments.

@@ -18,4 +18,7 @@ mixer:
 ccid: 141
 alt-names: 
 ---
-
+* Watch stream for 48 hours and ask for a glyph.
+* Posts codes randomly on Twitter.
+* Twitch subscription.
+* Twitch raffles.

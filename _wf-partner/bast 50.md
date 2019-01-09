@@ -18,4 +18,5 @@ mixer:
 ccid: 21
 alt-names: 
 ---
-
+* Twitch subscription, then ask a mod.
+* Twitch raffle.

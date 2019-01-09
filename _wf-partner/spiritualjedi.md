@@ -3,7 +3,7 @@ layout: cc
 glyphname: SPIRITUALJEDI
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 10000
 title: Spiritual Jedi
 glyphurl: https://i.glyphs.wf/glyphs/SpiritualJedi.png
 glyphwave: 14
@@ -18,4 +18,4 @@ mixer:
 ccid: 185
 alt-names: 
 ---
-
+Claim a code after acquiring 10000 Credits (stream currency).

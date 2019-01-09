@@ -3,7 +3,7 @@ layout: cc
 glyphname: POKKETNINJA
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 30000
 title: PokketNinja
 glyphurl: https://i.glyphs.wf/glyphs/PokketNinja.png
 glyphwave: 12
@@ -18,4 +18,7 @@ mixer:
 ccid: 146
 alt-names: 
 ---
-
+* Twitch subscription, then go into `Glyph` channel in Discord and state your Twitch username, Warframe name, and platform.
+* Twitch raffles.
+* Claim a code after acquiring 30000 Ninjastars (stream currency).
+* Register to https://www.pokketprotektors.com/glyph and a code will be emailed to you in 5 days.

@@ -18,4 +18,4 @@ mixer:
 ccid: 132
 alt-names: 
 ---
-
+* Be part of his community.

@@ -18,4 +18,4 @@ mixer:
 ccid: 33
 alt-names: 
 ---
-
+* Go to the #glyph channel in Discord and type `@Taxon glyph platform`.

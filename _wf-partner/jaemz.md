@@ -7,7 +7,7 @@ glyphwave: 7
 youtube: https://www.youtube.com/channel/UCUmLeHG9qn77mn4rSe-riuQ
 twitch: https://twitch.tv/jaemz
 twitter: https://twitter.com/CrazyBikerDude
-discord: https://discord.gg/cbd
+discord: https://discord.gg/jaemz
 other-site: 
 primary-language: 
 global-glyph-code: 

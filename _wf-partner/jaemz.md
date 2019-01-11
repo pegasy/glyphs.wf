@@ -18,7 +18,5 @@ mixer:
 ccid: 96
 alt-names: crazybikerdude
 ---
-* Random Twitch giveaways
-* Drops codes on Twitch (His and other partner’s chats)
-* Be in his discord for 1 month and ask for glyph
-* Twitch Subscription
+* Be part of the community.
+* Twitch raffles.

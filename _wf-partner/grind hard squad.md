@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: GRIND HARD SQUAD
-global-glyph-code: 
+global-glyph-code: GRINDHARDSQUAD
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Grind Hard Squad

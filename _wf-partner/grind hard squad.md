@@ -7,10 +7,10 @@ stream-currency-needed-for-glyph:
 title: Grind Hard Squad
 glyphurl: https://i.glyphs.wf/glyphs/GrindHardSquad.png
 glyphwave: 15
-youtube: 
+youtube: https://www.youtube.com/channel/UCTR7wxZ_91orxoOXiKr5GDw
 twitch: 
-twitter: https://twitter.com/webjunkie88
-discord: https://discord.gg/dEnDeUa
+twitter: https://twitter.com/ashenone07
+discord: https://discord.gg/GaHvfpq
 other-site: https://grindhardsquad.blogspot.com/
 primary-language: 
 facebook: 

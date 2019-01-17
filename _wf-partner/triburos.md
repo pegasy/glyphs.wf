@@ -10,7 +10,7 @@ twitter: https://twitter.com/Triburos
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: TRIBUROS
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

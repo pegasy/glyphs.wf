@@ -10,7 +10,7 @@ twitter: http://www.twitter.com/makarimorph
 discord: https://discord.gg/makarimorph
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MAKARIMORPH
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

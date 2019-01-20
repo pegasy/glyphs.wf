@@ -10,7 +10,7 @@ glyphwave: 12
 youtube: 
 twitch: https://twitch.tv/captwalker_1
 twitter: 
-discord: https://discord.gg/GXmZ8B3
+discord: https://discord.gg/8RvNKPk
 other-site: 
 primary-language: Portuguese
 facebook: 

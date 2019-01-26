@@ -7,7 +7,7 @@ glyphwave: 3
 youtube: https://www.youtube.com/channel/UClyqnN5fswKIPqNwIYk2VkQ
 twitch: https://twitch.tv/rlcgaming
 twitter: https://twitter.com/RLC_Here
-discord: https://https//discord.gg/XkVbBwG
+discord: https://discord.gg/XkVbBwG
 other-site: 
 primary-language: 
 global-glyph-code: 

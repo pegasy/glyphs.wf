@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 312
-glyphname: 
+glyphname: KINGWOBLY
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 276
-glyphname: 
+glyphname: ELIGIBLEMONSTER
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

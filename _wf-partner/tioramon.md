@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 307
-glyphname: 
+glyphname: TIORAMON
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

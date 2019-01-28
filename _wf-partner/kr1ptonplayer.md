@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 325
-glyphname: 
+glyphname: KR1PTONPLAYER
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

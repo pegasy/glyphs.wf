@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 292
-glyphname: 
+glyphname: TORKIE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

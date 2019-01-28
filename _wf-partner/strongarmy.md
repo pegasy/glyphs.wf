@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 273
-glyphname: 
+glyphname: STRONGARMY
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

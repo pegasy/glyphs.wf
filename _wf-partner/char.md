@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 293
-glyphname: 
+glyphname: CHAR
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

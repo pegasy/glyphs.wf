@@ -11,7 +11,7 @@ glyphwave: 18
 youtube: 
 twitch: https://twitch.tv/tioramon
 twitter: 
-discord: https://discord.gg/gdPXnmE
+discord: https://discord.gg/htrtNRa
 other-site: 
 primary-language: Portuguese
 facebook: 

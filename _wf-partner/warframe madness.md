@@ -6,16 +6,17 @@ glyphurl: https://i.glyphs.wf/glyphs/WarframeMadness.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCjMVasr2dgSOQW_qmWeMgUQ
 twitch: https://twitch.tv/vamp6x6x6x
-twitter: https://twitter.com/WarframeMadness
+twitter: https://twitter.com/vamp6x6x6x
 discord: 
 other-site: 
 primary-language: 
 global-glyph-code: 
 currently-partnered: 
-stream-currency-needed-for-glyph: 
+stream-currency-needed-for-glyph: 500
 facebook: 
 mixer: 
 ccid: 216
 alt-names: 
 ---
-* Follow and ask for a glyph code during Twitch Streams
+* Twitch subscription
+* Claim a code after acquiring 500 Madness Coins (stream currency).

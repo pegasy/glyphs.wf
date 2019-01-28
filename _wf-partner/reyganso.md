@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 298
-glyphname: 
+glyphname: REYGANSO
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

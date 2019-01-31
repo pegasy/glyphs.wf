@@ -2,7 +2,7 @@
 layout: cc
 ccid: 293
 glyphname: CHAR
-global-glyph-code: 
+global-glyph-code: CHAR
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Char

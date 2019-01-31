@@ -10,7 +10,7 @@ twitter: http://twitter.com/joeyzerotv
 discord: https://discord.gg/0XYN4ElrtYtLiNun
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: JOEYZERO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

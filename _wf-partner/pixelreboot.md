@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 278
-glyphname: 
+glyphname: PIXELREBOOT
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

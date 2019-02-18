@@ -18,5 +18,8 @@ mixer:
 ccid: 118
 alt-names: 
 ---
+* Doesn't give out glyph codes anymore
+~~
 * Twitch Subscription
 * 100 Lokenbucks on Streamlabs via browser or Stream widget
+~~

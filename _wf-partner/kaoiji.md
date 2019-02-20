@@ -7,7 +7,7 @@ glyphwave: 6
 youtube: https://www.youtube.com/channel/UC6TRhd56NaDFRzaHlQjjRIg
 twitch: https://twitch.tv/kaoiji
 twitter: https://twitter.com/kaoiji
-discord: https://discord.gg/wP8ecM5
+discord: https://discord.gg/kaoiji
 other-site: 
 primary-language: 
 global-glyph-code: 

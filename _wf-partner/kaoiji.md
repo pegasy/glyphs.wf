@@ -18,6 +18,4 @@ mixer:
 ccid: 102
 alt-names: 
 ---
-* Ask a moderator for a glyph code during a stream
-* Send him a screenshot on Discord showing that you have at least 25 partner glyphs
-* Twitch Subscription
+* Join discord and go to #glyph-request channel, send a message with your Twitch name and platform you want the glyph for, the mods go through and add a checkmark to all processed requests.

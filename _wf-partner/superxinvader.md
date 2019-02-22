@@ -18,6 +18,7 @@ mixer:
 ccid: 190
 alt-names: 
 ---
-* Twitch subscription.
-* Watch stream for 600 hours.
-* Win one from a wheel spin.
+* Twitch subscription + 10 hours watchtime
+* 150 hours watchtime
+* win on the "super spinner" (5000 crystals to spin)
+* Stream giveaways

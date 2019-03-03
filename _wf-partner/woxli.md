@@ -18,4 +18,4 @@ mixer:
 ccid: 221
 alt-names: 
 ---
-* Redeem for 100 Crumbs on StreamElements
+* Redeem for 1000 Crumbs on StreamElements

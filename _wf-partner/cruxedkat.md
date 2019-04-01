@@ -18,5 +18,5 @@ mixer:
 ccid: 38
 alt-names: chrisishd
 ---
-* Redeem on Stream Elements extension for 240 points
+* Redeem on Stream Elements extension for 120 points
 * Twitch Subscription

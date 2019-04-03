@@ -10,7 +10,7 @@ twitter: https://twitter.com/n00blshowtek
 discord: https://discord.gg/hmYXpGQ
 other-site: 
 primary-language: 
-global-glyph-code: N00BLSHOWTEK
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

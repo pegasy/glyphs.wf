@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: BIKEMAN
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

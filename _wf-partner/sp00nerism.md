@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: SP00NERISM
+global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

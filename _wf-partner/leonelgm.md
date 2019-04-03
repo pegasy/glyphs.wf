@@ -18,4 +18,4 @@ mixer:
 ccid: 107
 alt-names: 
 ---
-
+* Ask for it when streaming

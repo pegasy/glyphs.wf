@@ -18,5 +18,5 @@ mixer:
 ccid: 126
 alt-names: thenextlevel
 ---
-* Youtube video description
-* Glyph giveaways during Twitch Streams
+* Post 10 loots (twitch free support messages) in 30 days https://loots.com/en/tip-jars/michelpostma
+* Sub on twitch

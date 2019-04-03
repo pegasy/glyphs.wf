@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 277
-glyphname: 
+glyphname: MOOHA
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

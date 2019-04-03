@@ -9,9 +9,9 @@ title: Aungelecette
 glyphurl: https://i.glyphs.wf/glyphs/Aungelecette.png
 glyphwave: 19
 youtube: 
-twitch: 
-twitter: 
-discord: 
+twitch: https://www.twitch.tv/aungelecette
+twitter: https://twitter.com/aungelecette
+discord: https://discord.gg/XrZQrsE
 other-site: 
 primary-language: 
 facebook: 

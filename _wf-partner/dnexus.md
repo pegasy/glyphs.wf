@@ -10,7 +10,7 @@ glyphurl: https://i.glyphs.wf/glyphs/DNexus.png
 glyphwave: 19
 youtube: https://www.youtube.com/channel/UCsbi33Dj9VTixXuK3mQmpbA
 twitch: 
-twitter: 
+twitter: https://twitter.com/DNexus2208
 discord: 
 other-site: 
 primary-language: 

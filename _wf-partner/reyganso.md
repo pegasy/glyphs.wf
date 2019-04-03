@@ -19,3 +19,9 @@ mixer:
 alt-names: 
 ---
 
+* 10 000 stream currency
+* Random giveaways
+* Twitter
+* Twitch subs
+* Working on a challenge for it, tbd
+

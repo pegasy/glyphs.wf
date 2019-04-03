@@ -19,3 +19,6 @@ mixer:
 alt-names: 
 ---
 
+* Sub to channel (you can get glyph 24h later)
+* 100 hours watching stream
+* Join discord and ask in channel (?)

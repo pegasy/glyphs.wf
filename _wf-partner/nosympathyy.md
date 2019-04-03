@@ -19,4 +19,4 @@ ccid: 139
 alt-names: 
 ---
 * Drops codes on Twitch
-* 2000 Clarmy on StreamLabs
+* 5000 Clarmy on StreamLabs

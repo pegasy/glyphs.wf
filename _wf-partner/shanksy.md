@@ -9,7 +9,7 @@ title: Shanksy
 glyphurl: https://i.glyphs.wf/glyphs/Shanksy.png
 glyphwave: 16
 youtube: 
-twitch: https://twitch.tv/shanksy1387
+twitch: https://twitch.tv/shanksy
 twitter: https://twitter.com/shanksy1387
 discord: 
 other-site: 

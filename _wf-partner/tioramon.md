@@ -19,3 +19,4 @@ mixer:
 alt-names: 
 ---
 
+* Join the discord and go to #glyph-glifo and type @taxon glyph pc

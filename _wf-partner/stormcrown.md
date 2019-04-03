@@ -18,5 +18,4 @@ facebook:
 mixer: 
 alt-names: 
 ---
-* Raffles on Discord.
-* Post codes in YouTube video comments.
+* Ask for it in discord

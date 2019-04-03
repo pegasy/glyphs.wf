@@ -8,7 +8,7 @@ stream-currency-needed-for-glyph:
 title: DNexus
 glyphurl: https://i.glyphs.wf/glyphs/DNexus.png
 glyphwave: 19
-youtube: 
+youtube: https://www.youtube.com/channel/UCsbi33Dj9VTixXuK3mQmpbA
 twitch: 
 twitter: 
 discord: 

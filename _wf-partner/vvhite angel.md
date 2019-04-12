@@ -18,5 +18,5 @@ mixer:
 ccid: 213
 alt-names: 
 ---
-* Gift him forma bundle (PC IGN: VVhite_Angel)
-* Become a [Tipeee](https://www.tipeee.com/vvhite-angel-warframe)
+* See [link](https://vvhitewarframe.wordpress.com/glyphe/) (or if someone speaks french please send me a translation to add here // Pegasy)
+

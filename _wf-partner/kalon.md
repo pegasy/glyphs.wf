@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* See [link](https://docs.google.com/document/d/1vsrDflP0XGEBbL5Qlkj87pmtcVfV43NxPyMU03rMVz0/edit) for most up to date info
+* 14 400 points, redeem in streamelements store
+* sub for 3 months (pm after you hit 3 months)
+* Raffles and contests

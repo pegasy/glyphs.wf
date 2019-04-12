@@ -7,7 +7,7 @@ glyphwave: 7
 youtube: https://www.youtube.com/channel/UC4rRzEaisREb5WR_Ly3VXZg
 twitch: https://twitch.tv/voltthehero
 twitter: https://twitter.com/VoltTheHero
-discord: https://discord.gg/S9J95qt
+discord: https://discord.gg/dQkhaRJ
 other-site: 
 primary-language: 
 global-glyph-code: 
@@ -18,4 +18,4 @@ mixer:
 ccid: 212
 alt-names: 
 ---
-* Go to #bot-spam in Discord and type @Taxon glyphs request pc
+* Go to #claim-glyphs in Discord and type `@Taxon glyphs request pc` (or whatever platform you want it for)

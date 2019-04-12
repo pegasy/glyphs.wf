@@ -20,3 +20,4 @@ alt-names:
 ---
 * Twitch Raffle
 * Twitch Subscription
+* 48 hour watchtime (7500 points on streamelements)

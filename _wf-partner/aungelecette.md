@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* 120 hour watchtime + 3 months following
+* 10 000 marbles
+* Random giveaways
+* Twitch sub

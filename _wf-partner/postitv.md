@@ -18,4 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* 50 points on twitch (a bit more then 8 hours watchtime)
+* Twitch sub

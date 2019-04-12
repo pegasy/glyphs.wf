@@ -1,4 +1,3 @@
-
 ---
 layout: cc
 title: Kiwad

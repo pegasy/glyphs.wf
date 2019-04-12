@@ -18,6 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
 * 15 000 torks (stream currency)
 * Subs (link discord + twitch and join discord)

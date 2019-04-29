@@ -7,7 +7,7 @@ glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/azrael112
 twitter: https://twitter.com/AzraelsGaming
-discord: https://discord.gg/rFhhfmm
+discord: https://discord.gg/bruGJZx
 other-site: 
 primary-language: 
 global-glyph-code: 

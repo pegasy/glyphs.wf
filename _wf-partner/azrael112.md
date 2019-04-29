@@ -18,4 +18,6 @@ mixer:
 ccid: 18
 alt-names: 
 ---
-
+* Twitch sub
+* Giveaways
+* 18k souls (about 60h watchtime) `!purchase [platform]`, check souls with `!souls`

@@ -18,4 +18,4 @@ mixer:
 ccid: 187
 alt-names: 
 ---
-
+* Buy on streamelements, 500 points (about 17h watchtime)

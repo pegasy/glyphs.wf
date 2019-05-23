@@ -6,7 +6,7 @@ glyphurl: https://i.glyphs.wf/glyphs/ShadowFoxx086.png
 glyphwave: 9
 youtube: 
 twitch: https://twitch.tv/shadowfox
-twitter: https://twitter.com/tinadegenhart
+twitter: https://twitter.com/ShadowFoxTV
 discord: https://discord.gg/vhkSWrU
 other-site: 
 primary-language: 
@@ -18,4 +18,4 @@ mixer:
 ccid: 172
 alt-names: 
 ---
-
+* Join discord and ask `Strawbootii` or `nikki_not_potato` for a code

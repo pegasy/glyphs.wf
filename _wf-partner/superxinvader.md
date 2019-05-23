@@ -18,7 +18,6 @@ mixer:
 ccid: 190
 alt-names: 
 ---
-* Twitch subscription + 10 hours watchtime
-* 150 hours watchtime
-* win on the "super spinner" (5000 crystals to spin)
+* Twitch subscription
 * Stream giveaways
+* **Note**: All glyphs are given out only via discord server, not via twitch whispers

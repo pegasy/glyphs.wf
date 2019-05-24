@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 340
-glyphname: 
+glyphname: VORTICOSELINE75
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

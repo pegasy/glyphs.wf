@@ -10,7 +10,7 @@ twitter: https://twitter.com/Rahetalius_
 discord: https://discord.gg/gGZDfHG
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: RAHETALIUS
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

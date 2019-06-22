@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 331
-glyphname: KALON
+glyphname: KALON75
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

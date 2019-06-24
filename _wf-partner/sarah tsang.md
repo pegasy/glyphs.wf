@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 345
-glyphname: 
+glyphname: SARAH TSANG
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
@@ -18,4 +18,3 @@ facebook:
 mixer: 
 alt-names: 
 ---
-

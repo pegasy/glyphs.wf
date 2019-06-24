@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 348
-glyphname: 
+glyphname: ASHISOGI TENNO
 global-glyph-code: ASHISOGITENNO
 currently-partnered: 
 stream-currency-needed-for-glyph: 

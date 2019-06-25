@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: -Chroma-Prime
-glyphurl: 
+glyphurl: https://i.glyphs.wf/glyphs/ChromaPrime.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UCMq1LOi0RPZRjS1l2K27sHA
 twitch: 
@@ -18,4 +18,7 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Join the youtube channel member (payable)
+* Issued in my youtube [community](https://www.youtube.com/channel/UCMq1LOi0RPZRjS1l2K27sHA/community)
+* Live chat and video descriptions
+* Participate in the activities I (-Chroma-Prime) hold (will be mostly in Chinese)

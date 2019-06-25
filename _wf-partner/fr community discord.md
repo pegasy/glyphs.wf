@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 347
-glyphname: 
+glyphname: FR COMMUNITY DISCORD
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
@@ -21,4 +21,4 @@ alt-names:
 * Giveaways
 * Helping out in the french wiki
 * Through spontaneous event on the facebook
-* Join in matchmaking with Yazu, Necifer or Yaerion and ask for a "challenge" (ingame?)
+* Join ingame matchmaking with Yazu, Necifer or Yaerion and ask for a "challenge"

@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 346
-glyphname: 
+glyphname: REVENGAL21
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

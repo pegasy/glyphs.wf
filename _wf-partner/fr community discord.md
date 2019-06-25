@@ -14,7 +14,7 @@ twitter:
 discord: https://discord.gg/Tf7utwp
 other-site: 
 primary-language: 
-facebook: 
+facebook: https://www.facebook.com/WarframeFR/
 mixer: 
 alt-names: 
 ---

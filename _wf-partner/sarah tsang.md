@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Sarah Tsung
-glyphurl: 
+glyphurl: https://i.glyphs.wf/glyphs/Sarahtsang.png
 glyphwave: 21
 youtube: 
 twitch: https://twitch.tv/sarahtsang
@@ -18,3 +18,4 @@ facebook:
 mixer: 
 alt-names: 
 ---
+

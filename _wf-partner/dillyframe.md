@@ -1,13 +1,13 @@
 ---
 layout: cc
 ccid: 294
-glyphname: 
+glyphname: DILLYFRAME
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Dilly Frame
 glyphurl: https://i.glyphs.wf/glyphs/DillyFrame.png
-glyphwave: 
+glyphwave: 21
 youtube: 
 twitch: 
 twitter: 

@@ -10,7 +10,7 @@ glyphurl: https://i.glyphs.wf/glyphs/Extracredits.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg
 twitch: https://twitch.tv/extracredits
-twitter: https://twitter.com/extracreditz
+twitter: https://twitter.com/WhatWillIPlay
 discord: 
 other-site: 
 primary-language: 

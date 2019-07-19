@@ -18,4 +18,4 @@ facebook: https://www.facebook.com/CohonyGaming/
 mixer: 
 alt-names: 
 ---
-
+* Redeem at [SteamElements](https://streamelements.com/cohony/store) for 500 currency

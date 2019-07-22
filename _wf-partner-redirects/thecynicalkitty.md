@@ -1,4 +1,4 @@
 ---
 layout: redirect
-link: EXTRA CREDITS
+link: CRUXEDKAT
 ---

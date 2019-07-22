@@ -16,7 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 38
-alt-names: chrisishd
+alt-names: chrisishd, thecynicalkitty
 ---
 * Redeem on Stream Elements extension for 120 points
 * Twitch Subscription

@@ -1,12 +1,12 @@
 ---
 layout: cc
-title: CruxedKat
+title: TheCynicalKitty
 glyphname: CRUXEDKAT
 glyphurl: https://i.glyphs.wf/glyphs/ChrisIsHD.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCU2Ij3bQ0YgN1fYHWsx6Zdw
-twitch: https://twitch.tv/CruxedKat
-twitter: https://twitter.com/CruxedKat
+twitch: https://twitch.tv/TheCynicalKitty
+twitter: https://twitter.com/thecynicalkitty
 discord: https://discord.gg/kitty
 other-site: 
 primary-language: 

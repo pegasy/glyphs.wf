@@ -16,7 +16,7 @@ primary-language:
 facebook: 
 mixer: 
 ccid: 190
-alt-names: 
+alt-names: superxinvader
 ---
 * Twitch subscription
 * Stream giveaways

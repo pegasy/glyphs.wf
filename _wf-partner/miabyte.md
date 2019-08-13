@@ -1,15 +1,15 @@
 ---
 layout: cc
-glyphname: SUPERXINVADER
+glyphname: MIABYTE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: SuperxInvader
+title: Miabyte
 glyphurl: https://i.glyphs.wf/glyphs/Superxinvader.png
 glyphwave: 15
 youtube: 
-twitch: https://twitch.tv/superxinvader
-twitter: https://twitter.com/superxinvader
+twitch: https://twitch.tv/miabyte
+twitter: https://twitter.com/themiabyte
 discord: https://discord.gg/Ct9RRQT
 other-site: 
 primary-language: 

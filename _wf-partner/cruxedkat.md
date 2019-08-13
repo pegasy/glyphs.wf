@@ -14,7 +14,7 @@ global-glyph-code:
 currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
-mixer: 
+mixer: https://mixer.com/TheCynicalKitty
 ccid: 38
 alt-names: chrisishd, thecynicalkitty
 ---

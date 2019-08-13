@@ -16,7 +16,7 @@ stream-currency-needed-for-glyph:
 facebook: 
 mixer: 
 ccid: 22
-alt-names: 
+alt-names: BBSChainWarden
 ---
 * Codes in youtube videos (not the “going live on Twitch” ones)
 * Raffles on Twitch

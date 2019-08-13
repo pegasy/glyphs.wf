@@ -1,13 +1,13 @@
 ---
 layout: cc
-title: BBSChainWarden
-glyphname: BBSCHAINWARDEN
+title: SerdarSARI
+glyphname: SERDARSARI
 glyphurl: https://i.glyphs.wf/glyphs/BBSChainWarden.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCYZs1TwxjXeTMrQvIS1Yq6A
-twitch: https://twitch.tv/bbschainwarden
+twitch: https://twitch.tv/SerdarSARI
 twitter: 
-discord: https://discord.me/SS-Channel
+discord: https://discord.gg/YuT4e2Y
 other-site: 
 primary-language: 
 global-glyph-code: 

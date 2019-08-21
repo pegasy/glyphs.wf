@@ -8,9 +8,9 @@ title: Hypercaptai
 glyphurl: https://i.glyphs.wf/glyphs/Hypercaptai.png
 glyphwave: 7
 youtube: 
-twitch: https://twitch.tv/dobratv
+twitch: 
 twitter: 
-discord: https://discord.gg/C3Y7KAg
+discord: 
 other-site: 
 primary-language: Turkish
 facebook: 

@@ -8,8 +8,8 @@ title: Sealsdie
 glyphurl: https://i.glyphs.wf/glyphs/Sealsdie.png
 glyphwave: 15
 youtube: 
-twitch: https://twitch.tv/sealsdie
-twitter: https://twitter.com/Sealsdie
+twitch: 
+twitter: 
 discord: https://discord.gg/GMGEFsc
 other-site: 
 primary-language: French

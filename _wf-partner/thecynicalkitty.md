@@ -1,7 +1,7 @@
 ---
 layout: cc
 title: TheCynicalKitty
-glyphname: CRUXEDKAT
+glyphname: THECYNICALKITTY
 glyphurl: https://i.glyphs.wf/glyphs/ChrisIsHD.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCU2Ij3bQ0YgN1fYHWsx6Zdw

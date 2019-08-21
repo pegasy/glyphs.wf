@@ -1,10 +1,10 @@
 ---
 layout: cc
-glyphname: OLDDIRTYDAZ
+glyphname: BROTHERDAZ
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: OldDirtyDaz
+title: BrotherDaz
 glyphurl: https://i.glyphs.wf/glyphs/OldDirtyDaz.png
 glyphwave: 13
 youtube: 
@@ -16,7 +16,7 @@ primary-language:
 facebook: https://www.facebook.com/olddirtydaz/
 mixer: 
 ccid: 141
-alt-names: 
+alt-names: OldDirtyDaz
 ---
 * Watch stream for 48 hours and ask for a glyph.
 * Posts codes randomly on Twitter.

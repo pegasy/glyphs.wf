@@ -1,7 +1,7 @@
 ---
 layout: cc
-title: Gooperatives
-glyphname: GOOPERATIVES
+title: Dyllonkg
+glyphname: DYLLONKG
 glyphurl: https://i.glyphs.wf/glyphs/Gooperatives.png
 glyphwave: 9
 youtube: 
@@ -16,7 +16,7 @@ stream-currency-needed-for-glyph: 1500
 facebook: 
 mixer: 
 ccid: 78
-alt-names: 
+alt-names: gooperatives
 ---
 * Donate $2 minimum to [Extra Life Charity Group](https://goo.gl/dH964b)
 * Spend 7500 in-chat currency for a glyph

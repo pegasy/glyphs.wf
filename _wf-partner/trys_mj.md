@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 352
-glyphname: 
+glyphname: TRYS_MJ
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

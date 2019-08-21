@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 350
-glyphname: 
+glyphname: TINBEARS
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 353
-glyphname: 
+glyphname: TOXICKTOE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

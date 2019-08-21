@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 354
-glyphname: 
+glyphname: ACOLYTE SYNPAI
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

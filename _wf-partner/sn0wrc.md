@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 351
-glyphname: 
+glyphname: SN0WRC
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

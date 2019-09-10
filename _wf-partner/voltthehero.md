@@ -7,7 +7,7 @@ glyphwave: 7
 youtube: https://www.youtube.com/channel/UC4rRzEaisREb5WR_Ly3VXZg
 twitch: https://twitch.tv/voltthehero
 twitter: https://twitter.com/VoltTheHero
-discord: https://discord.gg/dQkhaRJ
+discord: https://discord.gg/q3HsPMG
 other-site: 
 primary-language: 
 global-glyph-code: 

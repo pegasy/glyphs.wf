@@ -9,7 +9,7 @@ title: French Community Discord
 glyphurl: https://i.glyphs.wf/glyphs/FRCommunityDiscord.png
 glyphwave: 21
 youtube: 
-twitch: 
+twitch: https://twitch.tv/warframe_fr
 twitter: 
 discord: https://discord.gg/Tf7utwp
 other-site: 

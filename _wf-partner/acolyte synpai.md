@@ -1,6 +1,6 @@
 ---
 layout: cc
-ccid: 354
+ccid: 360
 glyphname: ACOLYTE SYNPAI
 global-glyph-code: 
 currently-partnered: 

@@ -4,10 +4,10 @@ title: Slicker Explica
 glyphname: SLYCKER
 glyphurl: https://i.glyphs.wf/glyphs/Slycker.png
 glyphwave: 4
-youtube: 
-twitch: 
-twitter: 
-discord: 
+youtube: https://www.youtube.com/channel/UCFznv4H-6sDwhsubCzJYkLQ
+twitch: https://twitch.tv/slyckerslk
+twitter: https://twitter.com/Slycker_yt
+discord: https://discord.gg/013WbL1p9Ocyngbow
 other-site: 
 primary-language: Portuguese
 global-glyph-code: 

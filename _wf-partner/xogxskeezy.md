@@ -11,11 +11,11 @@ discord: http://discord.gg/zgdRzfj
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: Yes
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 225
 alt-names: 
 ---
-
+* No longer distributing glyph codes at this time.

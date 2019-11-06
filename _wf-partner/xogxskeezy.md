@@ -5,10 +5,10 @@ glyphname: XOGXSKEEZY
 glyphurl: https://i.glyphs.wf/glyphs/XOGxSkeezy.png
 glyphwave: 7
 youtube: 
-twitch: https://twitch.tv/skeez
+twitch: 
 twitter: https://twitter.com/xOGxSkeez
 discord: http://discord.gg/zgdRzfj
-other-site: 
+other-site: https://mixer.com/RealSkeeZy
 primary-language: 
 global-glyph-code: 
 currently-partnered: Yes
@@ -18,4 +18,4 @@ mixer:
 ccid: 225
 alt-names: 
 ---
-* No longer distributing glyph codes at this time.
+* Distributes codes only during Warframe streams.

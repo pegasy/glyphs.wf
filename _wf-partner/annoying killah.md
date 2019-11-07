@@ -10,7 +10,7 @@ twitter: https://twitter.com/Annoying_killah
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: ANNOYINGKILLAH
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

@@ -10,7 +10,7 @@ twitter: https://twitter.com/DanieltheDemon
 discord: https://discord.gg/0RoLAVFXFlP6E7R4
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: DANIELTHEDEMON
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

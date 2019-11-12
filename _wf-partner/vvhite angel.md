@@ -10,7 +10,7 @@ twitter: https://twitter.com/VVhite_Angel
 discord: https://discord.gg/Ug6XkmF
 other-site: 
 primary-language: French
-global-glyph-code: 
+global-glyph-code: VVHITEANGEL
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

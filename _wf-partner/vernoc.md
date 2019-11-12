@@ -10,7 +10,7 @@ twitter:
 discord: 
 other-site: 
 primary-language: German
-global-glyph-code: 
+global-glyph-code: VERNOC
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

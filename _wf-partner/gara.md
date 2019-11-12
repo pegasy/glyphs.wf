@@ -10,7 +10,7 @@ twitter:
 discord: https://discord.gg/zpvrWqy
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: GARA
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

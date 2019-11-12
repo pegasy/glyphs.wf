@@ -10,7 +10,7 @@ twitter: https://twitter.com/SherpaRage
 discord: https://discord.gg/SWCApYv
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: SHERPA
 currently-partnered: 
 stream-currency-needed-for-glyph: 2500
 facebook: 

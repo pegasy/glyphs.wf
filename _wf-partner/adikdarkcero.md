@@ -4,10 +4,10 @@ title: AdikDarkCero
 glyphname: ADIKDARKCERO
 glyphurl: https://i.glyphs.wf/glyphs/AdikDarkCero.png
 glyphwave: 8
-youtube: https://www.youtube.com/channel/UCIO38VXJJAqk3ypp-eJRFBA
+youtube: https://www.youtube.com/channel/UCjYIE8Qg2gGqMxlkfZSDULw
 twitch: https://twitch.tv/adikdarkcero
 twitter: https://twitter.com/AdikDarkCero
-discord: https://discord.gg/vMCdwM
+discord: https://discord.gg/fsNayPe
 other-site: 
 primary-language: Polish
 global-glyph-code: 

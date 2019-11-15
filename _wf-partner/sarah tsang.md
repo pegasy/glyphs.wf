@@ -5,7 +5,7 @@ glyphname: SARAH TSANG
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: Sarah Tsung
+title: Sarah Tsang
 glyphurl: https://i.glyphs.wf/glyphs/Sarahtsang.png
 glyphwave: 21
 youtube: 

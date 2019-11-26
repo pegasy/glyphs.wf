@@ -5,7 +5,7 @@ glyphname: XOGXSKEEZY
 glyphurl: https://i.glyphs.wf/glyphs/XOGxSkeezy.png
 glyphwave: 7
 youtube: 
-twitch: 
+twitch: https://twitch.tv/skeez
 twitter: https://twitter.com/xOGxSkeez
 discord: http://discord.gg/zgdRzfj
 other-site: https://mixer.com/RealSkeeZy

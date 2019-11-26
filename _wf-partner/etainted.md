@@ -1,12 +1,12 @@
 ---
 layout: cc
 ccid: 358
-glyphname: 
+glyphname: ETAINTED
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Etainted
-glyphurl: https://i.glyphs.wf/glyphs/Etainted.png
+glyphurl: 
 glyphwave: 23
 youtube: 
 twitch: https://twitch.tv/etainted

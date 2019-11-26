@@ -1,17 +1,17 @@
 ---
 layout: cc
-ccid: 364
-glyphname: 
+ccid: 365
+glyphname: AVELNA
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
-title: BrazilianCommunityDiscord
-glyphurl: https://i.glyphs.wf/glyphs/BrazilianCommunityDiscord.png
-glyphwave: 23
+title: Avelna
+glyphurl: https://i.glyphs.wf/glyphs/Avelna.png
+glyphwave: 24
 youtube: 
 twitch: 
 twitter: 
-discord: https://discordapp.com/invite/v7y7M2
+discord: 
 other-site: 
 primary-language: 
 facebook: 

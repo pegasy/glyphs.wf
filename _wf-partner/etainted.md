@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: Etainted
-glyphurl: 
+glyphurl: https://i.glyphs.wf/glyphs/Etainted.png
 glyphwave: 23
 youtube: 
 twitch: https://twitch.tv/etainted

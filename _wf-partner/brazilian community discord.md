@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 title: BrazilianCommunityDiscord
-glyphurl: 
+glyphurl: https://i.glyphs.wf/glyphs/BrazilianCommunityDiscord.png
 glyphwave: 23
 youtube: 
 twitch: 

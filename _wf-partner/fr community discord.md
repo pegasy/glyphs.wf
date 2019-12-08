@@ -18,7 +18,7 @@ facebook: https://www.facebook.com/WarframeFR/
 mixer: 
 alt-names: 
 ---
-* Giveaways
-* Helping out in the french wiki
-* Through spontaneous event on the facebook
-* Join ingame matchmaking with Yazu, Necifer or Yaerion and ask for a "challenge"
+* By winning a Giveaway (There will be one guaranteed Glyph giveaway on each of our Community stream "Le Focus", once a month.)
+* As a reward for your participation in one of our French Wiki Campaigns
+* Distributed via spontaneous events on our Discord and our Facebook.
+* Being placed via random matchmaking in a game with Yazu\_ or Necifer, and ask for a challenge.

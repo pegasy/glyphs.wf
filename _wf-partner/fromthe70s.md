@@ -10,7 +10,7 @@ twitter: https://twitter.com/FromThe70sguy
 discord: https://discord.gg/XnfVeEq
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: FROMTHE70S
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

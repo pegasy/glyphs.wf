@@ -10,7 +10,7 @@ twitter: https://twitter.com/MrWarframeGuy
 discord: 
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: MRWARFRAMEGUY
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

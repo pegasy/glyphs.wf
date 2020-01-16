@@ -25,6 +25,9 @@ permalink: /dex/
                 {% unless cc.glyphwave  %}
                     {% continue %}
                 {% endunless %}
+                {% if cc.exclude  %}
+                    {% continue %}
+                {% endif %}
                 <div>
                     <div class="card text-white">
                         <img class="card-img glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">

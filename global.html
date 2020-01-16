@@ -19,6 +19,9 @@ permalink: /global/
                 {% if cc.layout != 'cc' %}
                     {% continue %}
                 {% endif %}
+                {% if cc.exclude  %}
+                    {% continue %}
+                {% endif %}
                 {% include cc-card.html %}
             {% endfor %}
     </div>

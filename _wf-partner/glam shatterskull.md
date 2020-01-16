@@ -17,5 +17,6 @@ facebook:
 mixer: 
 ccid: 74
 alt-names: 
+exclude: 1
 ---
-* Claim a code after acquiring 5000 skulls (stream currency).
+* Requested to not be listed on this site

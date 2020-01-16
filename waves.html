@@ -25,6 +25,9 @@ permalink: /waves/
             {% unless cc.glyphwave  %}
                 {% continue %}
             {% endunless %}
+            {% if cc.exclude  %}
+                {% continue %}
+            {% endif %}
             {% include cc-card.html %}
         {%endfor%}
     </div>

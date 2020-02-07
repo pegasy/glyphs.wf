@@ -10,12 +10,12 @@ glyphurl: https://i.glyphs.wf/glyphs/XXslip.png
 glyphwave: 24
 youtube: 
 twitch: 
-twitter: 
-discord: 
+twitter: https://twitter.com/xxslip_Mixer
+discord: https://discordapp.com/invite/Pru3jVz
 other-site: 
 primary-language: 
 facebook: 
-mixer: 
+mixer: https://mixer.com/xxSlip
 alt-names: 
 ---
 

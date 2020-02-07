@@ -8,7 +8,7 @@ stream-currency-needed-for-glyph:
 title: Avelna
 glyphurl: https://i.glyphs.wf/glyphs/Avelna.png
 glyphwave: 24
-youtube: 
+youtube: https://www.youtube.com/watch?v=bbdgs8y3EL8
 twitch: 
 twitter: 
 discord: 

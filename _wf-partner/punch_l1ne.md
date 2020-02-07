@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 372
-glyphname: 
+glyphname: PUNCH_L1NE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

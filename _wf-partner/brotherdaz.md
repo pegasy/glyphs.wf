@@ -8,7 +8,7 @@ title: BrotherDaz
 glyphurl: https://i.glyphs.wf/glyphs/OldDirtyDaz.png
 glyphwave: 13
 youtube: 
-twitch: https://twitch.tv/olddirtydaz
+twitch: https://twitch.tv/brotherdaz
 twitter: https://twitter.com/olddirtydaz
 discord: 
 other-site: 

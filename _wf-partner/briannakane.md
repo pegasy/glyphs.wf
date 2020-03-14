@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 370
-glyphname: 
+glyphname: BRIANNAKANE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

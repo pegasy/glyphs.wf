@@ -11,7 +11,7 @@ glyphwave: 26
 youtube: 
 twitch: 
 twitter: 
-discord: https://discord.gg/WxbRs2T
+discord: https://discord.gg/warframe-de
 other-site: 
 primary-language: 
 facebook: 

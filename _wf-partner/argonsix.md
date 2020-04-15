@@ -18,4 +18,7 @@ mixer:
 ccid: 15
 alt-names: 
 ---
-* Ask on discord nicly (?)
+* Random drops in twitch chat or twitter
+* Giveaways
+* Sub on twitch
+* Streamelements store

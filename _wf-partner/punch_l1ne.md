@@ -18,4 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* 3500 bananas on streamelements (30h)
+* Raffles

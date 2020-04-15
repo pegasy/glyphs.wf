@@ -18,4 +18,5 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* 60h watchtime (!watchtime)
+* 3 subs

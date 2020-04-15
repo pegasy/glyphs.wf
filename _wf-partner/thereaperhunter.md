@@ -18,5 +18,4 @@ mixer:
 ccid: 198
 alt-names: 
 ---
-* Twitch subscription.
-* Twitch raffles every hour when live.
+* Ask for code on discord

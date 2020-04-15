@@ -10,7 +10,7 @@ twitter: https://twitter.com/DankerGrimaldo
 discord: 
 other-site: 
 primary-language: Spanish
-global-glyph-code: 
+global-glyph-code: ELDANKER
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: https://www.facebook.com/ZuculentoDanker/

@@ -18,4 +18,6 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Sub on twitch
+* Patreon
+* 75 hours watchtime (!rank)

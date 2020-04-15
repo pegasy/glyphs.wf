@@ -18,4 +18,4 @@ mixer:
 ccid: 23
 alt-names: 
 ---
-* Ask him when live and streaming Warframe.
+* Discord channel for glyphs

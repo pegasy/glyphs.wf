@@ -20,3 +20,5 @@ alt-names:
 ---
 * Twitch subscription.
 * Twitch raffle.
+* Giveaways
+* 500 onisouls on streamelements (17h)

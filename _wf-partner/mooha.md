@@ -18,5 +18,4 @@ facebook:
 mixer: 
 alt-names: 
 ---
-* TennoCon
-* "Watching when I stream"
+* 240 moola (streamelements, about 40h)

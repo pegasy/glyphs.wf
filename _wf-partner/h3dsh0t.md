@@ -10,7 +10,7 @@ twitter: https://twitter.com/_H3dsh0t
 discord: https://discord.gg/0jIdQo1dCdK2MvrL
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: H3DSH0T
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 
@@ -18,4 +18,3 @@ mixer:
 ccid: 83
 alt-names: 
 ---
-* Go to #glyph_request in Discord and type @Taxon glyphs request pc

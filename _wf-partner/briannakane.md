@@ -18,4 +18,6 @@ facebook:
 mixer: 
 alt-names: 
 ---
-
+* Sub on twitch
+* Giveaways
+* 24h watchtime (!watchtime)

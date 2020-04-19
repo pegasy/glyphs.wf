@@ -18,4 +18,4 @@ mixer:
 ccid: 51
 alt-names: 
 ---
-* Reach level 1 on Discord, then use `!glyph platform` in `#glyph` channel.
+* Reach level 5 on Discord, then use `!glyph platform` in `#glyph` channel.

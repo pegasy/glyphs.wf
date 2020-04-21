@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 377
-glyphname: 
+glyphname: SATURN SIX BAR DISCORD
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 
@@ -18,4 +18,5 @@ facebook: https://www.facebook.com/Saturn6Bar
 mixer: 
 alt-names: 
 ---
-
+* Boost discord server
+* Stream giveaways

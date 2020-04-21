@@ -12,11 +12,13 @@ youtube: https://www.youtube.com/channel/UC4jcfIULIlJ53BCvcpRB7Cw
 twitch: https://www.twitch.tv/saturnsixthbar
 twitter: 
 discord: https://discord.gg/qEUtfvE
-other-site: https://sites.google.com/view/saturn-six-thbar
+other-site: 
 primary-language: 
-facebook: https://www.facebook.com/Saturn6Bar
+facebook: 
 mixer: 
 alt-names: 
 ---
+* Discord raffle
 * Boost discord server
-* Stream giveaways
+* Youtube video descriptions
+* Twitch raffle

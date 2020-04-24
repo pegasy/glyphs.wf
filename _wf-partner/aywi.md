@@ -19,3 +19,4 @@ ccid: 17
 alt-names: 
 ---
 * Drops codes in Twitch chat
+* Sub on twitch

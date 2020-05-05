@@ -18,4 +18,4 @@ mixer:
 ccid: 87
 alt-names: 
 ---
-* PM one of the HausKeepers in Discord
+* Go to `#glyphcodes` in the discord server and follow instructions

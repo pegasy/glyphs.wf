@@ -6,8 +6,8 @@ glyphurl: https://i.glyphs.wf/glyphs/FattShane.png
 glyphwave: 7
 youtube: 
 twitch: https://twitch.tv/fattshane
-twitter: https://twitter.com/FATTshaneTV
-discord: https://discord.gg/nArkW4U
+twitter: 
+discord: 
 other-site: 
 primary-language: 
 global-glyph-code: 
@@ -18,4 +18,4 @@ mixer:
 ccid: 64
 alt-names: 
 ---
-* Drops codes on Twitch/Twitter/Discord
+* ~~Drops codes on Twitch~~ Currently not providing codes.

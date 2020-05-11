@@ -11,12 +11,11 @@ discord: https://discord.gg/jaemz
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 96
 alt-names: crazybikerdude
 ---
-* Be part of the community.
-* Twitch raffles.
+* No longer a partner and don't have codes anymore

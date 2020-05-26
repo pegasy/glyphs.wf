@@ -18,3 +18,4 @@ facebook:
 mixer:
 alt-names:
 ---
+* Follow on twitch and ask nicely in chat or ask one of the chat moderators nicely

@@ -10,7 +10,7 @@ twitter: https://twitter.com/VoltTheHero
 discord: https://discord.gg/q3HsPMG
 other-site: 
 primary-language: 
-global-glyph-code: 
+global-glyph-code: VOLTTHEHERO
 currently-partnered: 
 stream-currency-needed-for-glyph: 
 facebook: 

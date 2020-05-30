@@ -7,15 +7,14 @@ glyphwave: 4
 youtube: https://www.youtube.com/channel/UCygEjZ-BZxFhZNj1ybLhPCA
 twitch: https://twitch.tv/ceratia
 twitter: https://twitter.com/CeratiaTV
-discord: 
-other-site: 
-primary-language: 
-global-glyph-code: 
+discord:
+other-site:
+primary-language:
+global-glyph-code:
 currently-partnered: no
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 36
-alt-names: 
+alt-names:
 ---
-* Message [DE]Taylor in-game.

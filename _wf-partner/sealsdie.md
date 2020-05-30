@@ -1,23 +1,23 @@
 ---
 layout: cc
 glyphname: SEALSDIE
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Sealsdie
 glyphurl: https://i.glyphs.wf/glyphs/Sealsdie.png
 glyphwave: 15
-youtube: 
+youtube:
 twitch: https://twitch.tv/sealsdie
 twitter: https://twitter.com/Sealsdie
 discord: https://discord.gg/GMGEFsc
-other-site: 
+other-site:
 primary-language: French
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 170
-alt-names: 
+alt-names:
 ---
 * Twitch subscription.
 * Twitch raffle.
-* This partner has potentially quit Warframe, so try asking [DE]Taylor in-game.
+* This partner has potentially quit Warframe

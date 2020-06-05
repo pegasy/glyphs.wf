@@ -11,12 +11,11 @@ discord: https://discord.gg/hDcH5DH
 other-site: 
 primary-language: 
 global-glyph-code: 
-currently-partnered: 
+currently-partnered: no
 stream-currency-needed-for-glyph: 
 facebook: 
 mixer: 
 ccid: 54
 alt-names: 
 ---
-* PM him ingame (IGN: DogManDan) and ask for a glyph
-* PM on any social media and ask for a glyph
+* No longer a partner

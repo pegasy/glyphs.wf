@@ -18,4 +18,3 @@ mixer:
 ccid: 23
 alt-names: 
 ---
-* Discord channel for glyphs

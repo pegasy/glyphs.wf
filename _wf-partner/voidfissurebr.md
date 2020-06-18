@@ -10,7 +10,7 @@ glyphwave: 14
 youtube: https://www.youtube.com/channel/UCrgv5haPvhNUSzCG9hPgdIA
 twitch: 
 twitter: https://twitter.com/VoidFissureBR
-discord: https://discord.gg/nYRrTGx
+discord: https://discord.gg/aUpz3ky
 other-site: 
 primary-language: Portuguese
 facebook: https://www.facebook.com/VoidFissure/

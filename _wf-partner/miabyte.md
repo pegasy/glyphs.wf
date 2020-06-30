@@ -18,6 +18,4 @@ mixer:
 ccid: 190
 alt-names: superxinvader
 ---
-* Twitch subscription
-* Stream giveaways
-* **Note**: All glyphs are given out only via discord server, not via twitch whispers
+* Twitch subscription and then join discord and check giveaway in #glyph-giveaways

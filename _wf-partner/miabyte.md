@@ -19,3 +19,4 @@ ccid: 190
 alt-names: superxinvader
 ---
 * Twitch subscription and then join discord and check giveaway in #glyph-giveaways
+* Watch on twitch and get the twitch channel points and redeem with that

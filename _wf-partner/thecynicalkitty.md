@@ -18,5 +18,5 @@ mixer: https://mixer.com/TheCynicalKitty
 ccid: 38
 alt-names: chrisishd, cruxedkat
 ---
-* Redeem on Stream Elements extension for 120 points
+* Redeem on Stream Elements extension for 360 points (20 hours)
 * Twitch Subscription

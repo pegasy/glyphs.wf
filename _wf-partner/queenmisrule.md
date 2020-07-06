@@ -8,14 +8,15 @@ stream-currency-needed-for-glyph:
 title: QueenMisrule
 glyphurl: https://i.glyphs.wf/glyphs/QueenMisrule.png
 glyphwave: 25
-youtube: 
-twitch: 
-twitter: 
-discord: 
+youtube: https://www.youtube.com/channel/UCcXTEKc6ihQedLB2DIxtRIg
+twitch: https://www.twitch.tv/queenmisrule
+twitter: https://twitter.com/QueenMisrule
+discord: https://discord.gg/zaRwq6M
 other-site: 
 primary-language: 
 facebook: 
 mixer: 
 alt-names: 
 ---
-
+* Twitch subscription
+* Twitch giveaways

@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 385
-glyphname: 
+glyphname: QUEENMISRULE
 global-glyph-code: 
 currently-partnered: 
 stream-currency-needed-for-glyph: 

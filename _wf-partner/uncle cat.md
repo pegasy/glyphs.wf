@@ -18,5 +18,7 @@ mixer:
 ccid: 206
 alt-names: 
 ---
-* Drops codes in Youtube videos
-* Redeem for 3000 of his Streamlabs currency
+* Subscribe any tier on Twitch
+* Just be a Uncle Cat's member on YouTube atleast Tier 2 and PM evidence to UncleCat in Discord
+* Randomly giveaway in the official stream (sometime)
+* Collect Twitch Point from watching stream and exchange 30,000 points for Glyph !

@@ -18,6 +18,7 @@ mixer:
 ccid: 175
 alt-names: 
 ---
-* YouTube paid subscription (channel membership)
+* YouTube paid sub (channel membership)
+* [VKontakte](https://vk.com/silentmashiko) paid sub (via VK Donut)
 * Level 20 on Discord server via MEE6 bot
 * Giveaways.

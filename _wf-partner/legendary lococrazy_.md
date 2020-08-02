@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: LocoCrazy
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GasMask.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/GasMask.png
 glyphwave: 14
 youtube:
 twitch:

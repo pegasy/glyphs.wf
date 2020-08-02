@@ -1,7 +1,7 @@
 ---
 layout: cc
-glyphname: DOBRATV
-global-glyph-code:
+glyphname: MADFURY
+global-glyph-code: MADFURY
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Hypercaptai

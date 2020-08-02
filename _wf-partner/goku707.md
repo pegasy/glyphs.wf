@@ -10,7 +10,7 @@ twitter: https://twitter.com/Goku7o7
 discord: https://discord.gg/0sbqot21rwKGV1ge
 other-site:
 primary-language:
-global-glyph-code:
+global-glyph-code: AMPROV
 currently-partnered:
 stream-currency-needed-for-glyph:
 facebook:

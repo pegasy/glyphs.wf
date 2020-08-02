@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: VOLKERIS
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Volkeris5k
-glyphurl: https://i.glyphs.wf/glyphs/Volkeris.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Volkeris.png
 glyphwave: 11
-youtube: 
+youtube:
 twitch: https://twitch.tv/volkeris5k
-twitter: 
-discord: 
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
+twitter:
+discord:
+other-site:
+primary-language:
+facebook:
+mixer:
 ccid: 211
-alt-names: 
+alt-names:
 ---
 * Ask him during Twitch stream.

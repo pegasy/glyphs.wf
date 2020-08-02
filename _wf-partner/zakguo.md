@@ -2,21 +2,21 @@
 layout: cc
 title: Zakguo
 glyphname: ZAKGUO
-glyphurl: https://i.glyphs.wf/glyphs/Zakguo.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Zakguo.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/zakguo
-twitter: 
-discord: 
-other-site: 
+twitter:
+discord:
+other-site:
 primary-language: Chinese
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 227
-alt-names: 
+alt-names:
 ---
 * Twitch Raffles
 * 3000 points on StreamElements

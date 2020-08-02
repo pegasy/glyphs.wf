@@ -2,7 +2,7 @@
 layout: cc
 title: KingKongDonk
 glyphname: KINGKONGDONK
-glyphurl: https://i.glyphs.wf/glyphs/KingKongDonk.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/KingKongDonk.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCFMqpsdYhugGhD_1SCSrOxA
 twitch: https://twitch.tv/kingkongdonk

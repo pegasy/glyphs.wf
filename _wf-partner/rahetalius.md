@@ -2,20 +2,20 @@
 layout: cc
 title: Rahetalius
 glyphname: RAHETALIUS
-glyphurl: https://i.glyphs.wf/glyphs/Rahetalius.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Rahetalius.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UClecEk_RnQMtZ1jqeQyjhxw
-twitch: 
+twitch:
 twitter: https://twitter.com/Rahetalius_
 discord: https://discord.gg/gGZDfHG
-other-site: 
-primary-language: 
+other-site:
+primary-language:
 global-glyph-code: RAHETALIUS
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 155
-alt-names: 
+alt-names:
 ---
 * Direct message him on Discord.

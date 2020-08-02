@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Sealsdie
-glyphurl: https://i.glyphs.wf/glyphs/Sealsdie.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sealsdie.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/sealsdie

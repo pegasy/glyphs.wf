@@ -2,20 +2,19 @@
 layout: cc
 title: Bikeman
 glyphname: BIKEMAN
-glyphurl: https://i.glyphs.wf/glyphs/Bikeman.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bikeman.png
 glyphwave: 7
-youtube: 
-twitch: 
-twitter: 
-discord: 
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+youtube:
+twitch:
+twitter:
+discord:
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 25
-alt-names: 
+alt-names:
 ---
-

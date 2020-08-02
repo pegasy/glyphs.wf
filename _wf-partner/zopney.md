@@ -2,7 +2,7 @@
 layout: cc
 title: zopney
 glyphname: ZOPNEY
-glyphurl: https://i.glyphs.wf/glyphs/Zopney.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Zopney.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCnYeGTagWjuk3uZOSE5aySQ
 twitch:

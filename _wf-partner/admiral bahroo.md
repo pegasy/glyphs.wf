@@ -2,20 +2,19 @@
 layout: cc
 title: AdmiralBahroo
 glyphname: ADMIRAL BAHROO
-glyphurl: https://i.glyphs.wf/glyphs/AdmiralBahroo.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AdmiralBahroo.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://www.twitch.tv/admiralbahroo
-twitter: 
-discord: 
-other-site: 
+twitter:
+discord:
+other-site:
 primary-language: English
 global-glyph-code: ADMIRALBAHROO
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 6
-alt-names: 
+alt-names:
 ---
-

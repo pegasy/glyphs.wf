@@ -1,22 +1,22 @@
 ---
 layout: cc
 glyphname: SLIVARITO
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Slivarito
-glyphurl: https://i.glyphs.wf/glyphs/Slivarito.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Slivarito.png
 glyphwave: 14
-youtube: 
+youtube:
 twitch: https://twitch.tv/slivarito
 twitter: https://twitter.com/Slivarito
 discord: https://discord.gg/BepMAzn
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+facebook:
+mixer:
 ccid: 176
-alt-names: 
+alt-names:
 ---
 Complete one of the following methods and provide proof in Discord:
 * Watch Twitch stream for 8 hours. You will then be asked a question about your favorite Warframe.

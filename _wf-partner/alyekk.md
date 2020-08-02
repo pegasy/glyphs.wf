@@ -2,21 +2,21 @@
 layout: cc
 title: alyekk
 glyphname: ALYEKK
-glyphurl: https://i.glyphs.wf/glyphs/Alyekk.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Alyekk.png
 glyphwave: 9
-youtube: 
+youtube:
 twitch: https://twitch.tv/alyek
 twitter: https://twitter.com/alyekly
 discord: https://discord.gg/KdRuxAV
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
 stream-currency-needed-for-glyph: 350
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 12
-alt-names: 
+alt-names:
 ---
 * Twitch subscription.
 * Twitch raffle.

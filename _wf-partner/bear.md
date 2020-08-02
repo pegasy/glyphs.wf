@@ -2,7 +2,7 @@
 layout: cc
 title: MrBearGaming
 glyphname: BEAR
-glyphurl: https://i.glyphs.wf/glyphs/MrBearGaming.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrBearGaming.png
 glyphwave: 3
 youtube:
 twitch: https://twitch.tv/bear

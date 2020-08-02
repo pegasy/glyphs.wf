@@ -1,26 +1,75 @@
 ---
 layout: text-page
 ---
+
 {% assign cc = page %}
-<div class=".cc-list" style="width:20em">
-    <div class="modal-header">
-        <h4 class="modal-title">{{ cc.title }}</h4>
-    </div>
-    <div class="modal-body">
-        <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
-        <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
-        <p class="float-left">{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</p>
-        <hr style="padding-top: 0.5em; margin-top: 2em">
-        <span class="float-left" style="text-align: left">
-        {% include cc-social-links.html %}
-        {% if cc.global-glyph-code %}
-            <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
-            <div style="text-decoration: line-through;">
+
+<div class="row">
+  <div class="col">
+    <div class="card">
+      <div class="card-body">
+        <div class=".cc-list" style="width: 20em;">
+          <div class="modal-header">
+            <h4 class="modal-title">{{ cc.title }}</h4>
+          </div>
+          <div class="modal-body">
+            <img
+              class="card-img-top glyph-bg"
+              src="{{ site.baseDataUrl }}/latest/{{ cc.glyphurl }}"
+              alt="{{ cc.title }}"
+            />
+            <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
+            <p class="float-left">
+              {% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' |
+              append: cc.title | append: ' ???' }}{% endif %}
+            </p>
+            <hr style="padding-top: 0.5em; margin-top: 2em;" />
+            <div class="float-left" style="text-align: left;">
+              {% include cc-social-links.html %} {% if cc.global-glyph-code %}
+              <a
+                target="_blank"
+                href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}"
+                class="btn btn-primary"
+                >Redeem global code</a
+              >
+              <div style="text-decoration: line-through;">
                 {{ cc.content }}
+              </div>
+              {% else %} {{ cc.content }} {% endif %}
             </div>
-        {% else %}
-            {{ cc.content }}
-        {% endif %}
-        </span>
+            <div class="float-left" style="text-align: left;">
+              <h5>Versions</h5>
+              <span class="text-muted"
+                ><small>(dates are not exact)</small></span>
+              <div id="images_{{ cc.ccid }}"></div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
+
+  <div class="col">
+    {% if cc.twitch %}
+    <div style="padding-top: 56.25%; position: relative; overflow: hidden;">
+      <iframe
+        src="https://player.twitch.tv/?channel={{ cc.twitch | split: '/' | last }}&muted=true&autoplay=true&parent={{ site.url | split: '/' | last }}"
+        allow="fullscreen"
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          border: none;
+        "
+      ></iframe>
+    </div>
+    {% endif %}
+  </div>
 </div>
+<script>
+  $(document).ready(function () {
+    LoadImageVersions("#images_{{ cc.ccid }}", "{{ cc.glyphurl }}");
+  });
+</script>

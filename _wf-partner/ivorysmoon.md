@@ -2,21 +2,21 @@
 layout: cc
 title: IvorysMoon
 glyphname: IVORYSMOON
-glyphurl: https://i.glyphs.wf/glyphs/IvorysMoon.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/IvorysMoon.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/ivorysmoon
 twitter: https://twitter.com/Ivorysmoon
 discord: https://discord.gg/ZHBwUYY
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 94
-alt-names: 
+alt-names:
 ---
 * Raffles on Twitch
 * Twitch Subscription

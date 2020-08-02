@@ -2,20 +2,20 @@
 layout: cc
 title: LovinDaTacos
 glyphname: LOVINDATACOS
-glyphurl: https://i.glyphs.wf/glyphs/LovinDaTacos.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LovinDaTacos.png
 glyphwave: 7
-youtube: 
-twitch: 
-twitter: 
-discord: 
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
+youtube:
+twitch:
+twitter:
+discord:
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
 stream-currency-needed-for-glyph: 5000
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 117
-alt-names: 
+alt-names:
 ---
 * Removed.

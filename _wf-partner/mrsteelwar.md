@@ -2,20 +2,19 @@
 layout: cc
 title: MrSteelWar1337
 glyphname: MRSTEELWAR
-glyphurl: https://i.glyphs.wf/glyphs/MrSteelWar.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrSteelWar.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCLtJwLdxIOAA1uEDAnCcUxA
 twitch: https://twitch.tv/steelwar1337
-twitter: 
+twitter:
 discord: https://discord.gg/bPTAZue
 other-site: http://vk.com/steelwargroup
 primary-language: Russian
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+global-glyph-code: MRSTEELWAR
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 133
-alt-names: 
+alt-names:
 ---
-

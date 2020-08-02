@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: VOIDFISSUREBR
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code: VOIDFISSUREBR
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: VoidFissure
-glyphurl: https://i.glyphs.wf/glyphs/VoidFissureBR.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/VoidFissureBR.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCrgv5haPvhNUSzCG9hPgdIA
-twitch: 
+twitch:
 twitter: https://twitter.com/VoidFissureBR
 discord: https://discord.gg/aUpz3ky
-other-site: 
+other-site:
 primary-language: Portuguese
 facebook: https://www.facebook.com/VoidFissure/
-mixer: 
+mixer:
 ccid: 210
-alt-names: 
+alt-names:
 ---
 * Go to glyph channel in Discord and type `@Taxon glyph platform`.

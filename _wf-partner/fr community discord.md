@@ -2,21 +2,21 @@
 layout: cc
 ccid: 347
 glyphname: FR COMMUNITY DISCORD
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: French Community Discord
-glyphurl: https://i.glyphs.wf/glyphs/FRCommunityDiscord.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FRCommunityDiscord.png
 glyphwave: 21
-youtube: 
+youtube:
 twitch: https://twitch.tv/warframe_fr
-twitter: 
+twitter:
 discord: https://discord.gg/Tf7utwp
-other-site: 
-primary-language: 
+other-site:
+primary-language:
 facebook: https://www.facebook.com/WarframeFR/
-mixer: 
-alt-names: 
+mixer:
+alt-names:
 ---
 * By winning a Giveaway (There will be one guaranteed Glyph giveaway on each of our Community stream "Le Focus", once a month.)
 * As a reward for your participation in one of our French Wiki Campaigns

@@ -2,7 +2,7 @@
 layout: cc
 title: Ceratia
 glyphname: CERATIA
-glyphurl: https://i.glyphs.wf/glyphs/Ceratia.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ceratia.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCygEjZ-BZxFhZNj1ybLhPCA
 twitch: https://twitch.tv/ceratia

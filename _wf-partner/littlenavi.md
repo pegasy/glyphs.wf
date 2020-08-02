@@ -2,21 +2,21 @@
 layout: cc
 title: LittleNavi
 glyphname: LITTLENAVI
-glyphurl: https://i.glyphs.wf/glyphs/LittleNavi.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LittleNavi.png
 glyphwave: 8
-youtube: 
+youtube:
 twitch: https://twitch.tv/littlenavi_
 twitter: https://twitter.com/littlenavi_
 discord: https://discord.gg/eZqJUVF
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 111
-alt-names: 
+alt-names:
 ---
 * Twitch giveaways during streams (easiest way, I do multiple giveaways per stream)
 * Giveaways on twitter, [instagram](https://www.instagram.com/littlenavi), and in discord server

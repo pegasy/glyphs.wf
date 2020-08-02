@@ -2,21 +2,21 @@
 layout: cc
 ccid: 328
 glyphname: RECLAIMJOEY
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: ReclaimJoey
-glyphurl: https://i.glyphs.wf/glyphs/ReclaimJoey.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ReclaimJoey.png
 glyphwave: 17
-youtube: 
+youtube:
 twitch: https://www.twitch.tv/reclaimjoey
 twitter: https://twitter.com/ReclaimJoey
-discord: 
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
-alt-names: 
+discord:
+other-site:
+primary-language:
+facebook:
+mixer:
+alt-names:
 ---
 * Twitch subscription.
 * Twitch raffles.

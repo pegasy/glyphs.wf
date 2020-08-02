@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: THEDORTIP
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: TheDorTip
-glyphurl: https://i.glyphs.wf/glyphs/TheDorTip.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TheDorTip.png
 glyphwave: 10
 youtube: https://www.youtube.com/channel/UCgg2rFcXdVAO7knAN33yFIg
 twitch: https://twitch.tv/thedortip
-twitter: 
-discord: 
+twitter:
+discord:
 other-site: https://vk.com/thedortip
 primary-language: Russian
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 197
-alt-names: 
+alt-names:
 ---
 * Posts codes randomly during YouTube streams.

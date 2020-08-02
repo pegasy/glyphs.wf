@@ -2,21 +2,21 @@
 layout: cc
 ccid: 323
 glyphname: AJINGOM
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Ajingom
-glyphurl: https://i.glyphs.wf/glyphs/Ajingom.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ajingom.png
 glyphwave: 16
 youtube: https://www.youtube.com/channel/UCJEaI7QtXrndiWtEXVTXsdg
-twitch: 
-twitter: 
+twitch:
+twitter:
 discord: https://discord.gg/EX79bEN
-other-site: 
+other-site:
 primary-language: Korean
-facebook: 
-mixer: 
-alt-names: 
+facebook:
+mixer:
+alt-names:
 ---
 1. Develop some form of impressive architecture in the dojo or orbiter
 2. Post a screenshot or video of the architecture on the most recently uploaded YouTube video with your in-game name visible in the screenshot or video.

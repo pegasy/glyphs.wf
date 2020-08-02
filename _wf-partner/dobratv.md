@@ -1,20 +1,20 @@
 ---
 layout: cc
 glyphname: DOBRATV
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Hypercaptai
-glyphurl: https://i.glyphs.wf/glyphs/Hypercaptai.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Hypercaptai.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/dobratv
-twitter: 
+twitter:
 discord: https://discord.gg/C3Y7KAg
-other-site: 
+other-site:
 primary-language: Turkish
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 89
 alt-names: hypercaptai
 ---

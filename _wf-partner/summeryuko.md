@@ -2,20 +2,19 @@
 layout: cc
 ccid: 359
 glyphname: SUMMERYUKO
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: SummerYuko
-glyphurl: https://i.glyphs.wf/glyphs/SummerYuko.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SummerYuko.png
 glyphwave: 24
-youtube: 
+youtube:
 twitch: https://twitch.tv/summeryuko
-twitter: 
+twitter:
 discord: https://discord.gg/Pys3zVT
-other-site: 
+other-site:
 primary-language: Chinese
-facebook: 
-mixer: 
-alt-names: 
+facebook:
+mixer:
+alt-names:
 ---
-

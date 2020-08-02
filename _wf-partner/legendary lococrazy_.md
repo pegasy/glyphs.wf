@@ -1,21 +1,20 @@
 ---
 layout: cc
 glyphname: LEGENDARY LOCOCRAZY_
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: LocoCrazy
-glyphurl: https://i.glyphs.wf/glyphs/GasMask.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GasMask.png
 glyphwave: 14
-youtube: 
-twitch: 
+youtube:
+twitch:
 twitter: https://twitter.com/LocoCrazy__
-discord: 
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
+discord:
+other-site:
+primary-language:
+facebook:
+mixer:
 ccid: 115
 alt-names: lococrazy_
 ---
-

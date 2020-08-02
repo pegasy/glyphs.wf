@@ -2,19 +2,19 @@
 layout: cc
 title: Dyllonkg
 glyphname: DYLLONKG
-glyphurl: https://i.glyphs.wf/glyphs/Gooperatives.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Gooperatives.png
 glyphwave: 9
-youtube: 
+youtube:
 twitch: https://twitch.tv/gooperatives
 twitter: https://twitter.com/gooperatives
 discord: https://discord.gg/hUFSWAV
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
 stream-currency-needed-for-glyph: 1500
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 78
 alt-names: gooperatives
 ---

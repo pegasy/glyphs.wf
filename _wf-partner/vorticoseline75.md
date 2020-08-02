@@ -2,21 +2,21 @@
 layout: cc
 ccid: 340
 glyphname: VORTICOSELINE75
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: VorticoseLine75
-glyphurl: https://i.glyphs.wf/glyphs/Vorticoseline.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Vorticoseline.png
 glyphwave: 20
 youtube: https://www.youtube.com/channel/UCU44KtranhbMszyKI0IhhLA
 twitch: https://twitch.tv/vorticoseline75
 twitter: https://twitter.com/Vorticoseline75
 discord: https://discord.gg/WGu9W9R
-other-site: 
-primary-language: 
+other-site:
+primary-language:
 facebook: https://www.facebook.com/casualnexus
-mixer: 
-alt-names: 
+mixer:
+alt-names:
 ---
 * Sub to channel (!sub) - must whisper Vort, Twila, or active mods with a channel emote
 * 2 week of watch time (!watchtime)

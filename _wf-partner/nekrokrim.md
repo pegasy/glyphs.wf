@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: NEKROKRIM
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Nekrokrim
-glyphurl: https://i.glyphs.wf/glyphs/Nekrokrim.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Nekrokrim.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UCiAlrP1qA17KNkjJtWRJHnA
 twitch: https://twitch.tv/nekrokrim
 twitter: https://twitter.com/Nekrokrim
 discord: https://discordapp.com/invite/3784rcg
-other-site: 
+other-site:
 primary-language: Hungarian
 facebook: http://facebook.com/nekrokrim
-mixer: 
+mixer:
 ccid: 137
-alt-names: 
+alt-names:
 ---
 * Reach level 3 on Discord.

@@ -1,20 +1,20 @@
 ---
 layout: cc
 glyphname: BROTHERDAZ
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: BrotherDaz
-glyphurl: https://i.glyphs.wf/glyphs/OldDirtyDaz.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OldDirtyDaz.png
 glyphwave: 13
-youtube: 
+youtube:
 twitch: https://twitch.tv/brotherdaz
 twitter: https://twitter.com/olddirtydaz
-discord: 
-other-site: 
-primary-language: 
+discord:
+other-site:
+primary-language:
 facebook: https://www.facebook.com/olddirtydaz/
-mixer: 
+mixer:
 ccid: 141
 alt-names: OldDirtyDaz
 ---

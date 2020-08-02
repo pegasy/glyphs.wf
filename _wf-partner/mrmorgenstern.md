@@ -1,22 +1,22 @@
 ---
 layout: cc
 glyphname: MRMORGENSTERN
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: MrMorgenstern
-glyphurl: https://i.glyphs.wf/glyphs/MrMorgenstern.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrMorgenstern.png
 glyphwave: 10
-youtube: 
+youtube:
 twitch: https://twitch.tv/mrmorgenstern
 twitter: https://twitter.com/Dan_Morgenstern
 discord: https://discord.gg/morgenstern
-other-site: 
+other-site:
 primary-language: German
 facebook: https://www.facebook.com/Mr-Morgenstern-494518310928015/
-mixer: 
+mixer:
 ccid: 132
-alt-names: 
+alt-names:
 ---
 * Be part of his community.
 * Giveaways on stream and in discord

@@ -1,22 +1,22 @@
 ---
 layout: cc
 glyphname: ANGRYICEBERG
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Angry Iceberg
-glyphurl: https://i.glyphs.wf/glyphs/AngryIceberg.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AngryIceberg.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UC36z9v2lXmr3lfM2nN5AK3Q
 twitch: https://twitch.tv/angry_iceberg
 twitter: http://www.twitter.com/angry_iceberg
 discord: https://discord.gg/angry-iceberg
-other-site: 
-primary-language: 
-facebook: 
+other-site:
+primary-language:
+facebook:
 mixer: https://mixer.com/angryiceberg
 ccid: 13
-alt-names: 
+alt-names:
 ---
 * Twitch or Mixer subscription.
 * Twitch or Mixer raffles.

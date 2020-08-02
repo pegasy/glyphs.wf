@@ -2,21 +2,21 @@
 layout: cc
 ccid: 327
 glyphname: AURORASTARR
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: AuroraStarr
-glyphurl: https://i.glyphs.wf/glyphs/AuroraStarr.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AuroraStarr.png
 glyphwave: 17
-youtube: 
+youtube:
 twitch: https://twitch.tv/aurorastarr
 twitter: https://twitter.com/iaurorastarr
-discord: 
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
-alt-names: 
+discord:
+other-site:
+primary-language:
+facebook:
+mixer:
+alt-names:
 ---
 * Twitch subscription, then go to [http://chat.wtf/authenticate](http://chat.wtf/authenticate) and follow the instructions.
 * Twitch raffle.

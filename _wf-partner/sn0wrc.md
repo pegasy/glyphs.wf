@@ -2,20 +2,19 @@
 layout: cc
 ccid: 351
 glyphname: SN0WRC
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code: SN0WRC
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Sn0wRC
-glyphurl: https://i.glyphs.wf/glyphs/Sn0wRC.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sn0wRC.png
 glyphwave: 22
-youtube: 
+youtube:
 twitch: https://twitch.tv/sn0wrc
 twitter: https://twitter.com/Snowdreamerz
 discord: https://discord.gg/PzVWme5
-other-site: 
+other-site:
 primary-language: French
 facebook: https://www.facebook.com/snowrc/
-mixer: 
-alt-names: 
+mixer:
+alt-names:
 ---
-

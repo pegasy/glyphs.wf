@@ -2,20 +2,19 @@
 layout: cc
 ccid: 358
 glyphname: ETAINTED
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Etainted
-glyphurl: https://i.glyphs.wf/glyphs/Etainted.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Etainted.png
 glyphwave: 23
-youtube: 
+youtube:
 twitch: https://twitch.tv/etainted
 twitter: https://twitter.com/Etain12
 discord: https://discord.gg/RADSsEm
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
-alt-names: 
+other-site:
+primary-language:
+facebook:
+mixer:
+alt-names:
 ---
-

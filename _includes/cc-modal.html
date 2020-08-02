@@ -7,7 +7,7 @@
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <img class="card-img-top glyph-bg" src="{{ cc.glyphurl }}" alt="{{ cc.title }}">
+                <img class="card-img-top glyph-bg" src="{{ site.baseDataUrl }}/latest/{{ cc.glyphurl }}" alt="{{ cc.title }}">
                 <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
                 <p>{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</p>
                 {% include cc-social-links.html %}
@@ -19,6 +19,9 @@
                 {% else %}
                     {{ cc.content }}
                 {% endif %}
+                <h5>Versions</h5><span class="text-muted"><small>(dates are not exact)</small></span>
+                <div id="images_{{ cc.ccid }}">
+                </div>
             </div>
             <div class="modal-footer">
                 <a href="{{ cc.url }}" class="btn btn-primary">Open partner page</a>

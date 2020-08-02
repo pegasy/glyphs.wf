@@ -2,7 +2,7 @@
 layout: cc
 title: Griddark
 glyphname: GRIDDARK
-glyphurl: https://i.glyphs.wf/glyphs/Griddark.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Griddark.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/griddark

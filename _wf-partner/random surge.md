@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: RANDOM SURGE
-global-glyph-code: 
-currently-partnered: 
+global-glyph-code:
+currently-partnered:
 stream-currency-needed-for-glyph: 700
 title: RandomSurge
-glyphurl: https://i.glyphs.wf/glyphs/RandomSurge.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RandomSurge.png
 glyphwave: 12
-youtube: 
+youtube:
 twitch: https://twitch.tv/randomsurge
 twitter: https://twitter.com/RandomSurgeTV
 discord: https://discord.gg/7FKSd9B
-other-site: 
-primary-language: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+facebook:
+mixer:
 ccid: 157
-alt-names: 
+alt-names:
 ---
 * Claim a code after acquiring 700 points (stream currency).

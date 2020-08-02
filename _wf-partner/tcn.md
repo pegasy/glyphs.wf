@@ -2,21 +2,21 @@
 layout: cc
 title: Tenno Clock News
 glyphname: TCN
-glyphurl: https://i.glyphs.wf/glyphs/TCN.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TCN.png
 glyphwave: 4
-youtube: 
+youtube:
 twitch: https://twitch.tv/tgdm
 twitter: https://twitter.com/TennoClockNews
-discord: 
+discord:
 other-site: http://www.tennoclocknews.com/
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 195
-alt-names: 
+alt-names:
 ---
 * Posts glyph codes on [website](http://www.tennoclocknews.com/)
 * 50 Bus Tickets (250 minutes) at [WarframeRSB Twitch Stream](https://www.twitch.tv/warframersb)

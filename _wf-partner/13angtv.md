@@ -2,21 +2,21 @@
 layout: cc
 title: 13angTv
 glyphname: 13ANGTV
-glyphurl: https://i.glyphs.wf/glyphs/13angTV.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/13angTV.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/13angtv
 twitter: https://twitter.com/13angTv
 discord: https://discord.gg/Kh3wfZM
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 2
-alt-names: 
+alt-names:
 ---
 * Drops glyph codes in Twitch chat
 * Twitch Subscription

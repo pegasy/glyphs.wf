@@ -2,21 +2,21 @@
 layout: cc
 ccid: 372
 glyphname: PUNCH_L1NE
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Punch_l1ne
-glyphurl: https://i.glyphs.wf/glyphs/PunchL1ne.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PunchL1ne.png
 glyphwave: 25
-youtube: 
+youtube:
 twitch: https://twitch.tv/punch_l1ne
 twitter: https://twitter.com/PUNCH_L1NE
 discord: https://discord.gg/D2KhhWD
 other-site: https://streamelements.com/punch_l1ne/store
-primary-language: 
-facebook: 
-mixer: 
-alt-names: 
+primary-language:
+facebook:
+mixer:
+alt-names:
 ---
 * 3500 bananas on streamelements (30h)
 * Raffles

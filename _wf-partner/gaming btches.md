@@ -2,20 +2,20 @@
 layout: cc
 title: Gamingb*tches
 glyphname: GAMING B*TCHES
-glyphurl: https://i.glyphs.wf/glyphs/GamingBitches.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GamingBitches.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCzOgk6rXRIoq3supZHPv7qg
-twitch: 
-twitter: 
+twitch:
+twitter:
 discord: https://discord.gg/cute3X3
-other-site: 
+other-site:
 primary-language: Portuguese
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 71
-alt-names: 
+alt-names:
 ---
 * Ask for it on Discord

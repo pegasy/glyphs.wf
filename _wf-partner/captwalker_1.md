@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: CAPTWALKER_1
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: Capt_Walker
-glyphurl: https://i.glyphs.wf/glyphs/CaptWalker.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CaptWalker.png
 glyphwave: 12
-youtube: 
+youtube:
 twitch: https://twitch.tv/captwalker_1
-twitter: 
+twitter:
 discord: https://discord.gg/8RvNKPk
-other-site: 
+other-site:
 primary-language: Portuguese
-facebook: 
-mixer: 
+facebook:
+mixer:
 ccid: 33
-alt-names: 
+alt-names:
 ---
 * Go to the #glyph channel in Discord and type `@Taxon glyph platform`.

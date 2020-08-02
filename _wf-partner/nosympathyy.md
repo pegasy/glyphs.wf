@@ -2,21 +2,21 @@
 layout: cc
 title: NoSympathyy
 glyphname: NOSYMPATHYY
-glyphurl: https://i.glyphs.wf/glyphs/NoSympathyy.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/NoSympathyy.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCM7zlfo3IOQ3agy4IR_Ezag
 twitch: https://twitch.tv/NoSympathyy
 twitter: https://twitter.com/NoSympathyyCA
 discord: https://discord.gg/TGr9h2q
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+other-site:
+primary-language:
+global-glyph-code: NOSYMPATHYY
+currently-partnered:
+stream-currency-needed-for-glyph:
 facebook: https://www.facebook.com/NoSympathyyCA
-mixer: 
+mixer:
 ccid: 139
-alt-names: 
+alt-names:
 ---
 * Drops codes on Twitch
 * 5000 Clarmy on StreamLabs

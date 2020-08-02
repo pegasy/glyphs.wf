@@ -2,20 +2,20 @@
 layout: cc
 title: Infraredmike
 glyphname: INFRAREDMIKE
-glyphurl: https://i.glyphs.wf/glyphs/InfraredMike.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/InfraredMike.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/infraredmike
 twitter: https://twitter.com/Infra_Red_Mike
 discord: https://discord.gg/0z0EeQblkX7ENekR
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 93
-alt-names: 
+alt-names:
 ---
 * Raffles on Twitch

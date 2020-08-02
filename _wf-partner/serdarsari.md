@@ -2,19 +2,19 @@
 layout: cc
 title: SerdarSARI
 glyphname: SERDARSARI
-glyphurl: https://i.glyphs.wf/glyphs/BBSChainWarden.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BBSChainWarden.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCYZs1TwxjXeTMrQvIS1Yq6A
 twitch: https://twitch.tv/SerdarSARI
-twitter: 
+twitter:
 discord: https://discord.gg/YuT4e2Y
-other-site: 
-primary-language: 
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+other-site:
+primary-language:
+global-glyph-code: SERDARSARI
+currently-partnered:
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 22
 alt-names: BBSChainWarden
 ---

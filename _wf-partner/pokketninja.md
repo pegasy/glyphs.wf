@@ -1,22 +1,22 @@
 ---
 layout: cc
 glyphname: POKKETNINJA
-global-glyph-code: 
-currently-partnered: 
+global-glyph-code: POKKETNINJA
+currently-partnered:
 stream-currency-needed-for-glyph: 30000
 title: PokketNinja
-glyphurl: https://i.glyphs.wf/glyphs/PokketNinja.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PokketNinja.png
 glyphwave: 12
 youtube: https://www.youtube.com/channel/UC0GscLgRnv8dqIMxDZytZGw
 twitch: https://twitch.tv/pokketninja
 twitter: https://twitter.com/PokketNinja
 discord: https://discord.gg/5wwuxzg
-other-site: 
-primary-language: 
+other-site:
+primary-language:
 facebook: https://www.facebook.com/PokketNinja/
-mixer: 
+mixer:
 ccid: 146
-alt-names: 
+alt-names:
 ---
 * Twitch subscription, then go into `Glyph` channel in Discord and state your Twitch username, Warframe name, and platform.
 * Twitch raffles.

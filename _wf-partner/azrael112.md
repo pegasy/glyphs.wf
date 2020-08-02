@@ -2,7 +2,7 @@
 layout: cc
 title: Azrael112
 glyphname: AZRAEL112
-glyphurl: https://i.glyphs.wf/glyphs/Azrael112.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Azrael112.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/azrael112

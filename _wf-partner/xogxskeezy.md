@@ -2,20 +2,20 @@
 layout: cc
 title: xOGx Skeezy
 glyphname: XOGXSKEEZY
-glyphurl: https://i.glyphs.wf/glyphs/XOGxSkeezy.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/XOGxSkeezy.png
 glyphwave: 7
-youtube: 
+youtube:
 twitch: https://twitch.tv/skeez
 twitter: https://twitter.com/xOGxSkeez
 discord: http://discord.gg/zgdRzfj
 other-site: https://mixer.com/RealSkeeZy
-primary-language: 
-global-glyph-code: 
+primary-language:
+global-glyph-code:
 currently-partnered: Yes
-stream-currency-needed-for-glyph: 
-facebook: 
-mixer: 
+stream-currency-needed-for-glyph:
+facebook:
+mixer:
 ccid: 225
-alt-names: 
+alt-names:
 ---
 * Distributes codes only during Warframe streams.

@@ -1,21 +1,21 @@
 ---
 layout: cc
 glyphname: ACCESSIBLEGAMER
-global-glyph-code: 
-currently-partnered: 
-stream-currency-needed-for-glyph: 
+global-glyph-code:
+currently-partnered:
+stream-currency-needed-for-glyph:
 title: AccessibleGamer
-glyphurl: https://i.glyphs.wf/glyphs/AccessibleGamer.png
+glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AccessibleGamer.png
 glyphwave: 14
-youtube: 
+youtube:
 twitch: https://twitch.tv/accessiblegamer
 twitter: https://twitter.com/accessiblegamer
 discord: https://discord.gg/CSMTAZs
-other-site: 
-primary-language: 
+other-site:
+primary-language:
 facebook: https://www.facebook.com/accessiblegamer/
-mixer: 
+mixer:
 ccid: 3
-alt-names: 
+alt-names:
 ---
 * Discord channel for glyphs

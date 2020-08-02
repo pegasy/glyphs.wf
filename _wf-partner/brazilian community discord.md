@@ -2,7 +2,7 @@
 layout: cc
 ccid: 364
 glyphname: BRAZILIAN COMMUNITY DISCORD
-global-glyph-code:
+global-glyph-code: BRAZILCOMMUNITYDISCORD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: BrazilianCommunityDiscord

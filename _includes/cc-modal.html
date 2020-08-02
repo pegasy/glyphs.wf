@@ -13,9 +13,6 @@
                 {% include cc-social-links.html %}
                 {% if cc.global-glyph-code %}
                     <a target="_blank" href="https://www.warframe.com/promocode?code={{ cc.global-glyph-code }}" class="btn btn-primary">Redeem global code</a>
-                    <div style="text-decoration: line-through;">
-                        {{ cc.content }}
-                    </div>
                 {% else %}
                     {{ cc.content }}
                 {% endif %}

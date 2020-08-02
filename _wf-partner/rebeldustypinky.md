@@ -1,7 +1,7 @@
 ---
 layout: cc
 ccid: 371
-glyphname:
+glyphname: REBELDUSTYPINKY
 global-glyph-code: REBELDUSTYPINKY
 currently-partnered:
 stream-currency-needed-for-glyph:

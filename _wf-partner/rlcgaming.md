@@ -10,7 +10,7 @@ twitter: https://twitter.com/RLC_Here
 discord: https://discord.gg/XkVbBwG
 other-site:
 primary-language:
-global-glyph-code:
+global-glyph-code: JUSTRLC
 currently-partnered:
 stream-currency-needed-for-glyph: 3000
 facebook:

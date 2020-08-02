@@ -10,7 +10,7 @@ twitter:
 discord:
 other-site: https://vk.com/hotshom
 primary-language: Russian
-global-glyph-code:
+global-glyph-code: HOTSHOMSTORIES
 currently-partnered:
 stream-currency-needed-for-glyph:
 facebook:

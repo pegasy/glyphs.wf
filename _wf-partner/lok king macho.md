@@ -1,7 +1,7 @@
 ---
 layout: cc
 glyphname: LOK KING MACHO
-global-glyph-code:
+global-glyph-code: MACHO
 currently-partnered:
 stream-currency-needed-for-glyph: 100000
 title: Macho

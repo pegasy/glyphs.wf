@@ -1,6 +1,9 @@
 <head>
   {% assign imageUrl = '/assets/images/icon.png' %}
   {% if page.glyphurl %}{% assign imageUrl = site.baseDataUrl | append: '/latest/' | append: page.glyphurl %}{% endif %}
+  {% assign desc = site.description %}
+  {% if page.glyphurl %}{% assign desc = page.content | strip_html %}{% endif %}
+  {% if page.global-glyph-code %}{% assign desc = 'Click link to get global code' %}{% endif %}
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -14,7 +17,7 @@
   <link rel="stylesheet" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}2">
   <meta name="description" content="{{ site.description }}" />
   <meta property="og:title" content="{{ page.title | site.title }}" />
-  <meta property="og:description" content="{% if page.glyphname %}{{ page.content | strip_html }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:description" content="{{ desc }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:image" content="{{ imageUrl }}" />
   <meta property="og:site_name" content="{{ site.title }}" />

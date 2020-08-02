@@ -2,7 +2,7 @@
 layout: cc
 ccid: 345
 glyphname: SARAH TSANG
-global-glyph-code:
+global-glyph-code: SARAHTSANG
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Sarah Tsang

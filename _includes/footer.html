@@ -27,17 +27,34 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js" integrity="sha256-jGAkJO3hvqIDc4nIY1sfh/FPbV+UK+1N+xJJg6zzr7A=" crossorigin="anonymous"></script> -->
 <script>
+  function LoadImageVersions(id, filename) {
+    if ($(id).length && !$(id).children().length) {
+      $.getJSON(
+        `${BaseDataUrl}/versions/${filename}`,
+        function (data) {
+          $.each(data, function (ix, version) {
+            var date = Date.parse(version.date);
+            var tag = $(`<p>${version.date.split("T")[0]}</p>`);
+            tag.append(
+              `<img class="card-img-top glyph-bg" src="${BaseDataUrl}/version/${version.version}/${filename}" alt="${version.date}"></img>`
+            );
+            tag.appendTo(id);
+          });
+        }
+      );
+    }
+  }
+
   $(document).on('click', '[data-toggle="modal"]', function (event) {
     event.preventDefault();
     var l = event.currentTarget.getAttribute('href');
     var ccid = event.currentTarget.getAttribute('data-ccid');
     var glyphurl = event.currentTarget.getAttribute('data-glyphurl');
-
     window.history.pushState({ "html": "", "pageTitle": "" }, "", url = l);
-
     ga('set', 'page', l);
     ga('send', 'pageview');
     LoadImageVersions(`#images_${ccid}`, glyphurl);
+    $(event.currentTarget).next().find('img').attr('src', `${BaseDataUrl}/latest/${glyphurl}`);
   });
 
   $(document).on('change', '.cc-list input[type="checkbox"]', function(event){

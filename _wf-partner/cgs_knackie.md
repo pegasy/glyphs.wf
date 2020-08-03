@@ -10,7 +10,7 @@ twitter: https://twitter.com/juli3n45
 discord: https://discord.gg/HpVxNwh
 other-site:
 primary-language:
-global-glyph-code:
+global-glyph-code: CGSKNACKIE
 currently-partnered:
 stream-currency-needed-for-glyph:
 facebook:

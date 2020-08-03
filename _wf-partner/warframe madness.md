@@ -10,7 +10,7 @@ twitter: https://twitter.com/vamp6x6x6x
 discord:
 other-site:
 primary-language:
-global-glyph-code:
+global-glyph-code: VAMP6X6X6X
 currently-partnered:
 stream-currency-needed-for-glyph: 500
 facebook:

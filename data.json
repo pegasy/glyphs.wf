@@ -3,7 +3,7 @@ collectionName: wf-partner
 ---
 {"partners": [{% assign collection = site.collections | where: 'label', page.collectionName | first %}{% for tag in collection.docs %}{% if tag.layout != 'cc' %}{% continue %}{% endif %}{% if tag.title == 'Template' %}{% continue %}{% endif %}{% if forloop.index0 != 0%},{% endif %}{
 {% if tag.glyphname %}"glyphname": "{{ tag.glyphname }}",
-{% endif %}{% if tag.glyphurl %}"glyphurl": "{{ tag.glyphurl }}",
+{% endif %}{% if tag.glyphurl %}"glyphurl": "{{ site.baseDataUrl | append: '/latest/' | append: tag.glyphurl }}",
 {% endif %}{% if tag.glyphwave %}"wave": "{{ tag.glyphwave }}",
 {% endif %}{% if tag.youtube %}"youtube": "{{ tag.youtube }}",
 {% endif %}{% if tag.twitch %}"twitch": "{{ tag.twitch }}",

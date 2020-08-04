@@ -1,2 +1,3 @@
 url: https://dev.glyphs.wf
+#baseDataUrl: https://localhost:44304
 baseDataUrl: https://data-dev.glyphs.wf

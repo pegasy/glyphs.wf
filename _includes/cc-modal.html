@@ -7,7 +7,7 @@
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <img class="card-img-top glyph-bg lazyload" src="{{ site.baseDataUrl }}/bg.png" data-src="{{ site.baseDataUrl }}/date/{{ isoDate }}/{{ cc.glyphurl }}" alt="{{ cc.title }}">
+                <img class="card-img-top glyph-bg lazyload" src="{{ site.baseDataUrl }}/bg.png" data-src="{{ site.baseDataUrl }}/latest/{{ cc.glyphurl }}" alt="{{ cc.title }}">
                 <p class="float-right text-muted">Wave {{ cc.glyphwave }}</p>
                 <p>{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</p>
                 {% include cc-social-links.html %}

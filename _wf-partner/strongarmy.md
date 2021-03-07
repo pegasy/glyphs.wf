@@ -9,7 +9,7 @@ title: StrongArmy
 glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/StrongArmy.png
 glyphwave: 18
 youtube: https://www.youtube.com/channel/UCk7tpmGjMX1nGmjOa2V_hBg
-twitch: https://twitch.tv/strcommander
+twitch: https://twitch.tv/baldman
 twitter:
 discord: https://discord.gg/VMKQdfG
 other-site:

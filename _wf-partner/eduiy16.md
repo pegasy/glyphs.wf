@@ -5,10 +5,10 @@ glyphname: EDUIY16
 glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Eduiy16.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UC-BIEXRTfgLty4jIWtuIPbw
-twitch:
+twitch: https://twitch.tv/eduiy16
 twitter: https://twitter.com/eduiy16YT
 discord:
-other-site: https://eduiy16.jimdo.com/gracias-por-tu-click
+other-site: https://eduiy16.com/
 primary-language: Spanish
 global-glyph-code: EDUIY16
 currently-partnered:
@@ -18,5 +18,3 @@ mixer:
 ccid: 57
 alt-names:
 ---
-* Post codes [here](https://eduiy16.jimdo.com/gracias-por-tu-click)
-* Post codes in Youtube videos (usually near the end)

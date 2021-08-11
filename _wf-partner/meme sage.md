@@ -18,5 +18,4 @@ mixer:
 ccid: 125
 alt-names:
 ---
-* Glyph giveaways on Twitch
-* Reach level 20 on his discord (by chatting)
+

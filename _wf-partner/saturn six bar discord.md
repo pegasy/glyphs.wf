@@ -18,7 +18,5 @@ facebook:
 mixer:
 alt-names:
 ---
-* Discord raffle
-* Boost discord server
-* Youtube video descriptions
-* Twitch raffle
+* Irregular drops in Discord
+* 25000 Twitch channel points

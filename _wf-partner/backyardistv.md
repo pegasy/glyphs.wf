@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: BackyardisTV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BackyardisTV.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BackyardisTV.png
 glyphwave: 12
 youtube: https://www.youtube.com/channel/UCdpPGbTGLGoc3kUplR5fxqQ
 twitch: https://twitch.tv/backyardisTV

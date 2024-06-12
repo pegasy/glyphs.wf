@@ -2,7 +2,7 @@
 layout: cc
 title: GogumaGaming
 glyphname: GOGUMAGAMING
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GogumaGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GogumaGaming.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCn-gpw0PyN2xqyfAaZUSctg
 twitch: https://twitch.tv/gogumagaming

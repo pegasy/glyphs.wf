@@ -5,7 +5,7 @@ global-glyph-code: GRINDHARDSQUAD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Grind Hard Squad
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GrindHardSquad.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GrindHardSquad.png
 glyphwave: 15
 youtube: https://www.youtube.com/channel/UCTR7wxZ_91orxoOXiKr5GDw
 twitch:

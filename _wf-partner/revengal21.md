@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Revengal21
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Revengal.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Revengal.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UCUVgAwWK6GSUlFS20-ee_Yg
 twitch: https://twitch.tv/revengal21

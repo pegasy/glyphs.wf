@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TyFighter559
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TyFighter.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TyFighter.png
 glyphwave: 15
 youtube: https://www.youtube.com/channel/UCGIHGopbiLiZG-T_IL3AdkQ
 twitch:

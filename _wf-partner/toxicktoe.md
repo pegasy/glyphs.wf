@@ -6,7 +6,7 @@ global-glyph-code: TOXICKTOE
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: ToxickToe
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ToxickToe.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ToxickToe.png
 glyphwave: 22
 youtube: https://www.youtube.com/channel/UCDk6OEEQ8ZIvD5Q9t1kY8PQ
 twitch:

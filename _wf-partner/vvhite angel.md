@@ -2,7 +2,7 @@
 layout: cc
 title: VVhite Angel
 glyphname: VVHITE ANGEL
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/VVhiteAngel.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/VVhiteAngel.png
 glyphwave: 2
 youtube: https://www.youtube.com/channel/UCffeBUU4GfgCouaNt-h_-tw
 twitch: https://twitch.tv/vvhite_angel

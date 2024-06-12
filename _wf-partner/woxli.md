@@ -2,7 +2,7 @@
 layout: cc
 title: WoxLi
 glyphname: WOXLI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Woxli.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Woxli.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/woxli

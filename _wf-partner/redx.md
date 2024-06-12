@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: RedX
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RedX.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RedX.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/redx

@@ -48,7 +48,7 @@
     ga('set', 'page', l);
     ga('send', 'pageview');
     LoadImageVersions(`#images_${ccid}`, glyphurl);
-    $(event.currentTarget).next().find('img').attr('src', `${BaseDataUrl}/latest/${glyphurl}`);
+    $(event.currentTarget).next().find('img').attr('src', `${BaseAssetsUrl}${glyphurl}`);
   });
 
   $(document).on('change', '.cc-list input[type="checkbox"]', function(event){

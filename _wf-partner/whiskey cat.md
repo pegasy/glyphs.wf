@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Whiskey_Cat
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/WhiskeyCat.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/WhiskeyCat.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UCsbGwLlg6vu79B2BRaJ7sGg
 twitch: https://twitch.tv/whiskey_cat

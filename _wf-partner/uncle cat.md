@@ -2,7 +2,7 @@
 layout: cc
 title: Uncle Cat
 glyphname: UNCLE CAT
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/UncleCat.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/UncleCat.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCSKSt1Uo6iHjYeZv8BXdrGg
 twitch: https://twitch.tv/unclecatth

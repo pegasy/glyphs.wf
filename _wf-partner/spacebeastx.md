@@ -2,7 +2,7 @@
 layout: cc
 title: Spacebeastx
 glyphname: SPACEBEASTX
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Spacebeastx.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Spacebeastx.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCkrsGHNBC1LWqPAjGllM5Fg
 twitch: https://twitch.tv/spacebeastx

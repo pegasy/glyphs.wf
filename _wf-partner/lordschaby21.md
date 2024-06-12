@@ -2,7 +2,7 @@
 layout: cc
 title: schabybaby
 glyphname: LORDSCHABY21
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Lordschaby.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Lordschaby.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/schabybaby

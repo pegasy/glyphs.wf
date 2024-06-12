@@ -2,7 +2,7 @@
 layout: cc
 title: Infraredmike
 glyphname: INFRAREDMIKE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/InfraredMike.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/InfraredMike.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/infraredmike

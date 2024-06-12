@@ -2,7 +2,7 @@
 layout: cc
 title: Prettypoison105
 glyphname: PRETTYPOISON105
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PrettyPoison.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/PrettyPoison.png
 glyphwave: 4
 youtube:
 twitch: https://twitch.tv/prettypoison105

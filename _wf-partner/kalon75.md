@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Kalon
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Kalon.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Kalon.png
 glyphwave: 19
 youtube: https://www.youtube.com/channel/UCZoo5CAfsCuXgxLGqLlw3Aw
 twitch: https://www.twitch.tv/kalon75

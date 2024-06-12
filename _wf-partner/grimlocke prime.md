@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: GrimlockePrime
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GrimlockePrime.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GrimlockePrime.png
 glyphwave: 12
 youtube: https://www.youtube.com/channel/UC3tVs_MxKiLZkc1rkJPegsA
 twitch:

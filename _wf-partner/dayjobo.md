@@ -2,7 +2,7 @@
 layout: cc
 title: Rakshasa
 glyphname: DAYJOBO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DayJoBo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DayJoBo.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCpz4UuZqrFxMTQok5XENCGA
 twitch:

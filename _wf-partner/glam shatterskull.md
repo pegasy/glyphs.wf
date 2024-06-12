@@ -5,7 +5,7 @@ global-glyph-code: GLAMSHATTERSKULL
 currently-partnered:
 stream-currency-needed-for-glyph: 5000
 title: GlamShatterskull
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GlamShatterskull.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GlamShatterskull.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/glamshatterskull

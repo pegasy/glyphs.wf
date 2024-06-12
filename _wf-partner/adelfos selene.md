@@ -2,7 +2,7 @@
 layout: cc
 title: Adelfos Selene
 glyphname: ADELFOS SELENE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AdelfosSelene.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AdelfosSelene.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/adelfos_selene

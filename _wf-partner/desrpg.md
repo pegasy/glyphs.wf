@@ -2,7 +2,7 @@
 layout: cc
 title: DesRPG
 glyphname: DESRPG
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DesRPG.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DesRPG.png
 glyphwave: 5
 youtube: https://www.youtube.com/channel/UCSG5ZC1hY2booSykqoz5-yQ
 twitch: https://twitch.tv/desrpg

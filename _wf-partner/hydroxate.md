@@ -2,7 +2,7 @@
 layout: cc
 title: Hydroxate
 glyphname: HYDROXATE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Hydroxate.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Hydroxate.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCEvaZUb93z8LmOyLC02Dqog
 twitch: https://twitch.tv/hydroxate

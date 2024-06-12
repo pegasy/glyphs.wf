@@ -2,7 +2,7 @@
 layout: cc
 title: J3ubbleboy
 glyphname: J3UBBLEBOY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/J3ubbleboy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/J3ubbleboy.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCL_aG8E9GeXChtENEpEWG8g
 twitch: https://twitch.tv/j3ubbleboy

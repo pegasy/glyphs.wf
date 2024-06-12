@@ -6,7 +6,7 @@ global-glyph-code: REBELDUSTYPINKY
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: RebelDustyPinky
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RebelDustyPinky.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RebelDustyPinky.png
 glyphwave: 25
 youtube: https://www.youtube.com/channel/UCihfh54YVlxZUFLeQXD8FSQ
 twitch:

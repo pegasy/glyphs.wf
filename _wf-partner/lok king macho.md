@@ -5,7 +5,7 @@ global-glyph-code: MACHO
 currently-partnered:
 stream-currency-needed-for-glyph: 100000
 title: Macho
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LokKingMacho.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LokKingMacho.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UC0RO8Ex_8w1ZYp4VoCz7o5w
 twitch: https://twitch.tv/macho

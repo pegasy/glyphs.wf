@@ -5,7 +5,7 @@ global-glyph-code: DEEPBLUEBEARD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: DeepBlueBeard
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DeepBlueBeard.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DeepBlueBeard.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/deepbluebeard

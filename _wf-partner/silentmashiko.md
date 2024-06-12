@@ -2,7 +2,7 @@
 layout: cc
 title: SilentMashiko
 glyphname: SILENTMASHIKO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SilentMashiko.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SilentMashiko.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCKxdEtafWJs23Rtf0yw_L7A
 twitch:

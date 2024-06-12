@@ -2,7 +2,7 @@
 layout: cc
 title: SabaiGuy
 glyphname: SABAIGUY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SabaiGuy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SabaiGuy.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/sabaiguy

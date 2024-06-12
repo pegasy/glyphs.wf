@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Stormcrown
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Stormcrown.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Stormcrown.png
 glyphwave: 17
 youtube: https://www.youtube.com/channel/UC8mk8MYVjjDf8xhHLOc6efQ
 twitch:

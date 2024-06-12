@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: QueenMisrule
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/QueenMisrule.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/QueenMisrule.png
 glyphwave: 25
 youtube: https://www.youtube.com/channel/UCcXTEKc6ihQedLB2DIxtRIg
 twitch: https://www.twitch.tv/queenmisrule

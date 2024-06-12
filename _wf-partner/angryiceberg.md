@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Angry Iceberg
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AngryIceberg.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AngryIceberg.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UC36z9v2lXmr3lfM2nN5AK3Q
 twitch: https://twitch.tv/angry_iceberg

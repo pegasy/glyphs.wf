@@ -2,7 +2,7 @@
 layout: cc
 title: iFlynn
 glyphname: IFLYNN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Iflynn.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Iflynn.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCjHhQ3k4zQ2Y8-CPM7KpGww
 twitch: https://twitch.tv/iflynn

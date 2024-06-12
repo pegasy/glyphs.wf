@@ -2,7 +2,7 @@
 layout: cc
 title: LovinDaTacos
 glyphname: LOVINDATACOS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LovinDaTacos.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LovinDaTacos.png
 glyphwave: 7
 youtube:
 twitch:

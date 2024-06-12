@@ -2,7 +2,7 @@
 layout: cc
 title: Summit1g
 glyphname: SUMMIT1G
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Summit1G.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Summit1G.png
 glyphwave: 7
 youtube:
 twitch:

@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Ajingom
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ajingom.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Ajingom.png
 glyphwave: 16
 youtube: https://www.youtube.com/channel/UCJEaI7QtXrndiWtEXVTXsdg
 twitch:

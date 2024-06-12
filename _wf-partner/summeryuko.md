@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: SummerYuko
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SummerYuko.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SummerYuko.png
 glyphwave: 24
 youtube:
 twitch: https://twitch.tv/summeryuko

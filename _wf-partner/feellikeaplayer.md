@@ -6,7 +6,7 @@ global-glyph-code: FEELLIKEAPLAYER
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: FEELLIKEAPLAYER
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FeelLikeAPlayer.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FeelLikeAPlayer.png
 glyphwave:
 youtube:
 twitch:

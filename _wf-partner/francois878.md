@@ -2,7 +2,7 @@
 layout: cc
 title: Francois878
 glyphname: FRANCOIS878
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Francois878.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Francois878.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCmYwxQnQUDJFNqS1vXWqSxw
 twitch: https://twitch.tv/francois878

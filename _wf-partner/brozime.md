@@ -2,7 +2,7 @@
 layout: cc
 title: Brozime
 glyphname: BROZIME
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Brozime.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Brozime.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCJ6-So7ndDeeYdudPIbhCiA
 twitch: https://twitch.tv/brozime

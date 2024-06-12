@@ -6,7 +6,7 @@ global-glyph-code: ANJETCAT
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Anjetcat
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AnJetCat.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AnJetCat.png
 glyphwave: 17
 youtube: https://www.youtube.com/channel/UCAvXfVow-102mL8aig56eWQ
 twitch:

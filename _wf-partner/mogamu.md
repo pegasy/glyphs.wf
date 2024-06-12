@@ -2,7 +2,7 @@
 layout: cc
 title: Mogamu
 glyphname: MOGAMU
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Mogamu.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Mogamu.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCr1pl_x1aDH6S82SB2EP7Gg
 twitch: https://twitch.tv/mogamu

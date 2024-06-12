@@ -2,7 +2,7 @@
 layout: cc
 title: Rahetalius
 glyphname: RAHETALIUS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Rahetalius.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Rahetalius.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UClecEk_RnQMtZ1jqeQyjhxw
 twitch:

@@ -2,7 +2,7 @@
 layout: cc
 title: DADEYFUE
 glyphname: DADEFUYE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Dadefuye.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Dadefuye.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCNFo0htAHe8oOdreCWQ_YRQ
 twitch:

@@ -2,7 +2,7 @@
 layout: cc
 title: TrainsyTV
 glyphname: TRAINSYTV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TrainsyTv.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TrainsyTv.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCg0UTxlYXRsX9wGogQWeuPA
 twitch: https://twitch.tv/trainsy

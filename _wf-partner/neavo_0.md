@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Neavo_0
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Neavo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Neavo.png
 glyphwave: 12
 youtube:
 twitch: https://twitch.tv/neavo_0

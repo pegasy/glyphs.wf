@@ -2,7 +2,7 @@
 layout: cc
 title: Mozetas
 glyphname: MOZETAS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Mozetas.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Mozetas.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCcGsVKthjBhJTNsEagn8d4A
 twitch: https://twitch.tv/mozetas

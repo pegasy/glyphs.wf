@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Nekrokrim
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Nekrokrim.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Nekrokrim.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UCiAlrP1qA17KNkjJtWRJHnA
 twitch: https://twitch.tv/nekrokrim

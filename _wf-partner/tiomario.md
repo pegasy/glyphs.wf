@@ -2,7 +2,7 @@
 layout: cc
 title: TioMario
 glyphname: TIOMARIO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TioMario.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TioMario.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/tiomario

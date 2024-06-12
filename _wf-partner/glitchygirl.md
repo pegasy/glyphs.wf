@@ -2,7 +2,7 @@
 layout: cc
 title: GlitchyGirl
 glyphname: GLITCHYGIRL
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GlitchyGirl.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GlitchyGirl.png
 glyphwave: 8
 youtube:
 twitch: https://twitch.tv/glitchygirl

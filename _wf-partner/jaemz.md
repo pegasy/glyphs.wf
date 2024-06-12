@@ -2,7 +2,7 @@
 layout: cc
 title: Jaemz
 glyphname: JAEMZ
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CrazyBikerDude.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CrazyBikerDude.png
 glyphwave: 7
 youtube:
 twitch:

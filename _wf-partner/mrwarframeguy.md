@@ -2,7 +2,7 @@
 layout: cc
 title: MrWarframe Guy
 glyphname: MRWARFRAMEGUY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrWarframeGuy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MrWarframeGuy.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCT56QF_zSxOYP_fu2jmbnEw
 twitch:

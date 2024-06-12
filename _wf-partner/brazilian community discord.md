@@ -6,7 +6,7 @@ global-glyph-code: BRAZILCOMMUNITYDISCORD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: BrazilianCommunityDiscord
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BrazilianCommunityDiscord.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BrazilianCommunityDiscord.png
 glyphwave: 23
 youtube:
 twitch:

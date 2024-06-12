@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: XXslip
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/XXslip.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/XXslip.png
 glyphwave: 24
 youtube:
 twitch:

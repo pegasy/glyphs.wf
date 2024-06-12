@@ -2,7 +2,7 @@
 layout: cc
 title: Infodiversao
 glyphname: INFODIVERSAO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Infodiversao.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Infodiversao.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCQVZw42Hlhg7_Q1Ip36KkrQ
 twitch: https://twitch.tv/infodiversao

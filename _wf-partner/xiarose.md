@@ -2,7 +2,7 @@
 layout: cc
 title: XiaRose
 glyphname: XIAROSE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/XiaRose.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/XiaRose.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCYzxkQ_Bp940JJe2XBMuTJQ
 twitch: https://twitch.tv/xiarose

@@ -2,7 +2,7 @@
 layout: cc
 title: wgrates
 glyphname: WGRATES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Wgrates.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Wgrates.png
 glyphwave: 1
 youtube:
 twitch:

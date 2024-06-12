@@ -2,7 +2,7 @@
 layout: cc
 title: ToYou
 glyphname: TOYOU
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ToYou.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ToYou.png
 glyphwave: 5
 youtube: https://www.youtube.com/channel/UCRHqnU9aNiH_99csZTS80iQ
 twitch:

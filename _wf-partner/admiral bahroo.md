@@ -2,7 +2,7 @@
 layout: cc
 title: AdmiralBahroo
 glyphname: ADMIRAL BAHROO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AdmiralBahroo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AdmiralBahroo.png
 glyphwave: 7
 youtube:
 twitch: https://www.twitch.tv/admiralbahroo

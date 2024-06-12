@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: lluull
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LluulL.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LluulL.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UCCl4cgnFbvoUwmSB8hdyEPg
 twitch:

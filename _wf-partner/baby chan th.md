@@ -2,7 +2,7 @@
 layout: cc
 title: Babychan TH
 glyphname: BABY CHAN TH
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BabychanTH.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BabychanTH.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCh7uqPY5HmvQ8tWEysjuqqA
 twitch: https://twitch.tv/babychanth

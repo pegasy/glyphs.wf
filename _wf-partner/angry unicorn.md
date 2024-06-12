@@ -6,7 +6,7 @@ global-glyph-code: ANGRYUNICORN
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: AngryUnicorn
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AngryUnicorn.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AngryUnicorn.png
 glyphwave: 27
 youtube:
 twitch: https://twitch.tv/angry_unicorn_

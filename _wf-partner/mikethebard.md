@@ -5,7 +5,7 @@ global-glyph-code: MIKETHEBARD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: MikeTheBard
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TVSBOH.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TVSBOH.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCrg4KU2n_urrNQPBpJiRjRQ
 twitch: https://twitch.tv/mikethebard

@@ -2,7 +2,7 @@
 layout: cc
 title: Distant Observer
 glyphname: DISTANT OBSERVER
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DistantObserver.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DistantObserver.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UC13043Ga8_N3kItV22oHazQ
 twitch:

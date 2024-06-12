@@ -2,7 +2,7 @@
 layout: cc
 title: Esp4him
 glyphname: ESP4HIM
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Esp4him.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Esp4him.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCzu71M_mM-ixS9Ru8VDgfHg
 twitch: https://twitch.tv/esp4him

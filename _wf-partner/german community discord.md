@@ -6,7 +6,7 @@ global-glyph-code: GERMANCOMMUNITYDISCORD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: German Community Discord
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GermanCommunityDiscord.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GermanCommunityDiscord.png
 glyphwave: 26
 youtube:
 twitch:

@@ -2,7 +2,7 @@
 layout: cc
 title: Slicker Explica
 glyphname: SLYCKER
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Slycker.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Slycker.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCFznv4H-6sDwhsubCzJYkLQ
 twitch: https://twitch.tv/slyckerslk

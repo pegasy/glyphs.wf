@@ -2,7 +2,7 @@
 layout: cc
 title: Tactical Potato
 glyphname: TACTICALPOTATO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TacticalPotato.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TacticalPotato.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCHAenboNPQJmNQmvQDQibQA
 twitch: https://twitch.tv/tactical_potato_

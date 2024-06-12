@@ -5,7 +5,7 @@ global-glyph-code: r/warframe
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Warframe Reddit
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Reddit.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Reddit.png
 glyphwave: 11
 youtube:
 twitch:

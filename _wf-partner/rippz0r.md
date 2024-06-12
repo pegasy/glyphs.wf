@@ -2,7 +2,7 @@
 layout: cc
 title: Rippz0r
 glyphname: RIPPZ0R
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Rippz0r.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Rippz0r.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/rippz0r

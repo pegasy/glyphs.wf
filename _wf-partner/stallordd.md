@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: StallordD
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/StallordD.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/StallordD.png
 glyphwave: 15
 youtube:
 twitch:

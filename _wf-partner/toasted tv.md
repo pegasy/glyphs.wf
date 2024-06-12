@@ -2,7 +2,7 @@
 layout: cc
 title: Toasted__TV
 glyphname: TOASTED TV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ToastedTV.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ToastedTV.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/toasted__tv

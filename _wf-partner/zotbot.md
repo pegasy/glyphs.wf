@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Zotbot
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Zotbot.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Zotbot.png
 glyphwave: 12
 youtube:
 twitch: https://twitch.tv/zotbot

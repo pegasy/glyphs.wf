@@ -2,7 +2,7 @@
 layout: cc
 title: CaptainTutu
 glyphname: CAPTAINTUTU
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CaptainTutu.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CaptainTutu.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC-7CTcR-IXmjUUl-RLTX9oQ
 twitch: https://twitch.tv/kidtutu

@@ -2,7 +2,7 @@
 layout: cc
 title: XandyPants
 glyphname: XANDYPANTS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/XandyPants.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/XandyPants.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCSYUiqtdg--jpSGJty-ti0A
 twitch: https://twitch.tv/xandypants

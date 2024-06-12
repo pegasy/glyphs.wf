@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: KyriosYuudai
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/KyriosYuudai.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/KyriosYuudai.png
 glyphwave: 24
 youtube: https://www.youtube.com/channel/UCni9V1w0kRqiIgR3uMr8xVQ
 twitch: https://twitch.tv/kyriosyuudai

@@ -2,7 +2,7 @@
 layout: cc
 title: Zakguo
 glyphname: ZAKGUO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Zakguo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Zakguo.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/zakguo

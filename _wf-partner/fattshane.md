@@ -2,7 +2,7 @@
 layout: cc
 title: Fattshane
 glyphname: FATTSHANE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FattShane.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FattShane.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/fattshane

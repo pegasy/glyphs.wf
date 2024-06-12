@@ -2,7 +2,7 @@
 layout: cc
 title: InexpensiveGamer
 glyphname: INEXPENSIVEGAMER
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/InexpensiveGamer.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/InexpensiveGamer.png
 glyphwave: 6
 youtube:
 twitch: https://twitch.tv/inexpensivegamer

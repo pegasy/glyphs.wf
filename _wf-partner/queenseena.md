@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: no
 stream-currency-needed-for-glyph:
 title: QueenSeena
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Senastra23.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Senastra23.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCjlnkwUiI9B58i_KAWVm3kw
 twitch: https://twitch.tv/queensenaa

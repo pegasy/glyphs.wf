@@ -2,7 +2,7 @@
 layout: cc
 title: Quiette Shy
 glyphname: QUITESHALLOW
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/QuiteShallow.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/QuiteShallow.png
 glyphwave: 2
 youtube: https://www.youtube.com/channel/UCLPBnMwDwtOOEegviAyKcEg
 twitch: https://twitch.tv/quietteshy

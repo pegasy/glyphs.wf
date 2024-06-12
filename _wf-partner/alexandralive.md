@@ -2,7 +2,7 @@
 layout: cc
 title: AlexandraLive
 glyphname: ALEXANDRALIVE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AlexandraLive.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AlexandraLive.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCAUuyRBkGg528QpOtPPwp_g
 twitch: https://twitch.tv/alexandralive

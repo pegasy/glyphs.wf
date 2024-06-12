@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Bennyfits
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bennyfits.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Bennyfits.png
 glyphwave: 11
 youtube:
 twitch:

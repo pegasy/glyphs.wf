@@ -2,7 +2,7 @@
 layout: cc
 title: Porongo
 glyphname: PORONGO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Porongo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Porongo.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCOR3W2e-G1Sl9tJ-IRGfttg
 twitch:

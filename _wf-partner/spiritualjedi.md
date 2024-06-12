@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph: 10000
 title: Spiritual Jedi
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SpiritualJedi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SpiritualJedi.png
 glyphwave: 14
 youtube:
 twitch: https://twitch.tv/spiritualjedi

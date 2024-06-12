@@ -1,7 +1,7 @@
 <div>{% assign isoDate = site.time | date: '%Y-%m-%dT%H:%M:%SZ' %}
     <a href="{{ cc.url }}" data-target="#modal_{{ cc.ccid }}" data-toggle="modal" data-ccid="{{ cc.ccid }}" data-glyphurl="{{ cc.glyphurl }}">
         <div class="card text-white">
-            <img class="card-img glyph-bg lazyload" src="{{ site.baseDataUrl }}/bg.png" data-src="{{ site.baseDataUrl }}/latest/{{ cc.glyphurl }}?s" alt="{{ cc.glyphname }}">
+            <img class="card-img glyph-bg lazyload" src="{{ site.baseDataUrl }}/bg.png" data-src="{{ site.baseAssetsUrl }}{{ cc.glyphurl }}" alt="{{ cc.glyphname }}">
             <div class="card-img-overlay">
                 <div class="card-footer">
                     <span>{% if cc.glyphname %}{{ cc.glyphname }}{% else %}{{ '??? ' | append: cc.title | append: ' ???' }}{% endif %}</span>

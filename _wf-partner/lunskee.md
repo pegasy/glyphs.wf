@@ -2,7 +2,7 @@
 layout: cc
 title: LunskeeTV
 glyphname: LUNSKEE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Lunskee.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Lunskee.png
 glyphwave: 1
 youtube:
 twitch: https://twitch.tv/lunskee

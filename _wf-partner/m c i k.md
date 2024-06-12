@@ -2,7 +2,7 @@
 layout: cc
 title: M.C.I.K
 glyphname: M C I K
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MCIK.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MCIK.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCkJEIR72YkzCe79fcx-cYgQ
 twitch: https://twitch.tv/colejamesofficial

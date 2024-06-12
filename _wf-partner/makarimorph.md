@@ -2,7 +2,7 @@
 layout: cc
 title: Makarimorph
 glyphname: MAKARIMORPH
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Makarimorph.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Makarimorph.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCdQNX6vC8D_yLWCaDkC0rfQ
 twitch: https://twitch.tv/makarimorph

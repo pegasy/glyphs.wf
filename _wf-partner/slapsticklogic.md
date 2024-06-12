@@ -2,7 +2,7 @@
 layout: cc
 title: SlapstickLogic
 glyphname: SLAPSTICKLOGIC
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Slapsticklogic.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Slapsticklogic.png
 glyphwave: 4
 youtube:
 twitch: https://twitch.tv/slapsticklogic

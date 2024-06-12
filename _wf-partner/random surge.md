@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph: 700
 title: RandomSurge
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RandomSurge.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RandomSurge.png
 glyphwave: 12
 youtube:
 twitch: https://twitch.tv/randomsurge

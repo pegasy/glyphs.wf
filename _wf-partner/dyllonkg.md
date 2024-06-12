@@ -2,7 +2,7 @@
 layout: cc
 title: Dyllonkg
 glyphname: DYLLONKG
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Gooperatives.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Gooperatives.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/gooperatives

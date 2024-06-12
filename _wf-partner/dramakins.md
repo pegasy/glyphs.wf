@@ -2,7 +2,7 @@
 layout: cc
 title: Dramakins
 glyphname: DRAMAKINS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Dramakins.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Dramakins.png
 glyphwave: 8
 youtube:
 twitch: https://twitch.tv/dramakins

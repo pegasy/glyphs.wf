@@ -2,7 +2,7 @@
 layout: cc
 title: Original Wicked Fun
 glyphname: ORIGINALWICKEDFUN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OriginalWickedfun.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/OriginalWickedfun.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCP8e1KBXS5xxhf4Yy9j_geg
 twitch: https://twitch.tv/wickedjecht

@@ -2,7 +2,7 @@
 layout: cc
 title: A_H_R
 glyphname: A H R
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AHR.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AHR.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCbjoOzfn6qfCGPmlzPSkCsA
 twitch: https://twitch.tv/A_H_R

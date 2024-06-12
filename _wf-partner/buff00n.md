@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Buff00n
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Buff00n.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Buff00n.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCSh6NP08gueUDMMdj1iHimg
 twitch:

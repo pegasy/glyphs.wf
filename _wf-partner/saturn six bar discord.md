@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: SaturnSixBarDiscord
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SaturnSixBarDiscord.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SaturnSixBarDiscord.png
 glyphwave: 26
 youtube: https://www.youtube.com/channel/UC4jcfIULIlJ53BCvcpRB7Cw
 twitch: https://www.twitch.tv/saturnsixthbar

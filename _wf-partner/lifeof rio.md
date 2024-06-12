@@ -2,7 +2,7 @@
 layout: cc
 title: Life of Rio
 glyphname: LIFEOF RIO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LifeOfRio.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LifeOfRio.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCJvvxReyeGXxoqnpB8kQvUA
 twitch: https://twitch.tv/lifeofrio

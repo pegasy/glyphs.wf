@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Miabyte
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Superxinvader.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Superxinvader.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/miabyte

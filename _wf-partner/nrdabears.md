@@ -2,7 +2,7 @@
 layout: cc
 title: NRDabears
 glyphname: NRDABEARS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/NRDabears.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/NRDabears.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCeXezVU6A4Q1Oo13AdAoqYw
 twitch: https://twitch.tv/nrdabears

@@ -2,7 +2,7 @@
 layout: cc
 title: Rundas342
 glyphname: RUNDAS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Rundas.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Rundas.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCWAc83azv0xACa4vpnfU1Fw
 twitch: https://twitch.tv/rundas

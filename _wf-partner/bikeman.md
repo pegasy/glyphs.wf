@@ -2,7 +2,7 @@
 layout: cc
 title: Bikeman
 glyphname: BIKEMAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bikeman.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Bikeman.png
 glyphwave: 7
 youtube:
 twitch:

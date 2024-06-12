@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Ashi
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ashi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Ashi.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UC6qn993JIovV7shjLpd8iig
 twitch: https://twitch.tv/ashi

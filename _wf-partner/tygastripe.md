@@ -2,7 +2,7 @@
 layout: cc
 title: Tygastripe
 glyphname: TYGASTRIPE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Tygastripe.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Tygastripe.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCYtLoEsfp4AawVX0y4simWQ
 twitch: https://twitch.tv/tygastripe

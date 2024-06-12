@@ -2,7 +2,7 @@
 layout: cc
 title: Rageypoo
 glyphname: RAGEYPOO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ragey.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Ragey.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCHo2bwdmDyGnc9rEH1w3wxw
 twitch: https://twitch.tv/rageypoo

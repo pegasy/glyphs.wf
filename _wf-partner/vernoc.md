@@ -2,7 +2,7 @@
 layout: cc
 title: Vernoc
 glyphname: VERNOC
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Vernoc.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Vernoc.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCp30RX-VJFBBgtBFrU5UXYA
 twitch: https://twitch.tv/vernoc

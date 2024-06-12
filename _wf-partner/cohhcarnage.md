@@ -5,7 +5,7 @@ global-glyph-code: COHHCARNAGE
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: CohhCarnage
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CohhCarnage.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CohhCarnage.png
 glyphwave: 15
 youtube:
 twitch: https://twitch.tv/CohhCarnage

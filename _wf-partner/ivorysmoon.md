@@ -2,7 +2,7 @@
 layout: cc
 title: IvorysMoon
 glyphname: IVORYSMOON
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/IvorysMoon.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/IvorysMoon.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/ivorysmoon

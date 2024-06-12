@@ -6,7 +6,7 @@ global-glyph-code: ASHISOGITENNO
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Ashisogi Tenno
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Ashisogitenno.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Ashisogitenno.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UCMOvZM11t-dJaD-0gDbg4sg
 twitch: https://twitch.tv/ashisogi_tenno

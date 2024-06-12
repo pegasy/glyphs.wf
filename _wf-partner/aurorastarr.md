@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: AuroraStarr
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AuroraStarr.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AuroraStarr.png
 glyphwave: 17
 youtube:
 twitch: https://twitch.tv/aurorastarr

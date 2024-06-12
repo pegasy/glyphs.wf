@@ -5,7 +5,7 @@ global-glyph-code: ENDOTTI
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Endotti
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Endotti.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Endotti.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCdoJy3bMyVthhhSwoXzlg_A
 twitch: https://twitch.tv/endotti

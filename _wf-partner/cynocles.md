@@ -2,7 +2,7 @@
 layout: cc
 title: Cynocles
 glyphname: CYNOCLES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ChrisIsHD.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ChrisIsHD.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCU2Ij3bQ0YgN1fYHWsx6Zdw
 twitch: https://twitch.tv/Cynocles

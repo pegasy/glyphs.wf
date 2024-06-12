@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Jandoncom
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Jandoncom.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Jandoncom.png
 glyphwave: 11
 youtube:
 twitch: https://twitch.tv/jandoncom

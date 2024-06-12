@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: French Community Discord
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FRCommunityDiscord.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FRCommunityDiscord.png
 glyphwave: 21
 youtube:
 twitch: https://twitch.tv/warframe_fr

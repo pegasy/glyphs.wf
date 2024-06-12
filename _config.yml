@@ -5,6 +5,7 @@ author:
 description: For all your glyph seeking needs
 url: https://glyphs.wf
 baseDataUrl: https://data.glyphs.wf
+baseAssetsUrl: https://browse.wf
 baseurl:
 
 google_analytics: UA-113492652-1

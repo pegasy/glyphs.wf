@@ -2,7 +2,7 @@
 layout: cc
 title: Relli5000
 glyphname: RELLI5000
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Relli5Thousand.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Relli5Thousand.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/relli5000

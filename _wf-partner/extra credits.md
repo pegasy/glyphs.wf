@@ -6,7 +6,7 @@ global-glyph-code: EXTRACREDITS
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: ExtraCredits
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Extracredits.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Extracredits.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg
 twitch: https://twitch.tv/extracredits

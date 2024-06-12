@@ -2,7 +2,7 @@
 layout: cc
 title: ProfessorBroman
 glyphname: PROFESSORBROMAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ProfessorBroman.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ProfessorBroman.png
 glyphwave: 7
 youtube:
 twitch:

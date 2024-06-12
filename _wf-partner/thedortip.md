@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TheDorTip
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TheDorTip.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TheDorTip.png
 glyphwave: 10
 youtube: https://www.youtube.com/channel/UCgg2rFcXdVAO7knAN33yFIg
 twitch: https://twitch.tv/thedortip

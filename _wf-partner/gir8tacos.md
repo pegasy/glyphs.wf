@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: GiR8Tacos
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Gir8Tacos.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Gir8Tacos.png
 glyphwave: 13
 youtube:
 twitch: https://twitch.tv/gir8tacos

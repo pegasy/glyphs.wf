@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: WalterDV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/WalterDV.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/WalterDV.png
 glyphwave: 27
 youtube: https://www.youtube.com/channel/UCfHYCL_Bwtvg_HB4s3zX5vQ
 twitch: https://twitch.tv/walterrdv

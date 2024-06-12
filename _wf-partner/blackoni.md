@@ -5,7 +5,7 @@ global-glyph-code: BLACKONI
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Blackoni
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BlackOni.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BlackOni.png
 glyphwave: 13
 youtube:
 twitch: https://twitch.tv/blackoni

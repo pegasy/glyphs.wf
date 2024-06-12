@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TheLadyEgo
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TheLadyEgo.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TheLadyEgo.png
 glyphwave: 18
 youtube:
 twitch: https://twitch.tv/theladyego

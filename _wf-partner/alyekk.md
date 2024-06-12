@@ -2,7 +2,7 @@
 layout: cc
 title: alyekk
 glyphname: ALYEKK
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Alyekk.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Alyekk.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/alyek

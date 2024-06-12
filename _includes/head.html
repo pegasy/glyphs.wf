@@ -1,7 +1,7 @@
 <head>
   {% assign imageUrl = '/assets/images/icon.png' %}
   {% assign cssUrl = '/css/main.css?v=' | append: site.github.build_revision | relative_url | append: '8' %}
-  {% if page.glyphurl %}{% assign imageUrl = site.baseDataUrl | append: '/latest/' | append: page.glyphurl %}{% endif %}
+  {% if page.glyphurl %}{% assign imageUrl = site.baseAssetsUrl | append: page.glyphurl %}{% endif %}
   {% assign desc = site.description %}
   {% if page.glyphurl %}{% assign desc = page.content | strip_html %}{% endif %}
   {% if page.global-glyph-code %}{% assign desc = 'Click link to get global code' %}{% endif %}
@@ -11,6 +11,7 @@
   <title>{{ page.title | site.title }}</title>
   <script>
     const BaseDataUrl = "{{ site.baseDataUrl }}";
+    const BaseAssetsUrl = "{{ site.baseAssetsUrl }}";
   </script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js" integrity="sha512-YSdqvJoZr83hj76AIVdOcvLWYMWzy6sJyIMic2aQz5kh2bPTd9dzY3NtdeEAzPp/PhgZqr4aJObB3ym/vsItMg==" crossorigin="anonymous"></script>
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous"></script>

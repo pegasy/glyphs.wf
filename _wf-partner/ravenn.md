@@ -2,7 +2,7 @@
 layout: cc
 title: RavenN
 glyphname: RAVENN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RaVeNZ.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RaVeNZ.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCs0u-yJpbJc3zwYbVENUzHQ
 twitch: https://twitch.tv/onlyravenntv

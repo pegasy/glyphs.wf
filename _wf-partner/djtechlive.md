@@ -2,7 +2,7 @@
 layout: cc
 title: DjTechLive
 glyphname: DJTECHLIVE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DJTechlive.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DJTechlive.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCoZv9QVVjgiEwzDMVEazpPg
 twitch: https://twitch.tv/djtechlive

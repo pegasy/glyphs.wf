@@ -2,7 +2,7 @@
 layout: cc
 title: FrameFace Xenogelion
 glyphname: XENOGELION
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Xenogelion.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Xenogelion.png
 glyphwave: 2
 youtube: https://www.youtube.com/channel/UCklKSHzWsDN8T-NZwaWwbOw
 twitch: https://twitch.tv/xenogelion2

@@ -2,7 +2,7 @@
 layout: cc
 title: ShadowFoxx086
 glyphname: SHADOWFOXX086
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ShadowFoxx086.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ShadowFoxx086.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/shadowfox

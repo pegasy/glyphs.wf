@@ -6,7 +6,7 @@ global-glyph-code: SARAHTSANG
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Sarah Tsang
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sarahtsang.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Sarahtsang.png
 glyphwave: 21
 youtube:
 twitch: https://twitch.tv/sarahtsang

@@ -2,7 +2,7 @@
 layout: cc
 title: H3dsh0t
 glyphname: H3DSH0T
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/H3dsh0t.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/H3dsh0t.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCo4fHIsEEW4TubX6rO8STYQ
 twitch: https://twitch.tv/h3dsh0t

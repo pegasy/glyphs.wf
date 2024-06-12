@@ -2,7 +2,7 @@
 layout: cc
 title: LittleNavi
 glyphname: LITTLENAVI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LittleNavi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LittleNavi.png
 glyphwave: 8
 youtube:
 twitch: https://twitch.tv/littlenavi_

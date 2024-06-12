@@ -2,7 +2,7 @@
 layout: cc
 title: Tenno Clock News
 glyphname: TCN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TCN.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TCN.png
 glyphwave: 4
 youtube:
 twitch: https://twitch.tv/tgdm

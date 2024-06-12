@@ -2,7 +2,7 @@
 layout: cc
 title: Lil_Lexi
 glyphname: LIL LEXI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LilLexi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LilLexi.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCAalGFso9y0v7l7yAw397_g
 twitch: https://twitch.tv/lil_lexi

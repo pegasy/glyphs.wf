@@ -5,7 +5,7 @@ global-glyph-code: LEYZARGAMINGVIEWS
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: LeyzarGaming
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LeyzarViewGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LeyzarViewGaming.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCXeubDV2dwI-V9FO9oiDu3A
 twitch: https://twitch.tv/leyzargamingviews

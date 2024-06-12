@@ -2,7 +2,7 @@
 layout: cc
 title: VoltTheHero
 glyphname: VOLTTHEHERO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/VoltTheHero.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/VoltTheHero.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC4rRzEaisREb5WR_Ly3VXZg
 twitch: https://twitch.tv/voltthehero

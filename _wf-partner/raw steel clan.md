@@ -2,7 +2,7 @@
 layout: cc
 title: Raw Steel
 glyphname: RAW STEEL CLAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RawSteelClan.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RawSteelClan.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC4egXFnATlh4NIcHbafe4yQ
 twitch: https://twitch.tv/rawsteelclan

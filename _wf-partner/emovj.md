@@ -5,7 +5,7 @@ global-glyph-code: EMOVJ
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: EMOVJ
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Emovj.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Emovj.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCnn5ijgQMURLHCqZA_L5O0A
 twitch: https://twitch.tv/emovj

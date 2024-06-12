@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: streamingdownunder
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/StreamingDownUnder.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/StreamingDownUnder.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCP8RhMjq8n6wgbSF9U44ajQ
 twitch: https://twitch.tv/streamingdownunder

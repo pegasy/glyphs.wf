@@ -2,7 +2,7 @@
 layout: cc
 title: DimitriV2
 glyphname: DIMITRIV2
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DimitriV2.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DimitriV2.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCNGiRpufdCrzkUKHEYM7JMw
 twitch: https://twitch.tv/dimitriv2

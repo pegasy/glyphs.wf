@@ -5,7 +5,7 @@ global-glyph-code: MADFURY
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Hypercaptai
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Hypercaptai.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Hypercaptai.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/dobratv

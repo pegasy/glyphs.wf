@@ -2,7 +2,7 @@
 layout: cc
 title: DogManDan
 glyphname: DOGMANDAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DogManDan.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DogManDan.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UC0tdq2qhDDTtbxIOFJtmRhg
 twitch: https://twitch.tv/officialdogmandan

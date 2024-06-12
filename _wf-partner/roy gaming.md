@@ -2,7 +2,7 @@
 layout: cc
 title: Roy Gaming
 glyphname: ROY GAMING
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RoyGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RoyGaming.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCUKEdxP_t9LeyvGow34wsLg
 twitch:

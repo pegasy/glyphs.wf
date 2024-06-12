@@ -2,7 +2,7 @@
 layout: cc
 title: DKDiamantes
 glyphname: DKDIAMANTES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DKDiamantes.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DKDiamantes.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCplH8OQuZ2KcmdZbhWEAdwQ
 twitch: https://twitch.tv/dkdiamantes

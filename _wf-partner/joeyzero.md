@@ -2,7 +2,7 @@
 layout: cc
 title: JoeyZero
 glyphname: JOEYZERO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/JoeyZero.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/JoeyZero.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCQlJXJGd0Sjz9LT1btQ1pLw
 twitch: https://twitch.tv/joeyzerotv

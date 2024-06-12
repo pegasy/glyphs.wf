@@ -2,7 +2,7 @@
 layout: cc
 title: Bwana
 glyphname: BWANA
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bwana.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Bwana.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCiQO7vpveX6KSzDsINR4Xjw
 twitch: https://twitch.tv/bwana

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Crusader
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Crusader.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Crusader.png
 glyphwave: 11
 youtube:
 twitch: https://twitch.tv/crusader

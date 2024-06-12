@@ -5,7 +5,7 @@ global-glyph-code: MICHELPOSTMA
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Michel Postma
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TheNextLevel.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TheNextLevel.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCTm88xDDE2ctpJfqHiiL4dw
 twitch: https://twitch.tv/michelpostma

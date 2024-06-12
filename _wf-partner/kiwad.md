@@ -2,7 +2,7 @@
 layout: cc
 title: Kiwad
 glyphname: KIWAD
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Kiwad.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Kiwad.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCg9OBbllVxS63QVDNG76uwA
 twitch: https://twitch.tv/kiwad

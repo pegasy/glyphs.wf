@@ -2,7 +2,7 @@
 layout: cc
 title: Althanithenoble
 glyphname: ALTHANITHENOBLE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Althani.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Althani.png
 glyphwave: 4
 youtube:
 twitch: https://twitch.tv/althanithenoble

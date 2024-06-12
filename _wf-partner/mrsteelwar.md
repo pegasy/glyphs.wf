@@ -2,7 +2,7 @@
 layout: cc
 title: MrSteelWar1337
 glyphname: MRSTEELWAR
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrSteelWar.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MrSteelWar.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCLtJwLdxIOAA1uEDAnCcUxA
 twitch: https://twitch.tv/steelwar1337

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: DADxGOTxGAME
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DadXGotXGame.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DadXGotXGame.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCF3B-5KKZf9SfpviozS2rbg
 twitch: https://twitch.tv/dadgotgametv

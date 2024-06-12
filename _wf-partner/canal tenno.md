@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Canal Tenno
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CanalTenno.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CanalTenno.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UCW1q8IESWc_Z2I76t3ZrAZA
 twitch:

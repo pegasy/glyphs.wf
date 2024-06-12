@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Avelna
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Avelna.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Avelna.png
 glyphwave: 24
 youtube: https://www.youtube.com/channel/UC52a64XPWbgtbuxbsVKGPug
 twitch:

@@ -2,7 +2,7 @@
 layout: cc
 title: DeejayKnight
 glyphname: DEEJAYKNIGHT
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DeejayKnight.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DeejayKnight.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/deejayknight

@@ -5,7 +5,7 @@ global-glyph-code: TEAWREX
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Teawrex
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Teawrex.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Teawrex.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCqSxQErf1aJk4u1xFqLQsSw
 twitch: https://twitch.tv/teawrex

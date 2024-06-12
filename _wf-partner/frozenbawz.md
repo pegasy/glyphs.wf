@@ -2,7 +2,7 @@
 layout: cc
 title: Frozenbawz
 glyphname: FROZENBAWZ
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Frozenbawz.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Frozenbawz.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCS3wXLKaX6Xc4HYGdYbzupg
 twitch: https://twitch.tv/frozenballz

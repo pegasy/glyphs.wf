@@ -2,7 +2,7 @@
 layout: cc
 title: FluffyMiracle
 glyphname: FLUFFY MIRACLE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FluffyMiracle.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FluffyMiracle.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/fluffy_miracle

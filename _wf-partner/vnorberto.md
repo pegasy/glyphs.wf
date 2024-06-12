@@ -2,7 +2,7 @@
 layout: cc
 title: Norbert Veres
 glyphname: VNORBERTO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Vnorberto.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Vnorberto.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCodzCmPTmrsfBO7BXiQUjYA
 twitch: https://twitch.tv/vnorberto

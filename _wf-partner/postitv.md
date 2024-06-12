@@ -6,7 +6,7 @@ global-glyph-code: POSTITV
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: PostiTV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PostiTV.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/PostiTV.png
 glyphwave: 19
 youtube: https://www.youtube.com/channel/UC6Tbqk7oVgDRy9ef6F63vbA
 twitch: https://www.twitch.tv/postitv

@@ -5,7 +5,7 @@ global-glyph-code: BRICKY
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: BrickyOrchid8
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bricky.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Bricky.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCqdcfoz9hDXCXbJDaklkwjQ
 twitch: https://twitch.tv/bricky

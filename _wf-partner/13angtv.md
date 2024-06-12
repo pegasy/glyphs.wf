@@ -2,7 +2,7 @@
 layout: cc
 title: 13angTv
 glyphname: 13ANGTV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/13angTV.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/13angTV.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/13angtv

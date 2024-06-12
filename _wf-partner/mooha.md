@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Mooha
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Mooha.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Mooha.png
 glyphwave: 18
 youtube: https://www.youtube.com/channel/UCSx5huENQFeWD-HjCNhSNZA
 twitch: https://twitch.tv/mooha

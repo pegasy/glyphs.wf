@@ -2,7 +2,7 @@
 layout: cc
 title: Tenno Defton
 glyphname: TENNO DEFTON
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Tdefton.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Tdefton.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCbEYPbHTU6bVTzh9MHn4M9Q
 twitch: https://twitch.tv/tdefton

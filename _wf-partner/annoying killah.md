@@ -2,7 +2,7 @@
 layout: cc
 title: Annoying Killah
 glyphname: ANNOYING KILLAH
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AnnoyingKillah.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AnnoyingKillah.png
 glyphwave: 5
 youtube: https://www.youtube.com/channel/UCSkjPuFTNLq8u4f5gDmxcSw
 twitch: https://twitch.tv/annoying_killah

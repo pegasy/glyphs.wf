@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Old gamer Seven
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OldGamer.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/OldGamer.png
 glyphwave: 13
 youtube: https://www.youtube.com/channel/UC4JkPxnfGAPzZVW29ImQ_hA
 twitch: https://twitch.tv/oldgamersiete

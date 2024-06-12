@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Brianna Kane
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BriannaKane.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BriannaKane.png
 glyphwave: 25
 youtube:
 twitch: https://twitch.tv/briannakane

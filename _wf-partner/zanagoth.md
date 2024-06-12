@@ -2,7 +2,7 @@
 layout: cc
 title: Zanagoth
 glyphname: ZANAGOTH
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Zanagoth.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Zanagoth.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCDhvFvWP-3TPba52Apt_2Pw
 twitch: https://twitch.tv/zanagoth

@@ -2,7 +2,7 @@
 layout: cc
 title: GorillaWolfGaming
 glyphname: GORILLAWOLFGAMING
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GorillaWolfGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GorillaWolfGaming.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCcWxpSY_ykJ8crmHjoGSY5Q
 twitch: https://twitch.tv/gorillawolfgaming

@@ -6,7 +6,7 @@ global-glyph-code: DILLYFRAME
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Dilly Frame
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DillyFrame.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DillyFrame.png
 glyphwave: 21
 youtube:
 twitch:

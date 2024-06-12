@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: El canal de Juno
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ElCanaldeRow.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ElCanaldeRow.png
 glyphwave: 6
 twitter: https://twitter.com/JunoRow
 discord: https://discord.gg/tfEBz9D

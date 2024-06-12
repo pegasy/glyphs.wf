@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Harcos Magyarok Warframe
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/HarcosMagyarokWarframe.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/HarcosMagyarokWarframe.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCXw34gpJrC4LgXSQdBlU8-A
 twitch: https://twitch.tv/wfuji

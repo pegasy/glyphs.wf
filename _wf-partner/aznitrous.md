@@ -6,7 +6,7 @@ global-glyph-code: AZNITROUS
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Aznitrous
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Aznitrous.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Aznitrous.png
 glyphwave: 27
 youtube:
 twitch: https://twitch.tv/aznitrous

@@ -2,7 +2,7 @@
 layout: cc
 title: Leonel GM
 glyphname: LEONELGM
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/LeonelGM.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/LeonelGM.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UC0MoIa6mkc5emQ0rGbzn9cw
 twitch: https://twitch.tv/leonelgm

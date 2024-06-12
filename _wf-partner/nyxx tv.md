@@ -2,7 +2,7 @@
 layout: cc
 title: NyXx_tv
 glyphname: NYXX TV
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Nyxxtv.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Nyxxtv.png
 glyphwave: 8
 youtube:
 twitch: https://twitch.tv/nyxx_tv

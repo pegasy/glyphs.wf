@@ -2,7 +2,7 @@
 layout: cc
 title: AdikDarkCero
 glyphname: ADIKDARKCERO
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AdikDarkCero.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AdikDarkCero.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCjYIE8Qg2gGqMxlkfZSDULw
 twitch: https://twitch.tv/adikdarkcero

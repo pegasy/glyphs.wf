@@ -2,7 +2,7 @@
 layout: cc
 title: SherpaRage
 glyphname: SHERPARAGE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SherpaRage.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SherpaRage.png
 glyphwave: 5
 youtube: https://www.youtube.com/channel/UCsgbl1VU_PFucB5kuNe6Ing
 twitch: https://twitch.tv/sherparage

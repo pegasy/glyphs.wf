@@ -6,7 +6,7 @@ global-glyph-code: SN0WRC
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Sn0wRC
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sn0wRC.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Sn0wRC.png
 glyphwave: 22
 youtube:
 twitch: https://twitch.tv/sn0wrc

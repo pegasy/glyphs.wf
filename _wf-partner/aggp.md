@@ -2,7 +2,7 @@
 layout: cc
 title: AgayGuyplays
 glyphname: AGGP
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AGGP.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AGGP.png
 glyphwave: 1
 youtube: https://www.youtube.com/channel/UCvGa_xpJct3pLv-lK3qHnoQ
 twitch: https://twitch.tv/agayguyplays

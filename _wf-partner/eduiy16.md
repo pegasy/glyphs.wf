@@ -2,7 +2,7 @@
 layout: cc
 title: Eduiy16
 glyphname: EDUIY16
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Eduiy16.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Eduiy16.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UC-BIEXRTfgLty4jIWtuIPbw
 twitch: https://twitch.tv/eduiy16

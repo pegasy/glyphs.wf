@@ -2,7 +2,7 @@
 layout: cc
 title: Tanchan
 glyphname: TANCHAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Tanchan.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Tanchan.png
 glyphwave: 2
 youtube: https://www.youtube.com/channel/UCguglrdXb4zidGeuzPtYNuA
 twitch: https://twitch.tv/tanchancicuta

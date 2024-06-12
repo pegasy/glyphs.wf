@@ -2,7 +2,7 @@
 layout: cc
 title: TotalN3wb
 glyphname: TOTALN3WB
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TotalN3wb.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TotalN3wb.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/totaln3wb

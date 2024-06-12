@@ -2,7 +2,7 @@
 layout: cc
 title: Smashley
 glyphname: SMASHLEY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Smashley.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Smashley.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCFDM5PEBt6_YQ8tG7EaS5hw
 twitch: https://twitch.tv/smashley

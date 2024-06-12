@@ -5,7 +5,7 @@ global-glyph-code: WANDERBOTS
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Wanderbots
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Wanderbots.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Wanderbots.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UC2wac-sRkNMPSFEnaOHCL3g
 twitch: https://twitch.tv/wanderbot

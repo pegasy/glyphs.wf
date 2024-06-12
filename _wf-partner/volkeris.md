@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Volkeris5k
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Volkeris.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Volkeris.png
 glyphwave: 11
 youtube:
 twitch: https://twitch.tv/volkeris5k

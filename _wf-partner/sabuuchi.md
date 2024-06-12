@@ -2,7 +2,7 @@
 layout: cc
 title: Sabuuchi
 glyphname: SABUUCHI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sabuuchi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Sabuuchi.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UC71VEEy4Y6JVtF6GhIJ_-PQ
 twitch: https://twitch.tv/sabuuchi

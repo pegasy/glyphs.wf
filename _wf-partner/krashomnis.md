@@ -2,7 +2,7 @@
 layout: cc
 title: KrashOmnis
 glyphname: KRASHOMNIS
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/KrashOmnis.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/KrashOmnis.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC20ymRBBnBJ-U2peNIeIV3g
 twitch: https://twitch.tv/krashomnis

@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Yantzi
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Yantzi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Yantzi.png
 glyphwave: 10
 youtube: https://www.youtube.com/channel/UCbHfZ4WSnLJSA38FF8bFXug
 twitch: https://twitch.tv/yantzi

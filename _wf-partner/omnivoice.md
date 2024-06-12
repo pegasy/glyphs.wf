@@ -2,7 +2,7 @@
 layout: cc
 title: Omni Voice
 glyphname: OMNIVOICE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OmniVoice.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/OmniVoice.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCxUVIJKUOw5PtGSbhFMXJGw
 twitch:

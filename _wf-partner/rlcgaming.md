@@ -2,7 +2,7 @@
 layout: cc
 title: RLCGaming
 glyphname: RLCGAMING
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/RLCGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/RLCGaming.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UClyqnN5fswKIPqNwIYk2VkQ
 twitch: https://twitch.tv/rlcgaming

@@ -6,7 +6,7 @@ global-glyph-code: TIORAMON
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TioRamon
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TioRamon.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TioRamon.png
 glyphwave: 18
 youtube:
 twitch: https://twitch.tv/tioramon

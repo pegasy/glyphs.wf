@@ -5,7 +5,7 @@ global-glyph-code: LYNXARIA
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Lynxaria
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Lynxaria.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Lynxaria.png
 glyphwave: 12
 youtube:
 twitch: https://twitch.tv/lynxaria

@@ -2,7 +2,7 @@
 layout: cc
 title: UnrealYuki
 glyphname: UNREALYUKI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/UnrealYuki.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/UnrealYuki.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/unrealyuki

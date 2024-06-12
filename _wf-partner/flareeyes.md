@@ -2,7 +2,7 @@
 layout: cc
 title: Flare Eyes
 glyphname: FLAREEYES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FlareEyes.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FlareEyes.png
 glyphwave: 1
 youtube:
 twitch: https://twitch.tv/flare_eyes

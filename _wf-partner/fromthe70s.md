@@ -2,7 +2,7 @@
 layout: cc
 title: FromThe70s
 glyphname: FROMTHE70S
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FromThe70s.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FromThe70s.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/fromthe70s

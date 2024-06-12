@@ -2,7 +2,7 @@
 layout: cc
 title: s0lstep
 glyphname: S0LSTEP
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/S0lstep.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/S0lstep.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCpJCvqTjjsTBg-v92YJHuNg
 twitch: https://twitch.tv/s0lstep

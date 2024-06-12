@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TennoHelp
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TennoHelp.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TennoHelp.png
 glyphwave: 27
 youtube:
 twitch:

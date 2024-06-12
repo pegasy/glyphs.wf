@@ -2,7 +2,7 @@
 layout: cc
 title: k0yi
 glyphname: K0YI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/K0yi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/K0yi.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCOuOTQMmuNJdyzze-yTS5nA
 twitch: https://twitch.tv/k0yi

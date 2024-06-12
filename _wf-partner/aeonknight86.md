@@ -2,7 +2,7 @@
 layout: cc
 title: AeonKnight86
 glyphname: AEONKNIGHT86
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AeonKnight.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AeonKnight.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC4km95HbSAkV04aax4Db2DQ
 twitch: https://twitch.tv/aeonknight86

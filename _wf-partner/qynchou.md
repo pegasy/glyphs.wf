@@ -2,7 +2,7 @@
 layout: cc
 title: Qynchou
 glyphname: QYNCHOU
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Qynchou.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Qynchou.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC937xh5fYZTDd5hoFzfM94w
 twitch: https://twitch.tv/qynchou

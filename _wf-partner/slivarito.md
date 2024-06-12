@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Slivarito
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Slivarito.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Slivarito.png
 glyphwave: 14
 youtube:
 twitch: https://twitch.tv/slivarito

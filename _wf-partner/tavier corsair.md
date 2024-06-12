@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered: yes
 stream-currency-needed-for-glyph:
 title: Tavier Corsair
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TavierCorsair.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TavierCorsair.png
 glyphwave: 11
 youtube: https://www.youtube.com/channel/UC4crGRGgCaiNm3bBc51YAhA
 twitch: https://twitch.tv/taviercorsair

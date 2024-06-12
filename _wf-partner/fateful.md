@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: FatefulYT
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/FatefulYT.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/FatefulYT.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCG8lrsumCNX0oCo6sA4U5Dw
 twitch: https://twitch.tv/fateful

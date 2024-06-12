@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: StrongArmy
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/StrongArmy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/StrongArmy.png
 glyphwave: 18
 youtube: https://www.youtube.com/channel/UCk7tpmGjMX1nGmjOa2V_hBg
 twitch: https://twitch.tv/baldman

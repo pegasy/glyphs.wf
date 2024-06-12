@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Punch_l1ne
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PunchL1ne.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/PunchL1ne.png
 glyphwave: 25
 youtube:
 twitch: https://twitch.tv/punch_l1ne

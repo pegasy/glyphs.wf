@@ -2,7 +2,7 @@
 layout: cc
 title: xOGx Skeezy
 glyphname: XOGXSKEEZY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/XOGxSkeezy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/XOGxSkeezy.png
 glyphwave: 7
 youtube:
 twitch: https://twitch.tv/skeez

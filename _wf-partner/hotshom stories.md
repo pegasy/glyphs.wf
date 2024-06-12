@@ -2,7 +2,7 @@
 layout: cc
 title: Hots'Hom Stories
 glyphname: HOTS'HOM STORIES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/HotsHomStories.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/HotsHomStories.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCZkq39Y0w8s3pD1AwTnQgKg
 twitch: https://twitch.tv/hotshom

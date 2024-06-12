@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Aungelecette
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Aungelecette.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Aungelecette.png
 glyphwave: 19
 youtube:
 twitch: https://www.twitch.tv/aungelecette

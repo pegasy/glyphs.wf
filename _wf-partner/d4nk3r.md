@@ -2,7 +2,7 @@
 layout: cc
 title: D4NK3R
 glyphname: D4NK3R
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCANi2rQYSLwaH6TTaLs3gCw
 twitch:

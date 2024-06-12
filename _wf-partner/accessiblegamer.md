@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: AccessibleGamer
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/AccessibleGamer.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/AccessibleGamer.png
 glyphwave: 14
 youtube:
 twitch: https://twitch.tv/accessiblegamer

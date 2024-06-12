@@ -5,7 +5,7 @@ global-glyph-code: POKKETNINJA
 currently-partnered:
 stream-currency-needed-for-glyph: 30000
 title: PokketNinja
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PokketNinja.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/PokketNinja.png
 glyphwave: 12
 youtube: https://www.youtube.com/channel/UC0GscLgRnv8dqIMxDZytZGw
 twitch: https://twitch.tv/pokketninja

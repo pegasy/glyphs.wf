@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: BadNewsBaron
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BadNewsBaron.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BadNewsBaron.png
 glyphwave: 16
 youtube:
 twitch: https://twitch.tv/badnewsbaron

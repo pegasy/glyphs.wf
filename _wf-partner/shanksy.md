@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Shanksy
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Shanksy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Shanksy.png
 glyphwave: 16
 youtube:
 twitch: https://twitch.tv/shanksy

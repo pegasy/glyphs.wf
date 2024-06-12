@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: ReclaimJoey
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ReclaimJoey.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ReclaimJoey.png
 glyphwave: 17
 youtube:
 twitch: https://www.twitch.tv/reclaimjoey

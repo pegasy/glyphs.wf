@@ -2,7 +2,7 @@
 layout: cc
 title: KingKacchi
 glyphname: KINGKACCHI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Kacchi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Kacchi.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCNgSZzvPJL4goZuVgUFhFew
 twitch: https://twitch.tv/kingkacchi90

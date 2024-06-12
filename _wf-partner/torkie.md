@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Torkie
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Torkie.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Torkie.png
 glyphwave: 18
 youtube: https://www.youtube.com/channel/UCACW7csCjdNni0t-qzeE_KQ
 twitch: https://twitch.tv/torkietv

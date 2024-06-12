@@ -5,7 +5,7 @@ global-glyph-code: IWOPLY
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Iwoply
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Iwoply.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Iwoply.png
 glyphwave: 16
 youtube: https://www.youtube.com/channel/UCa0YFfBIDXLW_SuaR1zGHdA
 twitch: https://twitch.tv/iwoply

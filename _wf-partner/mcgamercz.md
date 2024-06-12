@@ -2,7 +2,7 @@
 layout: cc
 title: MCGamerCZ
 glyphname: MCGAMERCZ
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MCGamerCZ.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MCGamerCZ.png
 glyphwave: 8
 youtube: https://www.youtube.com/channel/UCbv6z1qCD7-a6wLMQaddthA
 twitch: https://twitch.tv/mcgamercz

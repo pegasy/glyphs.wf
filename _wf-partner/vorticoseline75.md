@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: VorticoseLine75
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Vorticoseline.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Vorticoseline.png
 glyphwave: 20
 youtube: https://www.youtube.com/channel/UCU44KtranhbMszyKI0IhhLA
 twitch: https://twitch.tv/vorticoseline75

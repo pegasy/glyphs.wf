@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: KingWolby
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/KingWolby.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/KingWolby.png
 glyphwave: 18
 youtube:
 twitch: https://twitch.tv/kingwolby

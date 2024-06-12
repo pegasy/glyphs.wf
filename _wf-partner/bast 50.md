@@ -2,7 +2,7 @@
 layout: cc
 title: Bast_50
 glyphname: BAST 50
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Bast50.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Bast50.png
 glyphwave: 9
 youtube:
 twitch: https://twitch.tv/bast_50

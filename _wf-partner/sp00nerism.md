@@ -2,7 +2,7 @@
 layout: cc
 title: Sp00nerism
 glyphname: SP00NERISM
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Sp00nerism.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Sp00nerism.png
 glyphwave: 7
 youtube:
 twitch:

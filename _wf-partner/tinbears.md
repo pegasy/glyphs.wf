@@ -6,7 +6,7 @@ global-glyph-code: TINBEARS
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: TinBears
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/TinBears.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/TinBears.png
 glyphwave: 22
 youtube: https://www.youtube.com/channel/UCianSRrr9mgohmbEtEJGtEQ
 twitch: https://twitch.tv/tinbears

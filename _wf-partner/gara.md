@@ -2,7 +2,7 @@
 layout: cc
 title: Gara
 glyphname: GARA
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Gara.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Gara.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCTFejWhiO3nnzecmml_Vzew
 twitch: https://twitch.tv/gara_bezimennii

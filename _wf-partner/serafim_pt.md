@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: serafim_pt
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SerafimPT.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SerafimPT.png
 glyphwave: 14
 youtube:
 twitch: https://twitch.tv/serafim_pt

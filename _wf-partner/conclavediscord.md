@@ -6,7 +6,7 @@ global-glyph-code: CONCLAVEDISCORD
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: CONCLAVEDISCORD
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ConclaveDiscord.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ConclaveDiscord.png
 glyphwave:
 youtube:
 twitch:

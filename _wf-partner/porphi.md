@@ -2,7 +2,7 @@
 layout: cc
 title: Porphi
 glyphname: PORPHI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Porphi.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Porphi.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCp3o3tiQdDAWELiQnOwX37g
 twitch:

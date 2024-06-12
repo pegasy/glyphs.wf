@@ -2,7 +2,7 @@
 layout: cc
 title: HynkardSector
 glyphname: HYNKARDSECTOR
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/HynkardSector.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/HynkardSector.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCz0V2sC_NHoOai92TTTdmEg
 twitch:

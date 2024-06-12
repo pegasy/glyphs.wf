@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Etainted
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Etainted.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Etainted.png
 glyphwave: 23
 youtube:
 twitch: https://twitch.tv/etainted

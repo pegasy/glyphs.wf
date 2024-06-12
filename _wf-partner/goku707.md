@@ -2,7 +2,7 @@
 layout: cc
 title: Goku 707
 glyphname: GOKU707
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Goku70seven.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Goku70seven.png
 glyphwave: 7
 youtube:
 twitch: https://www.twitch.tv/Goku7o7

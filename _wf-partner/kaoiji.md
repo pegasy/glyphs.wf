@@ -2,7 +2,7 @@
 layout: cc
 title: Kaoiji
 glyphname: KAOIJI
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Kaoiji.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Kaoiji.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UC6TRhd56NaDFRzaHlQjjRIg
 twitch: https://twitch.tv/kaoiji

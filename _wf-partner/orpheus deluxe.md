@@ -6,7 +6,7 @@ global-glyph-code: ORPHEUSDELUXE
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: OrpheusDeluxe
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OrpheusDeluxe.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/OrpheusDeluxe.png
 glyphwave: 27
 youtube: https://www.youtube.com/channel/UCyJrIG9y6NDyIqUvcyUEDVw
 twitch: https://twitch.tv/orpheusdeluxe

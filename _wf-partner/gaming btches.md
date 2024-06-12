@@ -2,7 +2,7 @@
 layout: cc
 title: Gamingb*tches
 glyphname: GAMING B*TCHES
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/GamingBitches.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/GamingBitches.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCzOgk6rXRIoq3supZHPv7qg
 twitch:

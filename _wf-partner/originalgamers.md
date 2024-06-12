@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: OriginalGamers
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/OriginalGamers.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/OriginalGamers.png
 glyphwave: 16
 youtube:
 twitch: https://twitch.tv/originalgamerslive

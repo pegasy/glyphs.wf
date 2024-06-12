@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Capt_Walker
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CaptWalker.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CaptWalker.png
 glyphwave: 12
 youtube:
 twitch: https://twitch.tv/captwalker_1

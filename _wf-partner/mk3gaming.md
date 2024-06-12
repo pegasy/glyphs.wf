@@ -2,7 +2,7 @@
 layout: cc
 title: MK3 Gaming
 glyphname: MK3GAMING
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MK3Gaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MK3Gaming.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCq6OpjJCt3FpMK1ZWXNsPKw
 twitch:

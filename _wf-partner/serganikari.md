@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered: 8000
 stream-currency-needed-for-glyph:
 title: SerganIkari
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/SerganIkari.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/SerganIkari.png
 glyphwave: 16
 youtube:
 twitch: https://twitch.tv/serganikari

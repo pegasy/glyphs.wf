@@ -2,7 +2,7 @@
 layout: cc
 title: Castielix
 glyphname: CASTIELIX
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CASTiELiX.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/CASTiELiX.png
 glyphwave: 3
 youtube: https://www.youtube.com/channel/UCrxJRjYm4JDy7bPisntemHA
 twitch: https://twitch.tv/castielix

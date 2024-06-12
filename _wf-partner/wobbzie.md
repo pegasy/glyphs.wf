@@ -2,7 +2,7 @@
 layout: cc
 title: Wobbzie
 glyphname: WOBBZIE
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Wobbzie.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Wobbzie.png
 glyphwave: 4
 youtube:
 twitch: https://twitch.tv/wobbzie

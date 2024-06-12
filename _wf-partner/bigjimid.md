@@ -2,7 +2,7 @@
 layout: cc
 title: BigJimID
 glyphname: BIGJIMID
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/BigJimID.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/BigJimID.png
 glyphwave: 4
 youtube: https://www.youtube.com/channel/UCtUM3T7jQtxM6xBZ96nzExw
 twitch:

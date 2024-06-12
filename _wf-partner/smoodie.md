@@ -6,7 +6,7 @@ global-glyph-code: SMOODIE
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Smoodie
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Smoodie.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Smoodie.png
 glyphwave: 16
 youtube: https://www.youtube.com/channel/UC0edzimmIL5Ttld5EmZJf_w
 twitch: https://twitch.tv/smoodie

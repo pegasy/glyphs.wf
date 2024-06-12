@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Vladislava_Lynx
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/VladislavaLynx.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/VladislavaLynx.png
 glyphwave: 9
 youtube: https://www.youtube.com/channel/UCvqjJuRzn8QdU2sRtibzV1A
 twitch: https://twitch.tv/vladislava_lynx

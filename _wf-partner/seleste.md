@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph: 30000
 title: Seleste
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Seleste.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Seleste.png
 glyphwave: 17
 youtube: https://www.youtube.com/channel/UCWyAHrh2aKkwB7zyVlkWFFw
 twitch: https://twitch.tv/Seleste

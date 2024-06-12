@@ -6,7 +6,7 @@ global-glyph-code: CHAR
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Char
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Char.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Char.png
 glyphwave: 18
 youtube:
 twitch: https://twitch.tv/char

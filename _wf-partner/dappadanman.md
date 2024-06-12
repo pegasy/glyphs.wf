@@ -2,7 +2,7 @@
 layout: cc
 title: DappaDanMan
 glyphname: DAPPADANMAN
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/DappaDanMan.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/DappaDanMan.png
 glyphwave: 6
 youtube: https://www.youtube.com/channel/UCWBtE9T-CFzWNMWQqIN8O3g
 twitch: https://twitch.tv/dappadanman

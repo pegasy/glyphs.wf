@@ -2,7 +2,7 @@
 layout: cc
 title: NoSympathyy
 glyphname: NOSYMPATHYY
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/NoSympathyy.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/NoSympathyy.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UCM7zlfo3IOQ3agy4IR_Ezag
 twitch: https://twitch.tv/NoSympathyy

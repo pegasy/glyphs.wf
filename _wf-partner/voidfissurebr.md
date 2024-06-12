@@ -5,7 +5,7 @@ global-glyph-code: VOIDFISSUREBR
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: VoidFissure
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/VoidFissureBR.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/VoidFissureBR.png
 glyphwave: 14
 youtube: https://www.youtube.com/channel/UCrgv5haPvhNUSzCG9hPgdIA
 twitch:

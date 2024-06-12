@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: ArgonSix
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ArgonSix.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ArgonSix.png
 glyphwave: 13
 youtube:
 twitch: https://twitch.tv/argonsix

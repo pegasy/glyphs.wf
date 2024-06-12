@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: PixelReboot
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/PixelReboot.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/PixelReboot.png
 glyphwave: 18
 youtube: https://www.youtube.com/channel/UCFuw4hkfO3vsyd76qhyXc2w
 twitch: https://twitch.tv/pixelreboot

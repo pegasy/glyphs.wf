@@ -5,7 +5,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: MrMorgenstern
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/MrMorgenstern.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/MrMorgenstern.png
 glyphwave: 10
 youtube:
 twitch: https://twitch.tv/mrmorgenstern

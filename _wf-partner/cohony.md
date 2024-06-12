@@ -6,7 +6,7 @@ global-glyph-code:
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: Cohony
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/Cohony.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/Cohony.png
 glyphwave: 21
 youtube: https://www.youtube.com/channel/UC541du9ANEW8S17IyGtcpjw
 twitch: https://twitch.tv/cohony

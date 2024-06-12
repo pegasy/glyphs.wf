@@ -2,7 +2,7 @@
 layout: cc
 title: KingGothalion
 glyphname: KINGGOTHALION
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/KingGothalion.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/KingGothalion.png
 glyphwave: 7
 youtube:
 twitch:

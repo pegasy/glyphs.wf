@@ -2,7 +2,7 @@
 layout: cc
 title: Shul
 glyphname: SHUL
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ShulGaming.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ShulGaming.png
 glyphwave: 3
 youtube:
 twitch: https://twitch.tv/shul

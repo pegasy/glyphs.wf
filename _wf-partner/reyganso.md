@@ -6,7 +6,7 @@ global-glyph-code: REYGANSO
 currently-partnered:
 stream-currency-needed-for-glyph:
 title: ReyGanso
-glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/ReyGanso.png
+glyphurl: /Lotus/Interface/Icons/Player/ContentCreators/ReyGanso.png
 glyphwave: 18
 youtube:
 twitch: https://twitch.tv/reyganso
